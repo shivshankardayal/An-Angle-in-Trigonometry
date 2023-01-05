@@ -1535,4 +1535,151 @@ Inverse Circular Functions Solutions
 
      :math:`\Rightarrow x = \tan\frac{\pi}{12} = \frac{\sqrt{3} - 1}{\sqrt{3} + 1} = 2 - \sqrt{3}`
 
-127.
+127. Given :math:`\theta = \tan^{-1}\frac{x\sqrt{3}}{2k - x}` and :math:`\phi = \tan^{-1}\frac{2x - k}{k\sqrt{3}}`.
+
+     :math:`\theta - \phi = \tan^{-1}\frac{\frac{x\sqrt{3}}{2k - x} - \frac{2x - k}{k\sqrt{3}}}{1 + \frac{x}{k}.\frac{2x - k}{2k -
+     x}}`
+
+     :math:`= \tan^{-1}\frac{1}{\sqrt{3}}.\frac{2k^2 + 2x^2 - 2kx}{2k^2 + 2x^2 - 2kx}`
+
+     If :math:`2x^2 + 2k^2 - 2kx\neq 0` then :math:`\theta - \phi = \tan^{-1}\frac{1}{\sqrt{3}} = \frac{\pi}{6}`
+
+128. Given :math:`\tan^{-1}x + \cos^{-1}\frac{y}{\sqrt{1 + y^2}} = \sin^{-1}\frac{3}{\sqrt{10}}`
+
+     :math:`\Rightarrow \tan^{-1}\frac{1}{y} = \tan^{-1}3 - \tan^{-1}x`
+
+     :math:`\Rightarrow \frac{1}{y} = \frac{3 - x}{1 + 3x}`
+
+     :math:`y = \frac{1 + 3x}{3 - x}`
+
+     Clearly, for :math:`x \geq 3` there can be no solution as :math:`y` becomes infinity and negative for those values.
+
+     When :math:`x = 1, y = 2` and when :math:`x = 2, y = 7`.
+
+129. Given equation is an identity except for range. For :math:`\sin^{-1}s\sqrt{1 - x^2}` range is :math:`\left[-\frac{\pi}{2},
+     \frac{\pi}{2}\right]`
+
+     For :math:`2\cos^{-1}x` range is :math:`[0, 2\pi]` so common range is :math:`\left[0, \frac{\pi}{2}\right]`
+
+     :math:`\Rightarrow 0 \leq 2\cos^{-1}x \leq \frac{\pi}{2}`
+
+     :math:`\Rightarrow \frac{1}{\sqrt{2}}\leq x \leq 1`, since :math:`\cos` is a decreasing function, so inequality is reversed.
+
+130. We have to solve :math:`\sin^{-1}\frac{x}{\sqrt{1 + x^2}} - \sin^{-1}\frac{1}{\sqrt{1 + x^2}} = \sin^{-1}\frac{1 + x}{1 +
+     x^2}`
+
+     :math:`\Rightarrow \sin^{-1}\frac{x^2 - 1}{1 + x^2} = \sin^{-1}\frac{1 + x}{1 + x^2}`
+
+     :math:`\Rightarrow x^2 - x - 2 = 0 \Rightarrow x = -1, 2`
+
+     However, the equation is not satisfied for :math:`x = -1` hence :math:`x = 2` is the required solution.
+
+131. Given equation is :math:`y = 2\tan^{-1}\left[\sqrt{\frac{a - b}{a + b}}\tan\frac{x}{2}\right] - \cos^{-1}\left[\frac{b +
+     a\cos x}{a + b\cos x}\right]`
+
+     R.H.S. :math:`= \tan^{-1}\frac{2\sqrt{\frac{a - b}{a + b}}\tan\frac{x}{2}}{1 - \frac{a - b}{a + b}\tan^2\frac{x}{2}} -
+     \tan^{-1}\frac{\sqrt{a^2 - b^2}\sin x}{b + a\cos x}`
+
+     :math:`= \tan^{-1}\frac{2\sqrt{a^2 - b^2}\tan\frac{x}{2}}{(a + b) - (a - b)\tan^2\frac{x}{2}} - \tan^{-1}\frac{2\sqrt{a^2 -
+     b^2}\tan\frac{x}{2}}{(a + b) - (a - b)\tan^2\frac{x}{2}}`
+
+     :math:`= 0` which is a constant provided :math:`a \geq b > 0`
+
+
+132. :math:`tan^{-1}\frac{2i}{2 + i^2 + i^4} = \\tan^{-1}(i^2 + i + 1) - \tan^{-1}(i^2 - i + 1)`
+
+     Subtituting :math:`i = 1,` R.H.S. `= \tan^{-1}3 - \tan^{-1}1`
+
+     Subtituting :math:`i = 2,` R.H.S. `= \tan^{-1}7 - \tan^{-1}3`
+
+     Subtituting :math:`i = 3,` R.H.S. `= \tan^{-1}13 - \tan^{-1}7`
+
+     :math:`\ldots`
+
+     Subtituting :math:`i = n - 1,` R.H.S. `= \tan^{-1}(n^2 - n + 1) - \tan^{-1}(n^2 - 3n + 3)`
+
+     Subtituting :math:`i = n,` R.H.S. `= \tan^{-1}(n^2 + n + 1) - \tan^{-1}(n^2 - n + 1)`
+
+     Adding, we get :math:`\sum_{i=1}^{n}\tan^{-1}\frac{2i}{2 + i^2 + i^4} = \tan^{-1}(n^2 + n + 1) - \tan^{-1}1`
+
+     :math:`= \tan^{-1}\frac{n^2 + n}{n^2 + n + 2}`
+
+133. :math:`t_n = \cot^{-1}\left(n^2 + \frac{3}{4}\right) = \cot^{-1}\left(\frac{4n^2 + 3}{4}\right)`
+
+     :math:`= \tan^{-1}\frac{1}{1 + n^4 - \frac{1}{4}} = \frac{\left(n + \frac{1}{2}\right) - \left(n - \frac{1}{2}\right)}{1 +
+     \left(n + \frac{1}{2}\right)\left(n - \frac{1}{2}\right)}`
+
+     :math:`= \tan^{-1}\left(n + \frac{1}{2}\right) - \tan^{-1}\left(n - \frac{1}{2}\right)`
+
+     Putting :math:`n = 1, t_1 = \tan^{-1}\frac{3}{2} - \tan^{-1}\frac{1}{2}`
+
+     Putting :math:`n = 2, t_2 = \tan^{-1}\frac{5}{2} - \tan^{-1}\frac{3}{2}`
+
+     :math:`\ldots`
+
+     Putting :math:`n = \infty, t_\infty = \tan^{-1}\left(\infty + \frac{1}{2}\right) - \tan^{-1}\left(\infty - \frac{1}{2}\right)`
+
+     Adding, we get :math:`S = \tan^{-1}\left(\infty + \frac{1}{2}\right) - \tan^{-1}\frac{1}{2}`
+
+     :math:`= \frac{\pi}{2} - \tan^{-1}\frac{1}{2} = \cot^{-1}\frac{1}{2} = \tan^{-1}2`
+
+134. We know that :math:`\tan^{-1}x + \cot^{-1}x = \frac{\pi}{2}`
+
+     So given equation can be written as :math:`(\tan^{-1}x + \cot^{-1}x) - 2\tan^{-1}x\left(\frac{\pi}{2} - \tan^{-1}x\right) =
+     \frac{5\pi^2}{8}`
+
+     :math:`\Rightarrow 2(\tan^{-1}x) - \pi\tan^{-1}x - \frac{3\pi^2}{8} = 0`
+
+     :math:`\Rightarrow \tan^{-1}x = -\frac{\pi}{4}, \frac{3\pi}{4} \Rightarrow x = -1`
+
+135. :math:`(\sin^{-1}x + \cos^{-1}x)^3 = (\sin^{-1}x + \cos^{-1}x)[(\sin^{-1}x + \cos^{-1}x)^2 - 3\sin^{-1}x\cos^{-1}x]`
+
+     :math:`= \frac{\pi}{2}\left[\frac{\pi^2}{4} - 3\sin^{-1}x\left(\frac{\pi}{2} - \sin^{-1}x\right)\right]`
+
+     :math:`= \frac{3\pi}{2}\left[\left(\sin^{-1}x - \frac{\pi}{4}\right)^2 + \frac{\pi^2}{48}\right]`
+
+     Least value of :math:`\sin^{-1} - \frac{\pi}{4} = 0` and greatest value is :math:`\frac{3\pi}{4}`
+
+     Hence greatest and least values of the required expression are :math:`\frac{7\pi^3}{8}` and :math:`\frac{\pi^2}{32}`.
+
+136. Let :math:`\cos^{-1}x = a \in [0, \pi]` and :math:`\sin^{-1}y = b \in\left[-\frac{\pi}{2}, \frac{\pi}{2}\right]`
+
+     We have :math:`a + b^2 = \frac{p\pi^2}{4}` and :math:`ab^2 = \frac{\pi^4}{16}`
+
+     Since :math:`b^2\in [0, \pi^2/4]`, we get :math:`a + b^2 \in [0, \pi + \pi^2/4]`
+
+     :math:`\Rightarrow 0 \leq \frac{p\pi^2}{4}\leq \pi + \frac{\pi^2}{4}`
+
+     :math:`\Rightarrow 0\leq p\leq \frac{4}{\pi} + 1`
+
+     So :math:`p = 0, 1, 2`
+
+     :math:`\Rightarrow a\left(\frac{p\pi^2}{4} - a\right) = \frac{\pi^2}{16}`
+
+     Since :math:`a\in R \Rightarrow D\geq 0`
+
+     :math:`p^2 \geq 4\Rightarrow p = 2`
+
+137. Given :math:`\tan^{-1}x, \tan^{-1}y, \tan^{-1}z` are in A.P.
+
+     :math:`\Rightarrow 2\tan^{-1}y = \tan^{-1}x + \tan^{-1}z`
+
+     :math:`\Rightarrow \frac{2y}{1 - y^2} = \frac{x + z}{1 - xz}`
+
+     If :math:`x, y, z` are in A.P. :math:`2y = x + z`
+
+     :math:`\Rightarrow 1 - \frac{(x + z)^2}{4} = 1 - xz`
+
+     :math:`\Rightarrow (x - z)^2 = 0 \Rightarrow x = y = z`
+
+138. :math:`t_n = \tan^{-1}\frac{x}{1 + n(n + 1)x^2} = \tan^{-1}(n + 1)x - \tan^{-1}nx`
+
+     :math:`t_1 = \tan^{-1}2x - \tan^{-1}x`
+
+     :math:`t_2 = \tan^{-1}3x - \tan^{-1}2x`
+
+     :math:`\ldots`
+
+     :math:`t_n = \tan^{-1}(n + 1)x - \tan^{-1}nx`
+
+     Adding, we get :math:`S = \tan^{-1}(n + 1)x - \tan^{-1}x = \tan^{-1}\frac{nx}{1 + (n + 1)x^2} =` R.H.S.

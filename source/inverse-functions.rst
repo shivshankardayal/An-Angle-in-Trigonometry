@@ -547,19 +547,21 @@ Find the value of the following:
 127. If :math:`\theta = \tan^{-1}\frac{x\sqrt{3}}{2k - x}` and :math:`\phi = \tan^{-1}\frac{2x - k}{k\sqrt{3}},` show that one
      value of :math:`\theta - \phi` is :math:`\pi/6.`
 128. Find all positive integral solutions of the equation :math:`\tan^{-1}x + \cos^{-1}\frac{y}{\sqrt{1 + y^2}} =
-     \sin^{-1}\frac{3}{\sqrt{10}}`
+     \sin^{-1}\frac{3}{\sqrt{10}}`.
 
 129. Solve the equation :math:`2\cos^{-1}x = \sin^{-1}2x\sqrt{1 - x^2}`
 130. Solve :math:`\sin^{-1}\frac{x}{\sqrt{1 + x^2}} - \sin^{-1}\frac{1}{\sqrt{1 + x^2}} = \sin^{-1}\frac{1 + x}{1 + x^2}`
 131. Show that the function :math:`y = 2\tan^{-1}\left[\sqrt{\frac{a - b}{a + b}}\tan\frac{x}{2}\right] - \cos^{-1}\left[\frac{b +
-     a\cos x}{a + b\cos x}\right]` is a constant for :math:`0 < n \leq a,` find the value of this constant for :math:`x\geq 0.`
+     a\cos x}{a + b\cos x}\right]` is a constant for :math:`0 < b \leq a,` find the value of this constant for :math:`x\geq 0.`
 132. Find the sum :math:`\sum_{i = 1}^n\tan^{-1}\frac{2i}{2 + i^2 + i^4}.`
 133. Find the sum of infinite terms of the series :math:`\cot^{-1}\left(1^2 + \frac{3}{4}\right) + \cot^{-1}\left(2^2 +
      \frac{3}{4}\right) + \cot^{-1}\left(3^3 + \frac{3}{4}\right) +\ldots`
 134. Solve for :math:`x` the equation :math:`(\tan^{-1}x)^2 + (\cot^{-1}x)^2 = \frac{5\pi^2}{8}`
-135. Find the number of solutions of the equation :math:`|y| = \sin x` and :math:`y = \cos^{-1}\cos x` where :math:`-2\pi\leq x\leq
-     2x`
-136. Show that the greatest and the least values of :math:`(\sin^{-1}x)^3 + (\cos^{-1}x)^3` are :math:`\frac{7\pi^3}{8}` and
+135. Show that the greatest and the least values of :math:`(\sin^{-1}x)^3 + (\cos^{-1}x)^3` are :math:`\frac{7\pi^3}{8}` and
      :math:`\frac{\pi^2}{32}` respectively.
-137. Obtain the integral values of :math:`p` for which the following system of equations possesses real solution
+136. Obtain the integral values of :math:`p` for which the following system of equations possesses real solution
      :math:`\cos^{-1}x + (\sin^{-1}y)^2 = \frac{p\pi^2}{4}` and :math:`(\cos^{-1}x)(\sin^{-1}y)^2 = \frac{\pi^2}{16}.`
+137. If :math:`\tan^{-1}x, \tan^{-1}y, \tan^{-1}z` be in A.P., find the algebraic relation between :math:`x, y` and :math:`z`.
+     If :math:`x, y, z` be in A.P. prove that :math:`x = y = z`.
+138. Show that for :math:`x > 0, \tan^{-1}\frac{x}{1 + 1.2x^2} + \tan^{-1}\frac{x}{1 + 2.3x^2} + \ldots +
+     \tan^{-1}\frac{x}{1 + n(n + 1)x^2} = \tan^{-1}\frac{nx}{1 + (n + 1)x^2}`
