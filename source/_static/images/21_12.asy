@@ -1,4 +1,4 @@
-settings.outformat = "png";
+settings.outformat = "pdf";
 defaultpen(fontsize(14pt));
 import geometry;
 

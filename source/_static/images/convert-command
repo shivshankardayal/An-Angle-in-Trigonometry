@@ -1,1 +1,1 @@
-convert -density 144 -background white -alpha remove -colorspace RGB 16_1_4.pdf 16_1_4.png
+convert -density 384 -background white -alpha remove -colorspace RGB 

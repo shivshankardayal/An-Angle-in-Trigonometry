@@ -165,7 +165,7 @@ Value of :math:`\tan 18^\circ` and :math:`\tan 72^\circ`
 :math:`\tan 18^\circ = \frac{\sin18^\circ}{\cos18^\circ} = \frac{\sqrt{5} - 1}{\sqrt{10 + 2\sqrt{5}}}`
 
 :math:`\tan18^\circ\cot18^\circ = 1\Rightarrow \tan72^\circ = \frac{1}{\tan18^\circ} = \frac{\sqrt{10 + 2\sqrt{5}}}{\sqrt{5} - 1}`
-
+x
 Value of :math:`\cos 36^\circ` and :math:`\sin 54^\circ`
 --------------------------------------------------------
 :math:`\cos 36^\circ = 1 - 2\sin^218^\circ = 1 - 2\left(\frac{\sqrt{5} - 1}{4}\right)^2`
