@@ -12,7 +12,7 @@ one of the reasons why I never did a masters course. Enough of personal
 rant. Let us get on with the actual work.
 
 Trigonomtery is probably one of the most fundamental subjects in Mathematics as
-further study of subjects like coordinate geometry, 3D and 2D geometry, engineerring
+further study of subjects like coordinate geometry, 3D and 2D geometry, engineering
 and rest all depend on it. It is very important to understand
 trigonometry for the readers if they want to advance further in mathematics.
 

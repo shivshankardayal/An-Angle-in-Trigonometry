@@ -45,7 +45,7 @@ the angle to the direction of the other.
 Angle in Trigonometry
 =====================
 Angles are more generalized in Trigonometry. They can have positive or negative
-values. As was the case in gerometry, similarly angles are measured in
+values. As was the case in geometry, similarly angles are measured in
 Trigonometry. The starting and ending positions of revolving rays are
 called initial side and terminal side respectively. The revolving half line is
 called the generating line or the radius vector. For example, if :math:`OA` and
