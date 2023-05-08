@@ -1,8 +1,8 @@
 settings.outformat = "pdf";
-defaultpen(fontsize(6pt));
+defaultpen(fontsize(14pt));
 import geometry;
 
-size(3cm);
+size(8cm);
 
 pair a = (0, 0);
 pair b = (30, 0);
