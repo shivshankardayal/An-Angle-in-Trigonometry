@@ -187,8 +187,8 @@ Height and Distance Solutions Part 1
 
 15. The diagram is given below:
 
-   .. image:: _static/images/28_14.png
-      :alt: 14th problem
+   .. image:: _static/images/28_15.png
+      :alt: 15th problem
       :align: center
 
    :math:`AB` is the tower. When the sun's altittude is :math:`45^\circ` the shadow reached :math:`C`. When the shadow reached the
@@ -200,4 +200,28 @@ Height and Distance Solutions Part 1
    In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{h}{x + 10}\Rightarrow h = \frac{10}{\sqrt{3} - 1} = 13.66`
    meters.
 
-16.
+16. The diagram is given below:
+
+   .. image:: _static/images/28_16.png
+      :alt: 16th problem
+      :align: center
+
+   This problem is same as previous problem, where :math:`10` m is replaced by :math:`1` km. Processing similarly, we obtain
+   :math:`h = 1.366` km.
+
+17. The diagram is given below:
+
+   .. image:: _static/images/28_17.png
+      :alt: 17th problem
+      :align: center
+
+   This problem is same as two previous problems. The height of the mountain is :math:`5.071` km.
+
+18. The diagram is given below:
+
+   .. image:: _static/images/28_18.png
+      :alt: 18th problem
+      :align: center
+
+   This problem is same as :math:`11`-th. Proceeding similarly, we find width of river as :math:`20` m and height of the tree as
+   :math:`20\sqrt{3}` m.

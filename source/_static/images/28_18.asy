@@ -21,7 +21,7 @@ label("$A$", a, align=SW, 0.7*green);
 label("$B$", b, align=N, 0.7*green);
 label("$C$", c, align=S, 0.7*green);
 label("$D$", d, align=S, 0.7*green);
-label("$20~m$", (c + d)/2, align=S, 0.7*green);
+label("$40~m$", (c + d)/2, align=S, 0.7*green);
 label("$x$", (c + a)/2, align=S, 0.7*green);
 label("$h$", (b + a)/2, align=W, 0.7*green);
 
