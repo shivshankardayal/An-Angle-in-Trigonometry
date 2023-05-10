@@ -407,4 +407,29 @@ Height and Distance Solutions Part 1
 
    Thus, total height of first tower is :math:`\frac{140}{\sqrt{3}} + 60` m.
 
-31.
+31. The diagram is given below:
+
+   .. image:: _static/images/28_31.png
+      :alt: 31st problem
+      :align: center
+
+   Let :math:`AD` be the horizontal ground. Let :math:`AB` and :math:`AC` be the heights at which planes are flying. Given
+   :math:`AC = 4000` m. Also, given are angles of elevation of the two aeroplanes. Let point of observation be :math:`D` and
+   :math:`AD = b` m.
+
+   In :math:`\triangle ACD, \tan60^\circ = \sqrt{3} = \frac{AC}{AD}\Rightarrow b = \frac{4000}{\sqrt{3}}` m.
+
+   In :math:`\triangle ABD, \tan45^\circ = 1 = \frac{AB}{AD} \Rightarrow AB = b = \frac{4000}{\sqrt{3}}` m.
+
+   Therefore, distance between heights of two planes :math:`= 4000.\frac{\sqrt{3} - 1}{\sqrt{3}}` m.
+
+32. The diagram is given below:
+
+   .. image:: _static/images/28_32.png
+      :alt: 32nd problem
+      :align: center
+
+   Let :math:`BC` be the tower where :math:`B` is the foot of the toewr. Let :math:`A` be the point of observation. Given
+   :math:`\angle BAC = 60^\circ`.
+
+   In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{BC}{AB} \Rightarrow BC = 20\sqrt{3}` m.
