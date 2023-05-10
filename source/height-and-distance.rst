@@ -134,7 +134,8 @@ Problems
 
 27. A man standing on the deck of a ship, which is :math:`10` m above the water level. He observes that the angle of elevation of
     the top of the hill as :math:`60^\circ` and the angle of depression of the base of the hill as :math:`30^\circ`. Calculate the
-    distance of the hill from from the ship and the height of the hill.
+    distance of the hill from from the ship and the height of the hill. Given that level of water is in the same line with base
+    of the hill.
 
 28. The angle of elevation of a jet plane from a point :math:`A` on the ground in :math:`60^\circ`. After a flight of :math:`30`
     seconds the angle of elevation changes to :math:`30^\circ`. If the jet plane is flying at a constant height of
