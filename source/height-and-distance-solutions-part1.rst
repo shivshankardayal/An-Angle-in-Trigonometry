@@ -433,3 +433,47 @@ Height and Distance Solutions Part 1
    :math:`\angle BAC = 60^\circ`.
 
    In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{BC}{AB} \Rightarrow BC = 20\sqrt{3}` m.
+
+33. The diagram is given below:
+
+   .. image:: _static/images/28_33.png
+      :alt: 33rd problem
+      :align: center
+
+   Let :math:`BC` be the wall and :math:`AC` the ladder. Given distance of the foot of the ladder is :math:`9.5` m away from the
+   wall i.e. :math:`AB = 9.5` m. The angle of elevation is given as :math:`\angle BAC = 60^\circ`.
+
+   In :math:`\triangle ABC, \cos60^\circ = \frac{1}{2} = \frac{AB}{AC} \Rightarrow AC = 19` m.
+
+34. The diagram is given below:
+
+   .. image:: _static/images/28_34.png
+      :alt: 34th problem
+      :align: center
+
+   Let :math:`BC` be the wall and :math:`AC` the ladder. Given distance of the foot of the ladder is :math:`2` m away from the
+   wall i.e. :math:`AB = 2` m. The angle of elevation is given as :math:`\angle BAC = 60^\circ`.
+
+   In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{BC}{AC} \Rightarrow BC = 2\sqrt{3}` m.
+
+35. The diagram is given below:
+
+   .. image:: _static/images/28_35.png
+      :alt: 35th problem
+      :align: center
+
+   Let :math:`BC` be the electric pole, having a height of :math:`10` m. Let :math:`AC` be the length of wire. The angle of
+   elevation is given as :math:`\angle BAC=45^\circ`.
+
+   In :math:`\triangle ABC, \sin45^\circ = \frac{1}{\sqrt{2}} = \frac{BC}{AC} \Rightarrow AC = 10\sqrt{2}` m.
+
+36. The diagram is given below:
+
+   .. image:: _static/images/28_36.png
+      :alt: 36th problem
+      :align: center
+
+   Let :math:`BC` represent the height of kite. Given :math:`BC = 75` m. Let :math:`AC` represent the length of the string. The
+   angle of elevation is given as :math:`60^\circ`.
+
+   In :math:`\triangle ABC, \sin60^\circ = \frac{\sqrt{3}}{2} = \frac{BC}{AC} \Rightarrow AC = 50\sqrt{3}` m.
