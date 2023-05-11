@@ -633,4 +633,9 @@ Height and Distance Solutions Part 1
       :align: center
 
    Let :math:`AB` be the building with height :math:`10` m. Let :math:`BC` be the flag with height :math:`h` m. Also, let distance
-   between :math:`P` and foot of the building as :math:`AP = x` m.
+   between :math:`P` and foot of the building as :math:`AP = x` m. The angle of elevation of top of the building is
+   :math:`30^\circ` and that of the flag is :math:`45^\circ`.
+
+   In :math:`\triangle ABP, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{AB}{AP} = \frac{10}{x} \Rightarrow x = 10\sqrt{3}` m.
+
+   In :math:`\triangle ACP, \tan45^\circ = 1 = \frac{AC}{AP} = \frac{10 + h}{x} \Rightarrow h = 10(\sqrt{3} - 1)` m.

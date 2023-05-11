@@ -38,6 +38,7 @@ An Angle in Trigonometry
    inverse-functions-solutions
    height-and-distance
    height-and-distance-solutions-part1
+   height-and-distance-solutions-part2
 
 
 Indices and tables
