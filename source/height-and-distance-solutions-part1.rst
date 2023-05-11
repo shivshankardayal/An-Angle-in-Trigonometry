@@ -477,3 +477,160 @@ Height and Distance Solutions Part 1
    angle of elevation is given as :math:`60^\circ`.
 
    In :math:`\triangle ABC, \sin60^\circ = \frac{\sqrt{3}}{2} = \frac{BC}{AC} \Rightarrow AC = 50\sqrt{3}` m.
+
+37. The diagram is given below:
+
+   .. image:: _static/images/28_37.png
+      :alt: 37th problem
+      :align: center
+
+   Let :math:`BC` represent the wall and :math:`AC` the ladder. Given that the length of ladder is :math:`15` m. The angle of
+   elevation of the wall from foot of the tower is given as :math:`60^\circ \Rightarrow \angle BAC = 60^\circ`.
+
+   In :math:`\triangle ABC, \sin60^\circ = \frac{\sqrt{3}}{2} = \frac{BC}{AC} \Rightarrow BC = \frac{15\sqrt{3}}{2}` m.
+
+38. The diagram is given below:
+
+   .. image:: _static/images/28_38.png
+      :alt: 38th problem
+      :align: center
+
+   Let :math:`BC` be the tower and :math:`CD` be the flag staff, the heights of which are to be found. Let :math:`A` be the point
+   of obsevation. Given that :math:`AB = 70` m. The angle of elevation of the foot and the top of flag staff are given as
+   :math:`45^\circ` and :math:`60^\circ` i.e. :math:`\angle BAC = 45^\circ` and :math:`\angle BAD = 60^\circ`.
+
+   In :math:`\triangle ABC, \tan45^\circ = 1 = \frac{BC}{AB} \Rightarrow BC = 70` m, which is height of the tower.
+
+   In :math:`\triangle ABD, \tan60^\circ = \sqrt{3} = \frac{BD}{AB} \Rightarrow BD = 70\sqrt{3}` m, which is combined height of
+   tower and flag staff. Thus, :math:`CD = 70(\sqrt{3} - 1)` m, which is height of flag staff.
+
+39. This problem is same as 12. Put :math:`15` instead of :math:`12`.
+
+40. The diagram is given below:
+
+   .. image:: _static/images/28_40.png
+      :alt: 40th problem
+      :align: center
+
+   Let :math:`AB` be the tower and :math:`BC` the flag staff, whose height is :math:`5` m. Let :math:`D` be the point of
+   observation. Given that angle of elevation of the foot of the flag staff is :math:`30^\circ` and that of top is
+   :math:`60^\circ` i.e. :math:`\angle ADB = 30^\circ` and :math:`\angle ADC = 60^\circ`. Let :math:`AB = h` m and :math:`AD =
+   x` m.
+
+   In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{h}{x} \Rightarrow x = \sqrt{3}h` m.
+
+   In :math:`\triangle ACD, \tan60^\circ = \sqrt{3} = \frac{h + 5}{x} \Rightarrow h = 2.5~{\rm m}, x = 2.5\sqrt{3}` m.
+
+41. This problem is same as 15. Put :math:`50` m instead of :math:`10` m and :math:`60^\circ` instead of :math:`45^\circ`.
+
+42. This problem is similar to 15. Put :math:`45^\circ` instead of :math:`30^\circ` and :math:`60^\circ` instead of
+    :math:`30^\circ`.
+
+43. The diagram is given below:
+
+   .. image:: _static/images/28_43.png
+      :alt: 43rd problem
+      :align: center
+
+   Let :math:`AB` be the current height of the skydiver as :math:`h` m. :math:`C` and :math:`D` are two points observed at angle of
+   depression :math:`45^\circ` and :math:`60^\circ` which woule be equal to angle of elevation from these points. Given that
+   :math:`CD = 100` m. Let :math:`AC = x` m.
+
+   In :math:`\triangle ABD, \tan45^\circ = 1 = \frac{AB}{AD} = \frac{h}{x + 100} \Rightarrow h = x + 100` m.
+
+   In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{AB}{AC} = \frac{h}{x} \Rightarrow h = \sqrt{3}x` m.
+
+   :math:`\Rightarrow x = \frac{100}{\sqrt{3} - 1}, h = \frac{100\sqrt{3}}{\sqrt{3} - 1}` m.
+
+44. The diagram is given below:
+
+   .. image:: _static/images/28_44.png
+      :alt: 44th problem
+      :align: center
+
+   Let :math:`AB` be the tower having a height of :math:`150` m. Let :math:`C` and :math:`D` be the points observed such that
+   :math:`\angle ADB = 45^\circ` and :math:`\angle ACB = 60^\circ`. Let :math:`AC = y` m and :math:`CD = x` m. We have to find
+   :math:`x`.
+
+   In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{AB}{AC} = \frac{150}{y} \Rightarrow y = 50\sqrt{3}` m.
+
+   In :math:`\triangle ABD, \tan45^\circ = 1 = \frac{AB}{AD} = \frac{150}{x + y}\Rightarrow x = 150 - 50\sqrt{3}` m.
+
+45. The diagram is given below:
+
+   .. image:: _static/images/28_45.png
+      :alt: 45th problem
+      :align: center
+
+   Let :math:`AB` be the towerr having a height of :math:`h` m. Let :math:`C` and :math:`D` be the points observed such that
+   :math:`\angle ADB = 30^\circ` and :math:`\angle ACB = 60^\circ`. Let :math:`AC = x` m. Given :math:`CD = 150` m.
+
+   In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{AB}{BC} = \frac{h}{x} \Rightarrow h = \sqrt{3}x` m.
+
+   In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{AB}{AD} = \frac{150}{x + 150} \Rightarrow h = 75\sqrt{3}` m.
+
+46. The diagram is given below:
+
+   .. image:: _static/images/28_46.png
+      :alt: 46th problem
+      :align: center
+
+   Let :math:`AB` be the towerr having a height of :math:`h` m. Let :math:`C` and :math:`D` be the points observed such that
+   :math:`\angle ADB = 30^\circ` and :math:`\angle ACB = 60^\circ`. Let :math:`AC = x` m. Given :math:`CD = 100` m.
+
+   In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{AB}{BC} = \frac{h}{x} \Rightarrow h = \sqrt{3}x` m.
+
+   In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{AB}{AD} = \frac{h}{x + 100} \Rightarrow x = 50` m.
+
+   Thus, :math:`h = 50\sqrt{3}` m. Distance of initial point :math:`= x + 100 = 150` m.
+
+47. The diagram is given below:
+
+   .. image:: _static/images/28_47.png
+      :alt: 47th problem
+      :align: center
+
+   Let :math:`AB` be the tower and :math:`CD` be the building. Given :math:`CD = 15` m. :math:`AC` is the horizontal plane joining
+   foot of the building and foot of the tower having width :math:`x` m. Draw :math:`DE||AC` then :math:`DE = x` m and :math:`AE =
+   15` m.
+
+   In :math:`\triangle BDE, \tan30^\circ = \frac{h}{x}\Rightarrow x = \sqrt{3}h` m.
+
+   In :math:`\triangle ABC, \tan60^\circ = \frac{h}{x + 15}\Rightarrow h = 7.5` m and :math:`x = 7.5\sqrt{3}` m.
+
+48. The diagram is given below:
+
+   .. image:: _static/images/28_48.png
+      :alt: 48th problem
+      :align: center
+
+   Let :math:`AB` be the tower and :math:`BC` be the flag staff having heights :math:`x` and :math:`y` m respectively. The distance
+   of foot of tower from the point of observation :math:`9` m. The angles of elevation of the foot and the top of the flag staff
+   are :math:`30^\circ` and :math:`60^\circ` as given in the question.
+
+   In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{x}{9}\Rightarrow x = 3\sqrt{3}` m.
+
+   In :math:`\triangle ACD, \tan60^\circ = \sqrt{3} = \frac{x + y}{9} \Rightarrow y = 6\sqrt{3}` m.
+
+49. The diagram is given below:
+
+   .. image:: _static/images/28_49.png
+      :alt: 49th problem
+      :align: center
+
+   Let :math:`AC` be the full tree and :math:`BC` is the portion which has fallen. :math:`BC` becomes :math:`BD` after falling and
+   angle of elevation is :math:`30^\circ`. Let the height of remaining portion of tree be :math:`AB = x` m. Also, :math:`BC = BD =
+   8` m.
+
+   In :math:`\triangle ABC, \sin30^\circ = \frac{1}{2} = \frac{AB}{BD} \Rightarrow AB = 4` m.
+
+   Thus, total height of the tree is :math:`12` m.
+
+50. The diagram is given below:
+
+   .. image:: _static/images/28_50.png
+      :alt: 50th problem
+      :align: center
+
+   Let :math:`AB` be the building with height :math:`10` m. Let :math:`BC` be the flag with height :math:`h` m. Also, let distance
+   between :math:`P` and foot of the building as :math:`AP = x` m.

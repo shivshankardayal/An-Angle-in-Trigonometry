@@ -182,7 +182,7 @@ Problems
     makes an angle of :math:`60^\circ` with the ground. At what height from the ground did it break?
 
 40. A vertical tower stands on a horizontal plane and is surmounted by a vertical flag-staff of height :math:`5` m. At a point on
-    the plane, the angle of elevation from the top and the top of the flag-staff are respectively :math:`30^\circ` and
+    the plane, the angle of elevation of the top and the bottom of the flag-staff are respectively :math:`30^\circ` and
     :math:`60^\circ`. Find the height of the tower.
 
 41. A person observed the angle of elevation of the top of the tower as :math:`30^\circ`. He walked :math:`50` m towards the foot
