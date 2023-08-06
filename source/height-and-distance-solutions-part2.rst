@@ -141,3 +141,66 @@ Height and Distance Solutions Part 2
    .. image:: _static/images/28_61.png
       :alt: 61st problem
       :align: center
+
+   Let :math:`BC` and :math:`DE` be the poles, both having the same height :math:`h` m. Let :math:`BD` be the road having a width
+   of :math:`80` m. Also, let :math:`A` be the point of observation from which angles of observation are shown as given in the
+   question. Let :math:`AB = x` m and thus :math:`AD = 80 - x` m.
+
+   In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{BC}{AB} \Rightarrow BC = h = x\sqrt{3}` m.
+
+   In :math:`\triangle ADE, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{DE}{AD} \Rightarrow DE = h = \frac{80 - x}{\sqrt{3}}` m.
+
+   Since the poles have equal height, therefore :math:`\sqrt{3}x = \frac{80 - x}{\sqrt{3}}\Rightarrow x = 20` m.
+
+   :math:`\therefore h = 20\sqrt{3}` m.
+
+62. The diagram is given below:
+
+   .. image:: _static/images/28_62.png
+      :alt: 62nd problem
+      :align: center
+
+   Let :math:`AB` be the tree having height :math:`20` m, :math:`CD` the width of river. Let :math:`C` and :math:`D` be the foot of
+   the poles on opposite banks of the river such that foot of the poles and the tree are in the same horizontal plane. Let
+   :math:`AC = x` and :math:`AD = y` m. The angles of depression are shown as given in the question.
+
+   In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{AB}{AC} \Rightarrow AC = \frac{20}{\sqrt{3}}` m.
+
+   In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{AB}{AD} \Rightarrow AD = 20\sqrt{3}` m.
+
+   Thus, :math:`CD = AC + AD = \frac{80}{\sqrt{3}}` m.
+
+63. The diagram is given below:
+
+   .. image:: _static/images/28_63.png
+      :alt: 63rd problem
+      :align: center
+
+   Let :math:`AB` be the tower having height :math:`h` m, :math:`BC` be the flag staff having height :math:`7` m. Also, let point
+   of observation at :math:`D` having angles of observation as :math:`30^\circ` and :math:`45^\circ` as given in the
+   question such that :math:`AD = x` m.
+
+   In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{AB}{AD} = \frac{h}{x} \Rightarrow \sqrt{3}h = x`.
+
+   In :math:`\triangle ACD, \tan45^\circ = 1 = \frac{AC}{AD} = \frac{h + 7}{x} \Rightarrow h = \frac{7}{\sqrt{3} - 1}` m.
+
+64. The diagram is given below:
+
+   .. image:: _static/images/28_64.png
+      :alt: 64th problem
+      :align: center
+
+   Let :math:`AC` and :math:`AD` be the length of shadows with angles of depression :math:`45^\circ` and :math:`30^\circ`
+   respectively such that :math:`CD = 2x` m. Also let :math:`AB` as the tower having height :math:`h` m and :math:`AC` as the
+   length of shadow with angle of depression :math:`45^\circ` having length :math:`d` m.
+
+   In :math:`\triangle ABC, \tan45^\circ = 1 = \frac{AB}{AC} = \frac{h}{d} \Rightarrow h = d` m.
+
+   In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{AB}{AD} = \frac{h}{2x + d} \Rightarrow h =
+   \frac{2x}{\sqrt{3} - 1} = \frac{2x(\sqrt{3} + 1)}{3 - 1} = x(\sqrt{3} + 1)` m.
+
+65. The diagram is given below:
+
+   .. image:: _static/images/28_65.png
+      :alt: 65th problem
+      :align: center
