@@ -2,154 +2,154 @@ Properties of Triangles' Solutions Part 3
 *****************************************
 101. The diagram is given below:
 
-   .. image:: _static/images/18_15.png
-      :alt: Problem 101
-      :align: center
+     .. image:: _static/images/18_15.png
+        :alt: Problem 101
+        :align: center
 
-   Let :math:`BD = DE = EC = x.` Also let,
+     Let :math:`BD = DE = EC = x.` Also let,
 
-   :math:`\angle BAD = \alpha, \angle DAE = \beta, EAC = \gamma, CEA = \theta`
+     :math:`\angle BAD = \alpha, \angle DAE = \beta, EAC = \gamma, CEA = \theta`
 
-   Given, :math:`\tan\alpha = t_1, \tan\beta = t_2, \tan\gamma = t_3`
+     Given, :math:`\tan\alpha = t_1, \tan\beta = t_2, \tan\gamma = t_3`
 
-   Applying :math:`m:n` rule in :math:`\triangle ABC,` we get
+     Applying :math:`m:n` rule in :math:`\triangle ABC,` we get
 
-   :math:`(2x + x)\cot\theta = 2x\cot(\alpha + \beta) - x\cot\gamma`
+     :math:`(2x + x)\cot\theta = 2x\cot(\alpha + \beta) - x\cot\gamma`
 
-   From :math:`\triangle ADC,` we get
+     From :math:`\triangle ADC,` we get
 
-   :math:`2x\cot\theta = x\cot\beta - x\cot\gamma`
+     :math:`2x\cot\theta = x\cot\beta - x\cot\gamma`
 
-   :math:`\Rightarrow \frac{3}{2} = \frac{2(\alpha + \beta) - \cot\gamma}{\cot\beta - \cot\gamma}`
+     :math:`\Rightarrow \frac{3}{2} = \frac{2(\alpha + \beta) - \cot\gamma}{\cot\beta - \cot\gamma}`
 
-   :math:`\Rightarrow 3\cot\beta - 3\cot\gamma = 4\cot(\alpha + \beta) - 2\cot\gamma`
+     :math:`\Rightarrow 3\cot\beta - 3\cot\gamma = 4\cot(\alpha + \beta) - 2\cot\gamma`
 
-   :math:`3\cot\beta - \cot\gamma = \frac{4(\cot\alpha\cot\beta - 1)}{\cot\alpha + \cot\beta}`
+     :math:`3\cot\beta - \cot\gamma = \frac{4(\cot\alpha\cot\beta - 1)}{\cot\alpha + \cot\beta}`
 
-   :math:`3\cot^2\beta - \cot\beta\cot\gamma + 3\cot\alpha\cot\beta - \cot\alpha\cot\gamma = 4\cot\alpha\cot\beta - 4`
+     :math:`3\cot^2\beta - \cot\beta\cot\gamma + 3\cot\alpha\cot\beta - \cot\alpha\cot\gamma = 4\cot\alpha\cot\beta - 4`
 
-   :math:`4 + 4\cot^2\beta = \cot^2\beta + \cot\alpha\cot\beta + \cot\beta\cot\gamma + \cot\alpha\cot\gamma`
+     :math:`4 + 4\cot^2\beta = \cot^2\beta + \cot\alpha\cot\beta + \cot\beta\cot\gamma + \cot\alpha\cot\gamma`
 
-   :math:`4(1 + \cot^2\beta) = (\cot\beta + \cot\alpha)(\cot\beta + \cot\gamma)`
+     :math:`4(1 + \cot^2\beta) = (\cot\beta + \cot\alpha)(\cot\beta + \cot\gamma)`
 
-   :math:`4\left(1 + \frac{1}{t_2^2}\right) = \left(\frac{1}{t_1} + \frac{1}{t_2}\right)\left(\frac{1}{t_2} + \frac{1}{t_3}\right)`
+     :math:`4\left(1 + \frac{1}{t_2^2}\right) = \left(\frac{1}{t_1} + \frac{1}{t_2}\right)\left(\frac{1}{t_2} + \frac{1}{t_3}\right)`
 
 102. The diagram is given below:
 
-   .. image:: _static/images/18_16.png
-      :alt: Problem 102
-      :align: center
+     .. image:: _static/images/18_16.png
+        :alt: Problem 102
+        :align: center
 
-   Let the medians be :math:`AD, BE` and :math:`CF` meet at :math:`O.` From question,
+     Let the medians be :math:`AD, BE` and :math:`CF` meet at :math:`O.` From question,
 
-   :math:`\angle BOC=\alpha, \angle COA = \beta, \angle AOB = \gamma`
+     :math:`\angle BOC=\alpha, \angle COA = \beta, \angle AOB = \gamma`
 
-   Let :math:`AD = p_1, BE=p_2, CF = p_3`
+     Let :math:`AD = p_1, BE=p_2, CF = p_3`
 
-   :math:`AO:OD = 2:1 \Rightarrow AO = \frac{2}{3}p_1`
+     :math:`AO:OD = 2:1 \Rightarrow AO = \frac{2}{3}p_1`
 
-   Similalrly, :math:`OB = \frac{2}{3}p_2, OC = \frac{2}{3}p_3`
+     Similalrly, :math:`OB = \frac{2}{3}p_2, OC = \frac{2}{3}p_3`
 
-   Applying cosine rule in :math:`\triangle AOC,`
+     Applying cosine rule in :math:`\triangle AOC,`
 
-   :math:`\cos\beta = \frac{OA^2 + OC^2 - AC^2}{2.OA.OC} = \frac{\frac{4}{9}p_1^2 + \frac{4}{9}p_3^2 -
-   b^2}{2.\frac{2}{3}p_1\frac{2}{3}p_3}`
+     :math:`\cos\beta = \frac{OA^2 + OC^2 - AC^2}{2.OA.OC} = \frac{\frac{4}{9}p_1^2 + \frac{4}{9}p_3^2 -
+     b^2}{2.\frac{2}{3}p_1\frac{2}{3}p_3}`
 
-   :math:`\cos\beta = \frac{4p_1^2 + 4p_3^2 - 9b^2}{8p_1p_3}`
+     :math:`\cos\beta = \frac{4p_1^2 + 4p_3^2 - 9b^2}{8p_1p_3}`
 
-   :math:`\Delta AOC = \frac{1}{2}.OA.OC.\sin\beta`
+     :math:`\Delta AOC = \frac{1}{2}.OA.OC.\sin\beta`
 
-   :math:`\frac{1}{3}\Delta = \frac{1}{2}\frac{2}{3}p_1\frac{2}{3}p_3\sin\beta` where :math:`\Delta` is area of triangle :math:`ABC.`
+     :math:`\frac{1}{3}\Delta = \frac{1}{2}\frac{2}{3}p_1\frac{2}{3}p_3\sin\beta` where :math:`\Delta` is area of triangle :math:`ABC.`
 
-   :math:`\sin\beta = \frac{3\Delta}{2p_1p_3}`
+     :math:`\sin\beta = \frac{3\Delta}{2p_1p_3}`
 
-   :math:`\Rightarrow \cos\beta = \frac{4p_1^2 + 4p_3^2 - 9b^2}{12\Delta}`
+     :math:`\Rightarrow \cos\beta = \frac{4p_1^2 + 4p_3^2 - 9b^2}{12\Delta}`
 
-   :math:`\because AD` is mean of :math:`\triangle ABC`
+     :math:`\because AD` is mean of :math:`\triangle ABC`
 
-   :math:`\therefore AB^2 + AC^2 = 2BD^2 + 2AD^2`
+     :math:`\therefore AB^2 + AC^2 = 2BD^2 + 2AD^2`
 
-   :math:`\Rightarrow b^2 + c^2 = 2\frac{a^2}{4} + 2p_1^2`
+     :math:`\Rightarrow b^2 + c^2 = 2\frac{a^2}{4} + 2p_1^2`
 
-   :math:`p_1^2 = \frac{2b^2 + 2c^2 - a^2}{4}`
+     :math:`p_1^2 = \frac{2b^2 + 2c^2 - a^2}{4}`
 
-   Similarly, :math:`p_2^2 = \frac{2c^2 + 2a^2 - b^2}{4}`
+     Similarly, :math:`p_2^2 = \frac{2c^2 + 2a^2 - b^2}{4}`
 
-   and :math:`p_3^2 = \frac{2a^2 + 2b^2 - c^2}{4}`
+     and :math:`p_3^2 = \frac{2a^2 + 2b^2 - c^2}{4}`
 
-   :math:`\Rightarrow \cos\beta = \frac{(2b^2 + 2c^2 - a^2) + (2a^2 + 2b^2 - c^2) - 9b^2}{12\Delta}`
+     :math:`\Rightarrow \cos\beta = \frac{(2b^2 + 2c^2 - a^2) + (2a^2 + 2b^2 - c^2) - 9b^2}{12\Delta}`
 
-   :math:`= \frac{a^2 + c^2 - 5b^2}{12\Delta}`
+     :math:`= \frac{a^2 + c^2 - 5b^2}{12\Delta}`
 
-   Similarly, :math:`\cos\alpha = \frac{b^2 + c^2 - 5a^2}{12\Delta}`
+     Similarly, :math:`\cos\alpha = \frac{b^2 + c^2 - 5a^2}{12\Delta}`
 
-   Similarly, :math:`\cos\gamma = \frac{a^2 + b^2 - 5c^2}{12\Delta}`
+     Similarly, :math:`\cos\gamma = \frac{a^2 + b^2 - 5c^2}{12\Delta}`
 
-   :math:`\cos\alpha + \cos\beta + \cos\gamma = \frac{-3(a^2 + b^2 + c^2)}{12\Delta}`
+     :math:`\cos\alpha + \cos\beta + \cos\gamma = \frac{-3(a^2 + b^2 + c^2)}{12\Delta}`
 
-   :math:`= -\frac{a^2 + b^2 + c^2}{4\Delta}`
+     :math:`= -\frac{a^2 + b^2 + c^2}{4\Delta}`
 
-   :math:`\cot A + \cot B + \cot C = \frac{b^2 + c^2 - a^2}{2bc\sin A} + \frac{c^2 + a^2 - b^2}{2ca\sin B} + \frac{a^2 + b^2 -
-   c^2}{2ab\sin C}`
+     :math:`\cot A + \cot B + \cot C = \frac{b^2 + c^2 - a^2}{2bc\sin A} + \frac{c^2 + a^2 - b^2}{2ca\sin B} + \frac{a^2 + b^2 -
+     c^2}{2ab\sin C}`
 
-   :math:`= \frac{a^2 + b^2 + c^2}{4\Delta}`
+     :math:`= \frac{a^2 + b^2 + c^2}{4\Delta}`
 
-   :math:`\Rightarrow \cot\alpha + \cot\beta + \cot\gamma + \cot A + \cot B + \cot C = 0`
+     :math:`\Rightarrow \cot\alpha + \cot\beta + \cot\gamma + \cot A + \cot B + \cot C = 0`
 
 103. The diagram is given below:
 
-    .. image:: _static/images/18_17.png
-       :alt: Problem 103
-       :align: center
+     .. image:: _static/images/18_17.png
+        :alt: Problem 103
+        :align: center
 
-   Let :math:`AD` be the perpendicular from :math:`A` on :math:`BC.` When :math:`AD` is extended it meets the circumscrbing circle
-   at :math:`E.` Given, :math:`DE=\alpha.`
+     Let :math:`AD` be the perpendicular from :math:`A` on :math:`BC.` When :math:`AD` is extended it meets the circumscrbing circle
+     at :math:`E.` Given, :math:`DE=\alpha.`
 
-   Since angles in the same segment are equal, :math:`\therefore \angle AEB = \angle ACB = \angle C`
+     Since angles in the same segment are equal, :math:`\therefore \angle AEB = \angle ACB = \angle C`
 
-   and :math:`\angle AEC = \angle ABC = \angle B`
+     and :math:`\angle AEC = \angle ABC = \angle B`
 
-   From right angled :math:`\triangle BDE, \tan C = \frac{BD}{DE}`
+     From right angled :math:`\triangle BDE, \tan C = \frac{BD}{DE}`
 
-   From right angled :math:`\triangle CDE, \tan B = \frac{CD}{DE}`
+     From right angled :math:`\triangle CDE, \tan B = \frac{CD}{DE}`
 
-   :math:`\tan B + \tan C = \frac{a}{\alpha}`
+     :math:`\tan B + \tan C = \frac{a}{\alpha}`
 
-   Similarly, :math:`\tan C + \tan A = \frac{b}{\beta}`
+     Similarly, :math:`\tan C + \tan A = \frac{b}{\beta}`
 
-   and :math:`\tan A + \tan B = \frac{c}{\gamma}`
+     and :math:`\tan A + \tan B = \frac{c}{\gamma}`
 
-   Adding, we get
+     Adding, we get
 
-   :math:`\frac{a}{\alpha} + \frac{b}{\beta} + \frac{c}{\gamma} = 2(\tan A + \tan B + \tan C)`
+     :math:`\frac{a}{\alpha} + \frac{b}{\beta} + \frac{c}{\gamma} = 2(\tan A + \tan B + \tan C)`
 
 104. The diagram is given below:
 
-    .. image:: _static/images/18_18.png
-       :alt: Problem 104
-       :align: center
+     .. image:: _static/images/18_18.png
+        :alt: Problem 104
+        :align: center
 
-    Let :math:`H` be the orthocenter of triangle :math:`ABC.`
+     Let :math:`H` be the orthocenter of triangle :math:`ABC.`
 
-    From question, :math:`HA = p, HB = q, HC = r.`
+     From question, :math:`HA = p, HB = q, HC = r.`
 
-    From figure, :math:`\angle HBD = \angle EBC = 90^\circ - C`
+     From figure, :math:`\angle HBD = \angle EBC = 90^\circ - C`
 
-    :math:`\angle HCD = \angle FCB = 90^\circ - B`
+     :math:`\angle HCD = \angle FCB = 90^\circ - B`
 
-    :math:`\therefore \angle BHC = 180^\circ - (\angle HBD + \angle HCD)`
+     :math:`\therefore \angle BHC = 180^\circ - (\angle HBD + \angle HCD)`
 
-    :math:`= 180^\circ - [90^\circ - C + 90^\circ - B] = B + C = \pi - A`
+     :math:`= 180^\circ - [90^\circ - C + 90^\circ - B] = B + C = \pi - A`
 
-    Similarly, :math:`\angle AHC = \pi - B` and :math:`\angle AHB = \pi - C`
+     Similarly, :math:`\angle AHC = \pi - B` and :math:`\angle AHB = \pi - C`
 
-    Now :math:`\Delta BHC + \Delta CHA + \Delta AHB = \Delta ABC`
+     Now :math:`\Delta BHC + \Delta CHA + \Delta AHB = \Delta ABC`
 
-    :math:`\Rightarrow \frac{1}{2}[qr\sin BHC + rp\sin CHA + pq \sin AHB] = \Delta`
+     :math:`\Rightarrow \frac{1}{2}[qr\sin BHC + rp\sin CHA + pq \sin AHB] = \Delta`
 
-    :math:`\Rightarrow \frac{1}{2}[qr\sin A + rp\sin B + pq\sin C] = \Delta`
+     :math:`\Rightarrow \frac{1}{2}[qr\sin A + rp\sin B + pq\sin C] = \Delta`
 
-    :math:`\Rightarrow aqr + brp + cpq = abc`
+     :math:`\Rightarrow aqr + brp + cpq = abc`
 
 105. The diagram is given below:
 
@@ -786,23 +786,23 @@ Properties of Triangles' Solutions Part 3
 
 134. The diagram is given below:
 
-      .. image:: _static/images/20_6.png
-         :alt: Problem 134
-         :align: center
+     .. image:: _static/images/20_6.png
+        :alt: Problem 134
+        :align: center
 
-      Let :math:`O` be the circumcenter and :math:`OP = x.` We have :math:`BP= \frac{a}{2}.`
+     Let :math:`O` be the circumcenter and :math:`OP = x.` We have :math:`BP= \frac{a}{2}.`
 
-      Angle made at center will be double that made at perimeter, thus
+     Angle made at center will be double that made at perimeter, thus
 
-      :math:`\tan A = \frac{a}{2x}`
+     :math:`\tan A = \frac{a}{2x}`
 
-      Similarly, :math:`\tan B = \frac{b}{2y}, \tan C = \frac{c}{2z}`
+     Similarly, :math:`\tan B = \frac{b}{2y}, \tan C = \frac{c}{2z}`
 
-      In a :math:`\triangle ABC,` we know that
+     In a :math:`\triangle ABC,` we know that
 
-      :math:`\tan A + \tan B + \tan C = \tan A\tan B\tan C`
+     :math:`\tan A + \tan B + \tan C = \tan A\tan B\tan C`
 
-      :math:`\Rightarrow \frac{a}{x} + \frac{b}{y} + \frac{c}{z} = \frac{abc}{4xyz}`
+     :math:`\Rightarrow \frac{a}{x} + \frac{b}{y} + \frac{c}{z} = \frac{abc}{4xyz}`
 
 135. Given, :math:`\frac{BD}{m} = \frac{DC}{n} = \frac{BC}{m + n}`
 
@@ -1003,39 +1003,39 @@ Properties of Triangles' Solutions Part 3
 
 148. The diagram is given below:
 
-      .. image:: _static/images/20_7.png
-         :alt: Problem 148
-         :align: center
+     .. image:: _static/images/20_7.png
+        :alt: Problem 148
+        :align: center
 
-      Let :math:`O` be the center of the inscribed circle of triangle :math:`ABC.` We have drawn another circle passitng through
-      :math:`O, B` and :math:`C.` Suppose that the radius of this circle is :math:`R.` Applying sine law in :math:`\triangle OBC,`
-      we get
+     Let :math:`O` be the center of the inscribed circle of triangle :math:`ABC.` We have drawn another circle passitng through
+     :math:`O, B` and :math:`C.` Suppose that the radius of this circle is :math:`R.` Applying sine law in :math:`\triangle OBC,`
+     we get
 
-      :math:`\frac{a}{\sin BOC} = 2R \Rightarrow R = \frac{a}{2\sin BOC}`
+     :math:`\frac{a}{\sin BOC} = 2R \Rightarrow R = \frac{a}{2\sin BOC}`
 
-      Now since :math:`O` is the center of the inscribed circle. Hence :math:`BO` and :math:`OC` are bisectors of angle :math:`B`
-      and :math:`C` respectively
+     Now since :math:`O` is the center of the inscribed circle. Hence :math:`BO` and :math:`OC` are bisectors of angle :math:`B`
+     and :math:`C` respectively
 
-      :math:`\angle OBC = \frac{B}{2}` and :math:`\angle OCB = \frac{C}{2}`
+     :math:`\angle OBC = \frac{B}{2}` and :math:`\angle OCB = \frac{C}{2}`
 
-      :math:`\Rightarrow \angle BOC = 180^\circ - \frac{B}{2} - \frac{C}{2} = 90^\circ + \frac{A}{2}`
+     :math:`\Rightarrow \angle BOC = 180^\circ - \frac{B}{2} - \frac{C}{2} = 90^\circ + \frac{A}{2}`
 
-      :math:`\therefore R = \frac{a}{2.\sin\left(90^\circ + \frac{A}{2}\right)} = \frac{a}{2}\sec\frac{A}{2}`
+     :math:`\therefore R = \frac{a}{2.\sin\left(90^\circ + \frac{A}{2}\right)} = \frac{a}{2}\sec\frac{A}{2}`
 
 149. The diagram is given below:
 
-      .. image:: _static/images/20_8.png
-         :alt: Problem 149
-         :align: center
+     .. image:: _static/images/20_8.png
+        :alt: Problem 149
+        :align: center
 
-      Let the centers of the circle be :math:`C_1, C_2` and :math:`C_3` and theier radii be :math:`a, b` and :math:`c`
-      respectively. Let the circles touch each other at :math:`P, Q` and :math:`R.` Let the tangents at their points of contact
-      meet at :math:`O.`
+     Let the centers of the circle be :math:`C_1, C_2` and :math:`C_3` and theier radii be :math:`a, b` and :math:`c`
+     respectively. Let the circles touch each other at :math:`P, Q` and :math:`R.` Let the tangents at their points of contact
+     meet at :math:`O.`
 
-      Since :math:`OP` and :math:`OQ` are two tangents from :math:`O` to the circle :math:`C_3,` they are equal i.e. :math:`OP =
-      OQ`
+     Since :math:`OP` and :math:`OQ` are two tangents from :math:`O` to the circle :math:`C_3,` they are equal i.e. :math:`OP =
+     OQ`
 
-      Similarly, :math:`OQ = OR \Rightarrow OP=OQ=OR`
+     Similarly, :math:`OQ = OR \Rightarrow OP=OQ=OR`
 
      Also, :math:`OP\perp C_1C_3, OQ\perp C_2C_3` and :math:`OR\perp C_1C_2`
 
@@ -1056,36 +1056,36 @@ Properties of Triangles' Solutions Part 3
 
 150. The diagram is given below:
 
-      .. image:: _static/images/20_9.png
-         :alt: Problem 150
-         :align: center
+     .. image:: _static/images/20_9.png
+        :alt: Problem 150
+        :align: center
 
-      Let :math:`R` be the circum-radius of the :math:`\triangle ABC.` From geometry we know that
+     Let :math:`R` be the circum-radius of the :math:`\triangle ABC.` From geometry we know that
 
-      :math:`AH = 2OE = 2R\cos A` and :math:`OA = R`
+     :math:`AH = 2OE = 2R\cos A` and :math:`OA = R`
 
-      :math:`\angle BOC = 2A \therefore \angle COE = A \Rightarrow \angle OCE = 90^\circ - A`
+     :math:`\angle BOC = 2A \therefore \angle COE = A \Rightarrow \angle OCE = 90^\circ - A`
 
-      :math:`\therefore \angle OCA = \angle BCA - \angle OCE = C - (90^\circ - A) = A + C - 90^\circ`
+     :math:`\therefore \angle OCA = \angle BCA - \angle OCE = C - (90^\circ - A) = A + C - 90^\circ`
 
-      :math:`\because OA = OC \therefore \angle OAC = \angle OCA = A + C - 90^\circ`
+     :math:`\because OA = OC \therefore \angle OAC = \angle OCA = A + C - 90^\circ`
 
-      From :math:`\triangle CDA, \angle CAD = 90^\circ - C`
+     From :math:`\triangle CDA, \angle CAD = 90^\circ - C`
 
-      :math:`\therefore \angle HAO = \angle CAD - \angle CAO = (90^\circ - C) - (A + C - 90^\circ)`
+     :math:`\therefore \angle HAO = \angle CAD - \angle CAO = (90^\circ - C) - (A + C - 90^\circ)`
 
-      :math:`= 180^\circ - A - 2C = A + B + C - A - 2C = B - C`
+     :math:`= 180^\circ - A - 2C = A + B + C - A - 2C = B - C`
 
-      Applying cosine rule in :math:`\triangle AHO,` we get
+     Applying cosine rule in :math:`\triangle AHO,` we get
 
-      :math:`\cos(B - C) = \frac{AH^2 + AO^2 - OH^2}{2AH.AO}`
+     :math:`\cos(B - C) = \frac{AH^2 + AO^2 - OH^2}{2AH.AO}`
 
-      :math:`OH^2 = 4R^2\cos^2A + R^2 - 2.2R\cos A.R\cos(B - C)`
+     :math:`OH^2 = 4R^2\cos^2A + R^2 - 2.2R\cos A.R\cos(B - C)`
 
-      :math:`= R^2[4\cos^2A + 1 - 4\cos A\cos(B - C)] = R^2[1 - 4\cos A\{\cos(B - C) - \cos A\}]`
+     :math:`= R^2[4\cos^2A + 1 - 4\cos A\cos(B - C)] = R^2[1 - 4\cos A\{\cos(B - C) - \cos A\}]`
 
-      :math:`= R^2[1 - 4\cos A\{\cos(B - C) + \cos(B + C)\}]`
+     :math:`= R^2[1 - 4\cos A\{\cos(B - C) + \cos(B + C)\}]`
 
-      :math:`= R^2[1 - 8\cos A\cos B\cos C]`
+     :math:`= R^2[1 - 8\cos A\cos B\cos C]`
 
      :math:`OH = R\sqrt{1 - 8\cos A\cos B\cos C}`

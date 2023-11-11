@@ -582,7 +582,7 @@ Properties of Triangles' Solutions Part 5
 
      :math:`\Rightarrow CD = 2x = \frac{2ab\sin\theta}{\sqrt{a^2 + b^2 + 2ab\cos\theta}}`
 
-240.  The diagram is given below:
+240. The diagram is given below:
 
      .. image:: _static/images/22_1.png
         :alt: Problem 240

@@ -22,5 +22,5 @@ label("$80 - x~m$", (a + d)/2, align=S, 0.7*green);
 label("$h~m$", (b + c)/2, align=W, 0.7*green);
 label("$h~m$", (d + e)/2, align=E, 0.7*green);
 
-markangle("$30^\circ$", radius=10, c, a, b, 0.7*blue);
-markangle("$60^\circ$", radius=10, d, a, e, 0.7*blue);
+markangle("$60^\circ$", radius=10, c, a, b, 0.7*blue);
+markangle("$30^\circ$", radius=10, d, a, e, 0.7*blue);

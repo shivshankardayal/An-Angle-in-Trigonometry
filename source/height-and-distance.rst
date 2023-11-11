@@ -630,7 +630,7 @@ Problems
      at an elevation of :math:`30^\circ`. Calculate the altitude at which the aircraft is flying.
 
 160. A flag staff :math:`PN` stands up right on level ground. A base :math:`AB` is measured at right angled to :math:`AN` such that
-     the points :math:`A, B, N` lie in the same horizontal plane. If :math:`\angle PAN = \altitude` and :math:`\angle PBN =
+     the points :math:`A, B, N` lie in the same horizontal plane. If :math:`\angle PAN = \alpha` and :math:`\angle PBN =
      \beta`. Prove that the height of the flag staff is :math:`\frac{AB.\sin\alpha\sin\beta}{\sqrt{\sin(\alpha +
      \beta)\sin(\alpha - \beta)}}`.
 
@@ -683,7 +683,7 @@ Problems
      the side of the square and is at a distance :math:`x` and :math:`y` from the ends of that side. Show that the height of the
      pole is :math:`\sqrt{\frac{x^2 + y^2}{2}}.\tan\alpha`.
 
-173. A circular plate of radius :math:`a`touches a vertical wall. The plate is fixed horizontally at a height :math:`b` above the
+173. A circular plate of radius :math:`a` touches a vertical wall. The plate is fixed horizontally at a height :math:`b` above the
      ground. A lighted candle of length :math:`c` stands vertically at the center of the plate. Prove that the breadth of the
      shadow on the wall where it meets the horizontal ground is :math:`\frac{2a}{c}\sqrt{b^2 + 2bc}`.
 

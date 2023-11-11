@@ -2,19 +2,19 @@ Properties of Triangles' Solutions Part 2
 *****************************************
 51. The diagram is given below:
 
-   .. image:: _static/images/18_8.png
-      :alt: Problem 51
-      :align: center
+    .. image:: _static/images/18_8.png
+       :alt: Problem 51
+       :align: center
 
-   From figure, :math:`\angle ADC = 90^\circ + B`
+    From figure, :math:`\angle ADC = 90^\circ + B`
 
-   By applying :math:`m:n` rule in triangle :math:`ABC,` we get
+    By applying :math:`m:n` rule in triangle :math:`ABC,` we get
 
-   :math:`(1 + 1)\cot(90^\circ + B) = 1.\cot90^\circ - 1.\cot(A-90^\circ)`
+    :math:`(1 + 1)\cot(90^\circ + B) = 1.\cot90^\circ - 1.\cot(A-90^\circ)`
 
-   :math:`-2\tan B = 0 - \cot[-(90^\circ - A)]`
+    :math:`-2\tan B = 0 - \cot[-(90^\circ - A)]`
 
-   :math:`-2\tan B = \tan A \Rightarrow \tan A + 2\tan B = 0`
+    :math:`-2\tan B = \tan A \Rightarrow \tan A + 2\tan B = 0`
 
 52. Given, :math:`\cot A + \cot B + \cot C = \sqrt{3}`
 

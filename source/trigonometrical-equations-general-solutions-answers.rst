@@ -131,15 +131,15 @@ Trigonometrical Equations and their General Solutions Answers
     If :math:`\cos x = -\frac{1}{2}\Rightarrow x = 2n\pi\pm\frac{2\pi}{3}`
 20. Given equation is :math:`2\cos2x + \sqrt{2\sin x} = 2`
 
-     :math:`\Rightarrow \sqrt{2\sin x} = 2(1 - \cos2x) = 4\sin^2x`
+    :math:`\Rightarrow \sqrt{2\sin x} = 2(1 - \cos2x) = 4\sin^2x`
 
-     :math:`\Rightarrow \sqrt{2\sin x}\left(1 - 2\sqrt{2}\sin^{\frac{3}{2}}x\right) = 0`
+    :math:`\Rightarrow \sqrt{2\sin x}\left(1 - 2\sqrt{2}\sin^{\frac{3}{2}}x\right) = 0`
 
-     Either:math:`\sin x = 0 \Rightarrow x = n\pi` where :math:`n\in I`
+    Either:math:`\sin x = 0 \Rightarrow x = n\pi` where :math:`n\in I`
 
-     or :math:`\sin^{\frac{3}{2}}x = \frac{1}{2\sqrt{2}} \Rightarrow \sin x = \frac{1}{2}`
+    or :math:`\sin^{\frac{3}{2}}x = \frac{1}{2\sqrt{2}} \Rightarrow \sin x = \frac{1}{2}`
 
-     :math:`\Rightarrow x = n\pi + (-1)^n\frac{\pi}{6}`
+    :math:`\Rightarrow x = n\pi + (-1)^n\frac{\pi}{6}`
 21. We know that :math:`\tan^2\frac{x}{2} = \frac{1 - \cos x}{1 + \cos x}`
 
     :math:`\therefore 8\left(\frac{1 - \cos x}{1 + \cos x}\right) = 1 + sec x = \frac{1 + \cos x}{\cos x}`

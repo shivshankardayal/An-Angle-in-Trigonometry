@@ -490,25 +490,25 @@ Go through the list of relationship between trigonometrical ratios as the proble
 
     i. Given, :math:`\sin^4A + \sin^2A = 1 \Rightarrow \sin^4A = 1 - \sin^2A = \cos^2`
 
-        :math:`\frac{\sin^4A}{\cos^4A} = sec^2A`
+       :math:`\frac{\sin^4A}{\cos^4A} = sec^2A`
 
-        :math:`\frac{1}{\tan^4A} = cos^2A`
+       :math:`\frac{1}{\tan^4A} = cos^2A`
 
-        Also from, :math:`\sin^4A = \cos^2A \Rightarrow \tan^2A = \cosec^2A \Rightarrow \frac{1}{\tan^2A} = \sin^2A`
+       Also from, :math:`\sin^4A = \cos^2A \Rightarrow \tan^2A = \cosec^2A \Rightarrow \frac{1}{\tan^2A} = \sin^2A`
 
-        :math:`\Rightarrow \frac{1}{\tan^4A} + \frac{1}{\tan^2A} = \sin^2A + \cos^2A = 1`
+       :math:`\Rightarrow \frac{1}{\tan^4A} + \frac{1}{\tan^2A} = \sin^2A + \cos^2A = 1`
 
     ii. Given, :math:`\sin^4A + \sin^2A = 1 \Rightarrow \sin^4A = 1 - \sin^2A = \cos^2A`
 
-       :math:`\Rightarrow \frac{\sin^2A}{\cos^2A} = \frac{1}{\sin^2A} \Rightarrow \tan^2A = \cosec^2A`
+        :math:`\Rightarrow \frac{\sin^2A}{\cos^2A} = \frac{1}{\sin^2A} \Rightarrow \tan^2A = \cosec^2A`
 
-       :math:`\tan^2A = 1 + \cot^2A`
+        :math:`\tan^2A = 1 + \cot^2A`
 
-       Multiplying both sides with :math:`\tan^2A,` we get
+        Multiplying both sides with :math:`\tan^2A,` we get
 
-       :math:`\tan^4A = \tan^2A + 1`
+        :math:`\tan^4A = \tan^2A + 1`
 
-       :math:`\tan^4A - \tan^2A = 1`
+        :math:`\tan^4A - \tan^2A = 1`
 
 66. Given, :math:`\cos^2 - \sin^2 A = \tan^2 B \Rightarrow \frac{\cos^2A - \sin^2A}{\cos^2A + \sin^2A} = \tan^2B`
 
