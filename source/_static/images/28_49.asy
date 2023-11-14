@@ -15,7 +15,7 @@ label("$A$", a, align=SW, 0.7*green);
 label("$B$", b, align=W, 0.7*green);
 label("$C$", c, align=NW, 0.7*green);
 label("$D$", d, align=SE, 0.7*green);
-label("$8~m$", (b + d)/2, align=NE, 0.7*green);
+label("$8~m$", (a + d)/2, align=S, 0.7*green);
 label("$x~m$", (b + a)/2, align=W, 0.7*green);
 
 markangle("$30^\circ$", radius=20, b, d, a, 0.7*blue);

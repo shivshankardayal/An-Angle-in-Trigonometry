@@ -1,1 +1,1 @@
-convert -density 384 -background white -alpha remove -colorspace RGB 
+convert -density 96 colorspace RGB input_file output_file

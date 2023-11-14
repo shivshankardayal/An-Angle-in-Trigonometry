@@ -170,4 +170,205 @@ Height and Distance Solutions Part 2
 
 63. This problem is similar to :math:`56` and has been left as an exercise.
 
-64.
+64. This problem is similar to :math:`58` and has been left as an exercise.
+
+65. This problem is similar to :math:`49` and has been left as an exercise.
+
+66. The diagram is given below:
+
+    .. image:: _static/images/28_66.png
+       :alt: 66th problem
+       :align: center
+
+    Let :math:`A` be the point on the ground, :math:`AC` be the string and :math:`BC` the height of balloon. Then given, angle of
+    elevation :math:`\angle BAC = 60^\circ`.
+
+    In :math:`\triangle ABC, \sin60^\circ = \frac{\sqrt{3}}{2} = \frac{BC}{AC} = \frac{BC}{215} = 107.5\sqrt{3}` m.
+
+67. The diagram is given below:
+
+    .. image:: _static/images/28_67.png
+       :alt: 67th problem
+       :align: center
+
+    Let :math:`AB` be the cliff having a height of :math:`80` m. Let :math:`C` and :math:`D` be two points on eihter side of the
+    cliff from where angle of elevations are :math:`60^\circ` and :math:`30^\circ` respectively.
+
+    In :math:`\triangle ABC, \tan60^\circ = \frac{AB}{AC} \Rightarrow AC = \frac{80}{\sqrt{3}}` m.
+
+    In :math:`\triangle ABD, \tan30^\circ = \frac{AB}{AD}\Rightarrow AD = 80\sqrt{3}` m.
+
+    Distance bettwen points of observation :math:`CD = AC + AD = \frac{320}{\sqrt{3}}` m.
+
+68. Since the length of shadow is equal to height of pole the angle of elevation would be :math:`45^\circ` as :math:`\tan45^\circ =
+    1`.
+
+69. This problem is similar to :math:`62` and has been left as an exercise.
+
+70. This problem is similar to :math:`25` and has been left as an exercise.
+
+71. The diagram is given below:
+
+    .. image:: _static/images/28_71.png
+       :alt: 71st problem
+       :align: center
+
+    Let :math:`AB` be the lighthouse having a height of :math:`200` m. Let :math:`C` and :math:`D` be the ships. The angles of
+    depression are converted to angles of elevation.
+
+    In :math:`\triangle ABC, \tan45^\circ = 1 = \frac{AB}{AC}\Rightarrow AC = 200` m.
+
+    In :math:`\triangle ABD, \tan60^\circ = \sqrt{3} = \frac{AB}{AD} \Rightarrow AD = \frac{200}{\sqrt{3}}` m.
+
+    Thus distance between ships :math:`CD = AC + AD = \frac{200(\sqrt{3} + 1)}{\sqrt{3}}` m.
+
+72. The diagram is given below:
+
+    .. image:: _static/images/28_72.png
+       :alt: 72nd problem
+       :align: center
+
+    Let :math:`AB` be the first pole and :math:`CD` be the second pole. Given, :math:`CD = 24` m and :math:`AC = 15` m. Draw
+    :math:`BE || AC \Rightarrow BE = 15` m. Angle of depression is converted to angle of elevation.
+
+    In :math:`\triangle BDE, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{ED}{BE} \Rightarrow ED = \frac{15}{\sqrt{3}} = 5\sqrt{3}` m.
+
+    :math:`\Rightarrow CE = BD - ED = 24 - 5\sqrt{3} = AB` which is height of the first pole.
+
+73. This problem is similar to :math:`71` and has been left as an exercise.
+
+74. The diagram is given below:
+
+    .. image:: _static/images/28_74.png
+       :alt: 74th problem
+       :align: center
+
+    xLet :math:`AB` be the tower and :math:`C` and :math:`D` are two points at a distance of :math:`4` m and :math:`9` m
+    respectively. Because it is given that angles of elevations are complementary we have chosen and angle of :math:`\theta` for
+    :math:`C` and :math:`90^\circ - \theta` for :math:`D`.
+
+    In :math:`\triangle ABC, \tan\theta = \frac{AB}{AC} = \frac{h}{4}`
+
+    In :math:`\triangle ABD, \tan(90^\circ - \theta) = \cot\theta = \frac{AB}{AD} = \frac{h}{9}`
+
+    Substituting for :math:`\cot\theta`, we get
+
+    :math:`\frac{4}{h} = \frac{h}{9}\Rightarrow h^2 = 36 \Rightarrow h = 6` m.
+
+75. This problem is similar to :math:`72` and has been left as an exercise.
+
+76. This problem is similar to :math:`56` and has been left as an exercise.
+
+77. This problem is similar to :math:`55` and has been left as an exercise.
+
+78. This problem is similar to :math:`71` and has been left as an exercise
+
+79. This problem is similar to :math:`55` and has been left as an exercise.
+
+80. This problem is similar to :math:`58` and has been left as an exercise.
+
+81. This problem is similar to :math:`26` annd has been left as an exercise.
+
+82. This problem is similar to :math:`71` and has been left as an exercise.
+
+83. This problem is similar to :math:`26` annd has been left as an exercise.
+
+84. This problem is similar to :math:`28` annd has been left as an exercise.
+
+85. This problem is similar to :math:`71` and has been left as an exercise
+
+86. This problem is similar to :math:`23` and has been left as an exercise
+
+87. The diagram is given below:
+
+    .. image:: _static/images/28_87.png
+       :alt: 87th problem
+       :align: center
+
+    Let :math:`AB` be the tower and :math:`BC` be the flag-staff having a height of :math:`h` m. Let :math:`D` be the point of
+    observation having angle of elevations :math:`\alpha` and :math:`\beta` as given in the question.
+
+    In :math:`\triangle ABC, \tan\alpha = \frac{AB}{AD} \Rightarrow AB = AD\tan\alpha`
+
+    In :math:`\triangle ABD, \tan\beta = \frac{AC}{AD} = \frac{AB + BC}{AD}`
+
+    :math:`\Rightarrow \frac{AB\tan\beta}{\tan\alpha} = AB + h \Rightarrow AB = \frac{h\tan\alpha}{\tan\beta - \tan\alpha}.`
+
+88. This proble is similar to :math:`74` and has been left as an exercise.
+
+89. The diagram is given below:
+
+    .. image:: _static/images/28_89.png
+       :alt: 89th problem
+       :align: center
+
+    Let :math:`BE` be the tower leaning northwards and :math:`AB` be the vertical height of tower taken as :math:`h`. Let :math:`C`
+    and :math:`D` be the points of observation. Given that angle of leaning is :math:`\theta` and angles of elevation are
+    :math:`\alpha` at :math:`C` and :math:`\beta` at :math:`D`. Let :math:`AB = x`. Given :math:`BC = a` and :math:`BD = b`.
+
+    In :math:`\triangle ABE, \cot\theta = \frac{x}{h}`, in :math:`\triangle ACE, \cot\alpha = \frac{x + a}{h}` and in
+    :math:`\triangle ADE, \cot\beta = \frac{x + b}{h}`.
+
+    :math:`\Rightarrow b\cot\alpha = \frac{bx + ab}{h}, a\cot\beta = \frac{ax + ab}{h}`
+
+    :math:`\Rightarrow b\cot\alpha - a\cot\beta = \frac{bx - ax}{h}\Rightarrow \frac{x}{h} = \cot\theta = \frac{b\cot\alpha - a\cot\beta}{b - a}`.
+
+90. The diagram is given below:
+
+    .. image:: _static/images/28_90.png
+       :alt: 90th problem
+       :align: center
+
+    Let :math:`AE` be the plane of lake and :math:`AC` be the height of the cloud. :math:`F` is the point of observation at a
+    height :math:`h` from lake. :math:`AD` is the reflection of cloud in the lake. Clearly, :math:`AC = AD`. Draw :math:`AE || BF`
+    and let :math:`BF = x`. :math:`\alpha` and :math:`\beta` are angles of elevation and depression as given.
+
+    In :math:`\triangle BCF, \tan\alpha = \frac{BC}{BF} = \frac{BC}{x}\Rightarrow BC = x\tan\alpha`
+
+    :math:`AC = AD = AB + BC = h + x\tan\alpha`
+
+    In :math:`\triangle BDF, \tan\beta = \frac{AB + AD}{BF} = \frac{h + h + x\tan\alpha}{x} \Rightarrow x = \frac{2h}{\tan\beta -
+    \tan\alpha}`
+
+    :math:`AC = AB + BC = h + x\tan\alpha = \frac{h(\tan\alpha + \tan\beta)}{\tan\beta - \tan\alpha}`.
+
+91. The diagram is given below:
+
+    .. image:: _static/images/28_91.png
+       :alt: 91st problem
+       :align: center
+
+    Let the cicle represent round balloon centered at :math:`O` having radius :math:`r`. :math:`B` is the point of observation from
+    where angle of elevation to the center of the balloon is given as :math:`\beta`. :math:`BL` and :math:`BM` are tangents to the
+    balloon and :math:`OL` and :math:`OM` are perpendiculars. Clearly :math:`OL = OM = r`. GIven :math:`\angle LBM = \alpha` and
+    :math:`\angle OBL = \angle OBM = \alpha/2`.
+
+    In :math:`\triangle OBL, \sin\alpha/2 = \frac{OL}{OB} \Rightarrow OB = r\cosec\alpha/2`.
+
+    In :math:`\triangle ABO, \sin\beta = \frac{AO}{OB}\Rightarrow AO = r\sin\beta\cosec\alpha/2`.
+
+92. The diagram is given below:
+
+    .. image:: _static/images/28_92.png
+       :alt: 92nd problem
+       :align: center
+
+    Let :math:`AB` be the cliff having a height :math:`h` and :math:`F` be the initial point of observation from where the angle of
+    elevation is :math:`\theta`. Let :math:`D` be the point reached after walking a distance :math:`k` towards the top at an angle
+    :math:`\phi`. The angle of elevation at :math:`D` is :math:`\alpha`.
+
+    In :math:`\triangle DEF, \sin\phi = \frac{DE}{DF} \Rightarrow DE = k\sin\phi, \cos\phi = \frac{EF}{DF} \Rightarrow EF =
+    k\cos\phi`.
+
+    In :math:`\triangle ABF, \tan\theta = \frac{AB}{BF} \Rightarrow \frac{x}{k\cos\phi + (x - k\sin\phi)\cot\alpha}`
+
+    :math:`\Rightarrow x\cot\theta = k\cos\phi + x\cot\alpha - k\sin\phi\cot\alpha \Rightarrow x(\cot\theta - \cot\alpha) =
+    k(\cos\phi - \sin\phi\cot\alpha)`
+
+    :math:`\Rightarrow x = \frac{k(\cos\phi - \sin\phi\cot\alpha)}{\cot\theta - \cot\alpha}`.
+
+93. The diagram is given below:
+
+    .. image:: _static/images/28_93.png
+       :alt: 93rd problem
+       :align: center

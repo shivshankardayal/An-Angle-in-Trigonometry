@@ -619,12 +619,14 @@ Height and Distance Solutions Part 1
        :align: center
 
     Let :math:`AC` be the full tree and :math:`BC` is the portion which has fallen. :math:`BC` becomes :math:`BD` after falling and
-    angle of elevation is :math:`30^\circ`. Let the height of remaining portion of tree be :math:`AB = x` m. Also, :math:`BC = BD =
-    8` m.
+    angle of elevation is :math:`30^\circ`. Let the height of remaining portion of tree be :math:`AB = x` m. Given, :math:`AD = 8`
+    m and :math:`BC = BD`, which is broken part of tree.
 
-    In :math:`\triangle ABC, \sin30^\circ = \frac{1}{2} = \frac{AB}{BD} \Rightarrow AB = 4` m.
+    In :math:`\triangle ABC, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{AB}{AD} \Rightarrow AB = \frac{8}{\sqrt{3}}` m.
 
-    Thus, total height of the tree is :math:`12` m.
+    Also, :math:`\cos30^\circ = \frac{\sqrt{3}}{2} = \frac{AD}{BD} \Rightarrow BD = 4\sqrt{3}` m.
+
+    Thus, height of the tree :math:`AC = AB + BC = AB + BD = \frac{20}{\sqrt{3}}` m.
 
 50. The diagram is given below:
 
