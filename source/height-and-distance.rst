@@ -379,8 +379,9 @@ Problems
     due east of the tower is :math:`\beta`. If :math:`AB = d`, show that the height of the tower is
     :math:`\frac{d}{\sqrt{\cot^2\alpha + \cot^2\beta}}`.
 
-94. The elevation of a tower at a station :math:`A` due north of it is :math:`\alpha` and at a station :math:`B` due west of it is
-    :math:`\beta`. Prove that the height of tower is :math:`\frac{AB\sin\alpha\sin\beta}{\sqrt{\sin^2\alpha - \sin^2\beta}}`.
+94. The elevation of a tower at a station :math:`A` due north of it is :math:`\alpha` and at a station :math:`B` due west of
+    :math:`A` is :math:`\beta`. Prove that the height of tower is :math:`\frac{AB\sin\alpha\sin\beta}{\sqrt{\sin^2\alpha -
+    \sin^2\beta}}`.
 
 95. A :math:`1.2` m tall girl spots a balloon moving with the wind in a horizontal line at a height of :math:`88.2` m from the
     ground. The angle of elevation from the eyes of the girl at any instant is :math:`60^\circ`. After some time, the angle of

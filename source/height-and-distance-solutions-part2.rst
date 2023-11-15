@@ -372,3 +372,92 @@ Height and Distance Solutions Part 2
     .. image:: _static/images/28_93.png
        :alt: 93rd problem
        :align: center
+
+    Let :math:`CD` be the tower having a height :math:`h`. Point :math:`A` is due south of :math:`A` making an angle of elevation
+    :math:`\alpha` and :math:`B` is due east of tower making an angle of elevation :math:`\beta`. Clearly, :math:`\angle ACB =
+    90^\circ`. Given that :math:`AB = d`.
+
+    In :math:`\triangle ACD, \tan\alpha = \frac{CD}{AC} \Rightarrow AC  = h\cot\alpha` and in :math:`\triangle BCD, \tan\beta =
+    \frac{CD}{BC} \Rightarrow BC = h\cot\beta`.
+
+    In :math:`\triangle ABC, AB^2 = AC^2 + AD^2 \Rightarrow d^2 = h^2\cot^2\alpha + h^2\cot^2\beta \Rightarrow h =
+    \frac{d}{\sqrt{\cot^2\alpha + \cot^2\beta}}`.
+
+94. This problem is similar to :math:`93` and has been left as an exercise.
+
+95. The diagram is given below:
+
+    .. image:: _static/images/28_95.png
+       :alt: 95th problem
+       :align: center
+
+    Let :math:`AB` be the girl having a height of :math:`1.2` m, :math:`C` and :math:`F` be the two places of balloon for which
+    angle of elevations are :math:`60^\circ` and :math:`30^\circ` respectively. Height of ballon above ground level is given as
+    :math:`88.2` m and thus height of balloon above the girl's eye-level is :math:`88.2 - 1.2 = 87` m.
+
+    In :math:`\triangle ACD, \tan60^\circ = \frac{CD}{AD} \Rightarrow AD = 87/\sqrt{3}` m.
+
+    In :math:`\triangle AFG, \tan30^\circ = \frac{FG}{AG} \Rightarrow AG = 87\sqrt{3}` m.
+
+    Thus distance trarvelled by the ballon :math:`= 87\sqrt{3} - 87/\sqrt{3} = 174/\sqrt{3}`
+
+96. The diagram is given below:
+
+    .. image:: _static/images/28_96.png
+       :alt: 96th problem
+       :align: center
+
+    Let :math:`AB` represent the tower with a height :math:`h`. Let :math:`C` and :math:`D` be the points to which angles of
+    depression are given as :math:`60^\circ` and :math:`30^\circ` which are shown as angles of elevation at these points.
+
+    In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{AB}{AC} \Rightarrow AC = h/\sqrt{3}`
+
+    In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{AB}{AD} \Rightarrow AD = h\sqrt{3}`
+
+    :math:`CD = AD - AC = 2h/\sqrt{3}`
+
+    The car covers the distance :math:`CD` in six seconds. Thus speed of the car if :math:`2h/(6\sqrt{3}) = h/3\sqrt{3}`
+
+    Time taken to cover :math:`AC` to reach the foot of the tower is :math:`\frac{h}{\sqrt{3}}\times\frac{3\sqrt{3}}{h} = 3`
+    seconds.
+
+97. Proceeding like previous problem the answer would be three minutes.
+
+98. This problem is similar to :math:`96` and has been left as an exercise.
+
+99. The diagram is given below:
+
+    .. image:: _static/images/28_99.png
+       :alt: 99th problem
+       :align: center
+
+    Let :math:`AB` be the building having height :math:`h` m. Let :math:`C` and :math:`D` be the fire stations from which the
+    angles of elevation are :math:`60^\circ` and :math:`45^\circ` separated by :math:`20,000` m.
+
+    In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{AB}{AC}\Rightarrow AC = h/\sqrt{3}` m.
+
+    In :math:`\triangle ABD, \tan45^\circ = h = \frac{AB}{AD}\Rightarrow AD = h` m.
+
+    Since :math:`AD < AD` so the fire station at :math:`C` will reach the building faster.
+
+               :math:`AD = AC + CD \Rightarrow h = h/\sqrt{3} + 20000 \Rightarrow h = \frac{20000\sqrt{3}}{\sqrt{3} - 1}`
+
+    :math:`\therefore AC = \frac{2000}{\sqrt{3} - 1}` m.
+
+100. The diagram is given below:
+
+     .. image:: _static/images/28_100.png
+        :alt: 100th problem
+        :align: center
+
+     Let :math:`AB` be the deck of the ship with given height of :math:`10` m. Let :math:`CE` be the cliff with base at
+     :math:`C`. Let the height of portion :math:`DE` be :math:`x` m. The angles of elevation of the top and of the bottom of the
+     cliff are shown as given in the question.
+
+     In :math:`\triangle BDE, \tan45^\circ = DE/BD \Rightarrow BD = x` m.
+
+     In :math:`\triangle, \tan30^circ = CD/BD \Rightarrow BD = 10\sqrt{3} = x`
+
+     Thus, :math:`CE = 10 + 10\sqrt{3} = 27.32` m.
+
+     So height of the cliff is :math:`27.32` m and distance of cliff from the ship is :math:`10` m.
