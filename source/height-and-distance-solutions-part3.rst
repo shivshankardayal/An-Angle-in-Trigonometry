@@ -1,5 +1,5 @@
 Height and Distance Solutions Part 3
-************************************
+*************************************
 101. The diagram is given below:
 
      .. image:: _static/images/28_101.png
@@ -214,3 +214,404 @@ Height and Distance Solutions Part 3
      .. image:: _static/images/28_115.png
         :alt: 115th problem
         :align: center
+
+     Let :math:`AB` be the lamp post, :math:`EF` and :math:`GH` be the two positions of the man having
+     height :math:`6` ft. Let the shdows be :math:`EC` and :math:`GD` of lengths :math:`24` ft. and
+     :math:`30` ft. for initial and final position. Since the man moves eastward from his initial position
+     :math:`\therefore \angle ACD = 90^\circ`.
+
+     Let :math:`AB = h, AE = x` and :math:`AG = y`.
+
+     From similar triangles :math:`CEF` and :math:`ABC`
+
+     :math:`\frac{h}{6} = \frac{24 + x}{24}`
+
+     From similar triangles :math:`ABD` and :math:`DGH`
+
+     :math:`\frac{h}{6} = \frac{30 + y}{30}`
+
+     Thus, :math:`1 + \frac{x}{24} = 1 + \frac{y}{30} \Rightarrow y = \frac{5x}{4}`.
+
+     From right angles :math:`\triangle ACD`,
+
+     :math:`y^2 = x^2 + 300^2 \Rightarrow x = 400` ft.
+
+     :math:`\Rightarrow h = 106` ft.
+
+116. The diagram is given below:
+
+     .. image:: _static/images/28_116.png
+        :alt: 116th problem
+        :align: center
+
+     Let :math:`AB` be the tower having a height of :math:`h` m, :math:`AC` be the final length of shadow taken as :math:`x` m,
+     :math:`AD` is the initial length of shadow which is :math:`5` m more than finla length i.e. :math:`CD = 5` m. The angles of
+     elevation are shown as given in the problem.
+
+     In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{h}{x} \Rightarrow x = \frac{h}{\sqrt{3}}`
+
+     In :math:`\triangle ABD, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{h}{x + 5} \Rightarrow \frac{2h}{\sqrt{3}} = 5`
+
+     :math:`\Rightarrow h = \frac{5\sqrt{3}}{2} = 4.33` m.
+
+117. The diagram is given below:
+
+     .. image:: _static/images/28_117.png
+        :alt: 117th problem
+        :align: center
+
+     Let :math:`A` be the initial position of the man and :math:`D` and :math:`E` be the objects in the west. Let :math:`DE = x, AD
+     = y, \angle ADB=\theta, \angle AEB = \phi` and :math:`\angle ADC=\psi`. :math:`\alpha` and :math:`\beta` are the angles made
+     by objects on the two positions of the man as given in the problem.
+
+     :math:`\Rightarrow \tan\theta = \frac{c}{y}` and :math:`\tan\phi = \frac{c}{x + y}`
+
+     Now :math:`\theta - \phi = \alpha \Rightarrow \tan(\theta - \phi) = \tan\alpha`
+
+     :math:`\Rightarrow \frac{\tan\theta - \tan\phi}{1 + \tan\theta\tan\phi} = \tan\alpha`
+
+     :math:`\Rightarrow \frac{\frac{c}{y} - \frac{c}{x + y}}{1 + \frac{c}{y}\frac{c}{x + y}} = \tan\alpha`
+
+     :math:`\Rightarrow cx\cot\alpha = xy + y^2 + c^2`
+
+     Similarly, substituting :math:`2c` for :math:`x` and :math:`\psi` for :math:`\phi`, we get
+
+     :math:`2cx\cot\beta = xy + y^2 + 4c^2 \Rightarrow x= \frac{3c}{2\cot\beta - \cot\alpha}`.
+
+118. The diagram is given below:
+
+     .. image:: _static/images/28_118.png
+        :alt: 118th problem
+        :align: center
+
+     Let :math:`P` be the object and :math:`OA` be the straight line on which :math:`B` and :math:`C` lie underneath the object.
+     Let :math:`OP = h`. According to question the angles of elevation made are :math:`\alpha, 2\alpha` and :math:`3\alpha` from
+     :math:`A, B` and :math:`C` i.e. :math:`\angle PCO = 3\alpha, \angle PBO = 2\alpha` and :math:`\angle PAO = \alpha`. Given that
+     :math:`AB = \alpha` and :math:`BC = b`.
+
+     :math:`\angle APB = 2\alpha - \alpha = \alpha` and :math:`\angle BPC = 3\alpha - 2\alpha = \alpha`
+
+     :math:`\therefore AB = BP = a`
+
+     In :math:`\triangle PBC, \frac{BC}{\sin\alpha} = \frac{PB}{\sin(180^\circ - 3\alpha)} \Rightarrow \frac{b}{\sin\alpha} =
+     \frac{a}{\
+     sin3\alpha}`
+
+     :math:`\Rightarrow \frac{a}{b} = \frac{\sin3\alpha}{\sin\alpha} = 3 - 4\sin^2\alpha \Rightarrow \sin\alpha = \sqrt{\frac{3b -
+     a}{4b}}`
+
+     In :math:`\triangle OPB, OP = BP\sin2\alpha = 2a\sin\alpha\cos\alpha = \frac{a}{2b}\sqrt{(a + b)(3b - a)}`
+
+119. This problem is similar to :math:`92` and has been left as an exercise.
+
+120. The diagram is given below:
+
+     .. image:: _static/images/28_120.png
+        :alt: 120th problem
+        :align: center
+
+     Let :math:`\theta` be the angle of inclination of the inclines plane :math:`AC`. Let :math:`AB = c` and
+     :math:`BC = c`. Let the object be at :math:`D`. Now :math:`\angle DBA = \theta - \alpha` and
+     :math:`\angle DCA = \theta - \beta`.
+
+     Using sine rule in :math:`\triangle DAB, \frac{c}{\sin\alpha} = \frac{AD}{\sin(\theta - \alpha)}`
+
+     :math:`\Rightarrow AD = \frac{c\sin(\theta - \alpha)}{\sin\alpha}`
+
+     Applying sine rule in :math:`\triangle DAC, \frac{2c}{\sin\beta} = \frac{AD}{\sin(\theta - \beta)}`
+
+     :math:`\Rightarrow AD = \frac{2\sin(\theta - \beta)}{\sin\beta}`
+
+     :math:`\Rightarrow \frac{c\sin(\theta - \alpha)}{\sin\alpha} = \frac{2c\sin(\beta - \beta)}{\sin\beta}`
+
+     :math:`\Rightarrow \frac{\sin\theta\cos\alpha - \cos\theta\sin\alpha}{\sin\theta\sin\alpha} =
+     \frac{2[\sin\theta\cos\beta - \cos\theta\sin\beta]}{\sin\theta\sin\beta}`
+
+     :math:`\Rightarrow \cot\alpha - \cot\theta = 2(\cot\beta - \cot\beta)`
+
+     :math:`\Rightarrow \cot\theta = 2\cot\beta - \cot\alpha`.
+
+121. The question is same as :math:`109` just that we have a different relation to prove. From :math:`109`
+     we have
+
+     :math:`\frac{a}{b} = \frac{\cos\beta - \cos\alpha}{\sin\alpha - \sin\beta}`
+
+     :math:`= \frac{2\sin\frac{\alpha + \beta}{2}\sin\frac{\alpha - \beta}{2}}{2\cos\frac{\alpha +
+     \beta}{2}\sin\frac{\alpha - \beta}{2}}`
+
+     :math:`= \tan\frac{\alpha + \beta}{2}\Rightarrow a = b\tan\frac{\alpha + \beta}{2}`.
+
+122. The diagram is given below:
+
+     .. image:: _static/images/28_122.png
+        :alt: 122nd problem
+        :align: center
+
+     Given that :math:`A` and :math:`B` are two points of observation on ground :math:`1000` m apart. Let
+     :math:`C` be the point where the balloon will hit the ground at a distance :math:`x` m from
+     :math:`B`. Also, let :math:`D` and :math:`E` be the points above :math:`A` and :math:`B` respectively
+     such that :math:`\angle BAE= 30^\circ` and :math:`\angle DBA = 60^\circ`.
+
+     In :math:`\triangle ABD, \tan60^\circ = \sqrt{3} = \frac{AD}{AB}\Rightarrow AD = 1000\sqrt{3}` m.
+
+     In :math:`\triangle ABE, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{BE}{AB}\Rightarrow BE =
+     \frac{1000}{\sqrt{3}}` m.
+
+     Clearly, :math:`\triangle BCE` and :math:`ACD` are similar. Therefore,
+
+     :math:`\frac{BC}{AC} = \frac{BE}{AD} \Rightarrow \frac{x}{x + 1000} =
+     \frac{1000}{1000\sqrt{3}.\sqrt{3}}`
+
+     :math:`\Rightarrow x = 500 \Rightarrow AC = 1500` m.
+
+123. The diagram is given below:
+
+     .. image:: _static/images/28_123.png
+        :alt: 123rd problem
+        :align: center
+
+     Let :math:`AB` be tree having height :math:`h` m and :math:`BC` be the width of the river having width
+     :math:`w` m. According to question angle of elevation of the tree from the opposite bank is
+     :math:`60^\circ`. Also, let :math:`D` be the point when the man retires :math:`40` m from where the
+     angle of elevation of the tree is :math:`30^\circ`.
+
+     In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{h}{w} \Rightarrow h = w\sqrt{3}` m.
+
+     In :math:`\triangle ABD, \tan30^\circ = \frac{h}{w + 40}\Rightarrow 3w = w + 40 \Rightarrow w = 20` m.
+
+     :math:`\Rightarrow h = 20\sqrt{3}` m.
+
+     Thus, width of the river is :math:`20` m and height of the tree is :math:`20\sqrt{3}` m.
+
+124. The diagram is given below:
+
+     .. image:: _static/images/28_124.png
+        :alt: 124th problem
+        :align: center
+
+     Let :math:`O` be the point of observation. The bird is flying in the horizontal line :math:`WXYZ`. The
+     angles of elevation of the bird is given at equal intervals of time. Since the speed of the bird is
+     constant :math:`WX = XY = YZ = y` (let). From question :math:`\angle AOW = \alpha, \angle BOX = \beta,
+     \angle COY = \gamma` and :math:`\angle DOZ = \delta`. Let :math:`OA = x` and :math:`AW = h`.
+
+     In :math:`\triangle AOW, \cot\alpha = \frac{x}{h}`
+
+     In :math:`\triangle BOX, \cot\beta = \frac{x + y}{h}`
+
+     In :math:`\triangle COY, \cot\gamma = \frac{x + 2y}{h}`
+
+     In :math:`\triangle DOZ, \cot\delta = \frac{x + 3y}{h}`
+
+     L.H.S. :math:`= \cot^2\alpha - \cot^2\delta = \frac{-6xy - 9y^2}{h^2}`
+
+     R.H.S. :math:`= \cot^2\beta - \cot^2\gamma = \frac{-6xy - 9y^2}{h^2}`
+
+     :math:`\therefore` L.H.S. = R.H.S.
+
+125. The diagram is given below:
+
+     .. image:: _static/images/28_125.png
+        :alt: 125th problem
+        :align: center
+
+     Let :math:`AB` be the tower, :math:`BC` be the pole and :math:`D` be the point of observation where the
+     tower and the pole make angles :math:`\alpha` and :math:`\beta` respectively. Let the height of the
+     tower be :math:`h'` and :math:`AD = d`. Given that the height of the pole is :math:`h`.
+
+     In :math:`\triangle ABD, \cot\alpha = \frac{AD}{AB} = \frac{d}{h'} \Rightarrow d = h'\cot\alpha`
+
+     In :math:`\triangle ACD, \tan(\alpha + \beta) = \frac{AC}{AB} = \frac{h + h'}{d}`
+
+     :math:`\Rightarrow h + h' = h'\cot\alpha\tan(\alpha + \beta)`
+
+     :math:`h' = \frac{h}{\cot\alpha\tan(\alpha + \beta) - 1} = \frac{h\sin\alpha\cos(\alpha +
+     \beta)}{\sin(\alpha + \beta)\cos\alpha - \cos(\alpha + \beta)\sin\alpha}`
+
+     :math:`= \frac{h\sin\alpha\cos(\alpha + beta)}{\sin(\alpha + \beta - \alpha)} =
+     h\sin\alpha\cosec\beta\cos(\alpha + \beta)`
+
+126. The diagram is given below:
+
+     .. image:: _static/images/28_126.png
+        :alt: 126th problem
+        :align: center
+
+     Given :math:`AC = BC = x` (let) and :math:`\angle BPC = \beta`.
+
+     Let :math:`\angle BPA = \theta` then :math:`\angle CPA = \theta - \beta`
+
+     In :math:`\triangle APC, \tan(\theta - \beta) = \frac{x}{AP}`
+
+     In :math:`\triangle APB, \tan\theta = \frac{2x}{AP}`
+
+     :math:`\Rightarrow \tan\theta = 2\tan(\theta - \beta) = \frac{2(\tan\theta - \tan\beta)}{1 +
+     \tan\theta\tan\beta}`
+
+     :math:`\tan\theta = \frac{AB}{AP} = \frac{1}{n}` (from question)
+
+     :math:`\Rightarrow \frac{1}{n} = \frac{2\left(\frac{1}{n} - \tan\beta\right)}{1 + \frac{\tan\beta}{n}}`
+
+     :math:`\Rightarrow \tan\beta = \frac{n}{2n^2 + 1}`.
+
+127. The diagram is given below:
+
+     .. image:: _static/images/28_127.png
+        :alt: 127th problem
+        :align: center
+
+     Let :math:`AB` be the first chimney and :math:`CD` be the second chimney. The angles of elevation are
+     shown as angles of elevation as given in the problem. Draw :math:`BE||AC` and let :math:`AC = BE = d` m
+     and :math:`AB = CE = h` m. Given :math:`CD = 150` m. Clearly, :math:`DE = 150 - h` m.
+
+     In :math:`\triangle BED, \tan\theta = \frac{4}{3} = \frac{150 - h}{d} \Rightarrow 4d = 450 - 3h`
+
+     In :math:`\triangle ACD, \tan\phi = \frac{5}{2} = \frac{150}{d} \Rightarrow d = 60` m.
+
+     :math:`\Rightarrow h = 70` m. :math:`\Rightarrow BE = 60` m and :math:`ED = 150 - 70 = 80` m.
+
+     :math:`BD^2 = BE^2 + DE^2 = 80^2 + 60^2 \Rightarrow BD = 100` m, which, is the distance between the tops
+     of two chimneys.
+
+128. The diagram is given below:
+
+     .. image:: _static/images/28_128.png
+        :alt: 128th problem
+        :align: center
+
+     Let :math:`CD` be the tower of height :math:`h` having an elevation of :math:`30^\circ` from :math:`A`
+     which is southward of it. Let :math:`B` be eastward of :math:`A` at a distance of :math:`a` from it
+     from where the angle of elevation is :math:`18^\circ`. Since :math:`B` is eastward of :math:`A
+     \angle CAB = 90^\circ`.
+
+     In :math:`\triangle ACD, \tan 30^\circ = \frac{h}{AC} \Rightarrow AC = h\sqrt{3}`
+
+     In :math:`\triangle BCD,, \tan18^\circ = \frac{h}{BC} \Rightarrow BC = h\cot18^\circ`
+
+     In :math:`\triangle ABC, BC^2 = a^2 + AC^2 \Rightarrow h^2\cot^218^\circ = a^2 + 3h^2`
+
+     :math:`\therefore h = \frac{a}{\sqrt{\cot^218^\circ - 3}}`
+
+     Now :math:`\cot^218^\circ = 5 + 2\sqrt{5} \therefore h = \frac{a}{\sqrt{2 + 2\sqrt{5}}}`.
+
+129. The diagram is given below:
+
+     .. image:: _static/images/28_129.png
+        :alt: 129th problem
+        :align: center
+
+     Let :math:`AB` be the tower having height :math:`h`. Given that :math:`P` is north of the tower and
+     :math:`Q` is due west of :math:`P\therefore \angle APQ= 90^\circ`.
+
+     In :math:`\triangle ABP, \tan\theta = \frac{h}{AP} \Rightarrow AP = h\cot\theta`
+
+     In :math:`\triangle ABQ, \tan\phi = \frac{h}{AQ} \Rightarrow AQ = h\cot\phi`
+
+     In :math:`\triangle APQ, AQ^2 = AP^2 + PQ^2`
+
+     :math:`\Rightarrow PQ^2 = h^2[\cot^2\phi - \cot^2\theta]`
+
+     :math:`\Rightarrow h = \frac{PQ}{\sqrt{\cot^2\phi - \cot^2\theta}}`
+
+     :math:`= \frac{PQ\sin\theta\sin\phi}{\sqrt{\sin^2\theta\cos^2\phi - \sin^2\phi\cos^2\theta}}`
+
+     :math:`= \frac{PQ\sin\theta\sin\phi}{\sqrt{(\sin^2\theta(1 - \sin^2\phi)) - \sin^2\phi(1 -
+     \sin^2\theta)}}`
+
+
+     :math:`= \frac{PQ\sin\theta\sin\phi}{\sqrt{\sin^2\theta - \sin^2\phi}}`.
+
+130. The diagram is given below:
+
+     .. image:: _static/images/28_130.png
+        :alt: 130th problem
+        :align: center
+
+     Let :math:`B` be the peak having a height of :math:`h` with base :math:`A`. Let :math:`PQ` is the
+     horizontal base having a length :math:`2a` making angle of elevation of :math:`\theta` from each
+     end. Let :math:`R` be the mid-point of :math:`PQ` from where the angle of elevation of :math:`B` is
+     :math:`\phi` as given in the question.
+
+     Thus, :math:`\angle APB = \angle AQB = \theta` and :math:`\angle ARB = \phi`.
+
+     In :math:`\triangle APB, \tan\theta = \frac{h}{AP} \Rightarrow AP = h\cot\theta`
+
+     Similarly, :math:`AQ = h\cot\theta` and :math:`AR = h\cot\phi`
+
+     :math:`\because AR` is the median of the :math:`\triangle APQ`
+
+     :math:`\therefore AP^2 + AQ^2 = 2PR^2 + 2AR^2`
+
+     :math:`\Rightarrow 2h^2\cot^2\theta = 2a^2 + 2h^2\cot^2\phi`
+
+     :math:`\Rightarrow h^(\cot^2\theta - \cot^2\phi) = a^2`
+
+     :math:`\Rightarrow h = \frac{a}{\sqrt{\frac{\cos^2\theta}{\sin^2\theta} -
+     \frac{\cos^2\phi}{\sin^2\phi}}}`
+
+     :math:`= \frac{a\sin\theta\sin\phi}{\sqrt{(\sin\phi\cos\theta +
+     \cos\phi\sin\theta)(\sin\phi\cos\theta - \cos\phi\sin\theta)}}`
+
+     :math:`= \frac{a\sin\theta\sin\phi}{\sqrt{\sin(\theta + \phi)\sin(\phi - \theta)}}`
+
+131. The diagram is given below:
+
+     .. image:: _static/images/28_131.png
+        :alt: 131st problem
+        :align: center
+
+     Let :math:`B` be the top of the hill such that height of the hill :math:`AB` is :math:`h` and :math:`P,
+     R, Q` be the three consecutive milestones. Given, :math:`\angle APB = \alpha, \angle ARB = \beta,
+     \angle AQB = \gamma`.
+
+     In :math:`\triangle APB, \tan\alpha = \frac{h}{AP}\Rightarrow AP = h\cot\alpha`
+
+     Similalrly, :math:`AR = h\cot\beta` and :math:`AQ = h\cot\gamma`
+
+     Also, :math:`PR = QR = 1` mile.
+
+     :math:`\because PR = QR, AR` is the median of the triangle :math:`APR`.
+
+     :math:`\therefore AP^2 + AR^2 = 2PR^2 + 2AQ^2 \Rightarrow h^2(\cot^2\alpha + \cot^2\gamma) = 2 +
+     2h^2\cot^2\beta`
+
+     :math:`\Rightarrow h = \sqrt{\frac{2}{\cot^2\alpha + \cot^2\gamma - 2\cot^2\beta}}` miles.
+
+132. The diagram is given below:
+
+     .. image:: _static/images/28_132.png
+        :alt: 132nd problem
+        :align: center
+
+     Let :math:`OP` be the tower haing a height of :math:`h` which is to be found. Let :math:`ABC` be the
+     equilateral triangle. Given that :math:`OP` subtends angles of :math:`\alpha, \beta, \gamma` at
+     :math:`A, B, C` respectively. Given that :math:`\tan\alpha = \sqrt{3} + 1` and :math:`\tan\beta =
+     \tan\gamma = \sqrt{2}`. It is given that :math:`OP` is perpendicular to the plane of :math:`\triangle
+     ABC`.
+
+     In :math:`\triangle AOP, \tan\alpha = \frac{h}{OA} \Rightarrow \sqrt{3} + 1 = \frac{h}{OA} \Rightarrow
+     OA = \frac{h}{\sqrt{3} + 1}`
+
+     Similarly, :math:`OB = OC = \frac{h}{\sqrt{2}}`
+
+     In :math:`\triangle AOB` and :math:`AOC`, :math:`AB = AC, OB = OC, OA` is common. :math:`\therefore
+     \triangle AOB` and :math:`\triangle AOC` are equal.
+
+     :math:`\therefore \angle OAB = \angle OAC` but :math:`\angle BAC = 60^\circ`
+
+     :math:`\Rightarrow \angle OAB = \angle OAC = 30^\circ`
+
+     Using sine rule in the :math:`\triangle OAB, \frac{OB}{\sin30^\circ} = \frac{OA}{\sin\theta}` (let
+     :math:`\angle ABO = \theta`)
+
+     :math:`\Rightarrow \frac{\frac{h}{\sqrt{2}}}{\frac{1}{2}} = \frac{\frac{h}{\sqrt{3} + 1}}{\sin\theta}`
+
+     :math:`\Rightarrow \sin\theta = \frac{\sqrt{3} - 1}{2\sqrt{2}} = \sin15^\circ`
+
+     :math:`\Rightarrow \theta = 15^\circ`
+
+     :math:`\Rightarrow \angle OBD = \angle ABC - \theta = 45^\circ`
+
+     In :math:`\triangle BOC, OB=OC, OD\perp BC \therefore BD = DC = 40'`
+
+     In :math:`\triangle OBD, \cos45^\circ = \frac{BD}{OB} \Rightarrow \frac{1}{\sqrt{2}} =
+     \frac{40}{h\sqrt{2}}\Rightarrow h = 80'`

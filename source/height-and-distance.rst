@@ -476,7 +476,7 @@ Problems
      :math:`AB = a, BC = b`, show that the height of the object is :math:`\frac{a}{2b}\sqrt{(a + b)(3b - a)}`.
 
 119. At the foot of a mountain the elevation of its summit is :math:`45^\circ`; after ascending one kilometer towards the mountain
-     upon an incline of :math:`30^\circ`, the elevation changes to :math:`606\circ`. Find the height of the mountain.
+     upon an incline of :math:`30^\circ`, the elevation changes to :math:`60^\circ`. Find the height of the mountain.
 
 120. A man observes that when he has walked :math:`c` m up an inclined plane, the angular depression of an object in a horizontal
      plane through the foot of the slope is :math:`\alpha` and when he walked a further distance of :math:`c` m, the depression is
@@ -492,7 +492,7 @@ Problems
      :math:`30^\circ` as seen from :math:`A`. Find the distance from :math:`A` of the point at which it will strike the plane.
 
 123. A person standing on the bank of a river observes that the angle subtended by a tree on the opposite bank is
-     :math:`50^\circ`. When he retires :math:`40` m from the bank perpendicular to it, he finds the angle to be :math:`30^\circ`,
+     :math:`60^\circ`. When he retires :math:`40` m from the bank perpendicular to it, he finds the angle to be :math:`30^\circ`,
      find the height of the tree and the breadth of the river.
 
 124. The angles of elevation of a bird flying in a horizontal straight line from a point at four consecutive observations are
@@ -509,13 +509,13 @@ Problems
 
 127. The angular depression of the top and the foot of a chimney as seen from the top of a second chimney, which is :math:`150` m
      high and standing on the same level as the first, are :math:`\theta` and :math:`\phi` respectively. Find the distance between
-     their tops when :math:`\tan\theta = \frac{4}{3}` and :math:`\tan\[hi \frac{5}{2}.`
+     their tops when :math:`\tan\theta = \frac{4}{3}` and :math:`\tan\phi = \frac{5}{2}.`
 
 128. The angular elevation of a tower :math:`CD` at a place :math:`A` due south of it is :math:`30^\circ` and at a place :math:`B`
      due west of :math:`A`, the elevation is :math:`18^\circ`. If :math:`AB = a`, show that the height of the tower is
      :math:`\frac{a}{\sqrt{2 + 2\sqrt{5}}}`.
 
-129. The elevation of a tower due north of a station at :math:`P` is :math:`theta` and at a station :math:`Q` due west of :math:`P`
+129. The elevation of a tower due north of a station at :math:`P` is :math:`\theta` and at a station :math:`Q` due west of :math:`P`
      is :math:`\phi`. Prove that the height of tower is :math:`\frac{PQ.\sin\theta\sin\phi}{\sqrt{\sin^\theta - \sin^2\phi}}`.
 
 130. The angle of elevation of a certain peak when observed from each end of a horizontal baseline of length :math:`2a` is found to
