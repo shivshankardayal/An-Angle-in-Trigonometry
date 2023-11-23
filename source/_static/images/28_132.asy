@@ -33,5 +33,5 @@ label("$80'$", (c + a)/2, align=NE, 0.7*green);
 label("$h$", (o + p)/2, align=SE, 0.7*blue);
 
 markangle("$\alpha$", radius=10, o, a, p, 0.7*green + 0.5*blue);
-markangle("$\beta$", radius=10, o, b, p, 0.7*green + 0.5*blue);
+markangle("$\beta$", radius=30, o, b, p, 0.7*green + 0.5*blue);
 markangle("$\gamma$", radius=10, p, c, o, 0.7*green + 0.5*blue);

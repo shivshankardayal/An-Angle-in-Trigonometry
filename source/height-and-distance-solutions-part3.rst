@@ -615,3 +615,89 @@ Height and Distance Solutions Part 3
 
      In :math:`\triangle OBD, \cos45^\circ = \frac{BD}{OB} \Rightarrow \frac{1}{\sqrt{2}} =
      \frac{40}{h\sqrt{2}}\Rightarrow h = 80'`
+
+133. The diagram is given below:
+
+     .. image:: _static/images/28_133.png
+        :alt: 133rd problem
+        :align: center
+
+     In the diagram we have shown only one tower instead of three. We will apply cyclic formula to this one
+     tower relationships. Let :math:`P` be the position of the eye and height of :math:`PQ = x`. Let
+     :math:`AB` be the tower having a height of :math:`a` as given in the question and let the angle
+     subtended by :math:`AB` at :math:`P` is :math:`\theta`.
+
+     Thus, :math:`\angle APB = \theta, \angle PAQ = \alpha \Rightarrow \angle ABP = 180^\circ - \theta -
+     (90^\circ - \alpha) = 90^\circ + (\alpha - \theta)`
+
+     By sine rule in :math:`\triangle APB`,
+
+     :math:`\frac{a}{\sin\theta} = \frac{AP}{\sin[90^\circ + (\alpha - \theta)]} = \frac{AP}{\cos(\alpha -
+     \theta)}`
+
+     In :math:`\triangle APQ, \sin\alpha = \frac{x}{AP} \Rightarrow AP = \frac{x}{\sin\alpha}`
+
+     :math:`\Rightarrow \frac{a}{\sin\theta} = \frac{x}{\sin\alpha\cos(\alpha - \theta)}`
+
+     :math:`\Rightarrow x\sin\theta = a\sin\alpha\cos(\alpha - \theta)\Rightarrow \cos(\alpha - \theta) =
+     \frac{x\sin\theta}{a\sin\alpha}`
+
+     If we consider the other two towers we will have similar relations i.e.
+
+     :math:`\Rightarrow \cos(\beta - \theta) = \frac{x\sin\theta}{b\sin\beta}` and :math:`\cos(\gamma -
+     \theta) = \frac{x\sin\theta}{c\sin\gamma}`
+
+     Now, :math:`\frac{\sin(\beta - \gamma)}{a\sin\alpha} + \frac{\sin(\gamma - \alpha)}{b\sin\beta} +
+     \frac{\sin(\alpha - \beta)}{c\sin\gamma}`
+
+     :math:`=\displaystyle\sum\frac{\sin(\alpha - \beta)}{c\sin\gamma} =
+     \displaystyle\sum\frac{\sin(\alpha - \theta + \theta - \beta)}{c\sin\gamma}`
+
+     :math:`= \displaystyle\sum\frac{\sin(\alpha - \theta)\cos(\theta - \beta) + \cos(\alpha -
+     \theta)\sin(\theta - \beta)}{c\sin\gamma}`
+
+     :math:`=\displaystyle\sum\frac{1}{c\sin\gamma}\left[\frac{\sin(\alpha - \theta)x\sin\theta}{b\sin\beta}
+     + \frac{\sin(\theta - beta)x\sin\theta}{a\sin\alpha}\right]`
+
+     :math:`= \displaystyle\sum\frac{x\sin\theta}{abc\sin\alpha\sin\beta\sin\gamma}\left[a\sin(\alpha -
+     \theta)\sin\alpha - b\sin(\beta - \theta)sin\beta\right]`
+
+     :math:`= \frac{x\sin\theta}{abc\sin\alpha\sin\beta\sin\gamma}.0 = 0`
+
+134. The diagram is given below:
+
+     .. image:: _static/images/28_134.png
+        :alt: 134th problem
+        :align: center
+
+     Let :math:`S` be the initial position of the man and :math:`P` and :math:`Q` be the poosition of the
+     objects. Since :math:`PQ` subtends greatest angle at :math:`R`, a circle will pass through :math:`P, Q`
+     and :math:`R` and :math:`RS` will be a tangent to this circle at :math:`R`.
+
+     Also, :math:`\angle PQR = \angle PRS = \theta` (let). Let :math:`PQ = x`.
+
+     Clearly :math:`\angle SRQ = \theta + \beta`
+
+     Using sine law in :math:`\triangle PRQ, \frac{x}{\sin\beta} = \frac{PR}{\sin\theta} \Rightarrow x =
+     \frac{PR\sin\beta}{\sin\theta}`
+
+     Using sine law in :math:`\triangle PRS, \frac{PR}{\sin\alpha} = \frac{c}{\sin(\theta + \beta)}
+     \Rightarrow PR = \frac{c\sin\alpha}{\sin(\theta + \beta)}`
+
+     :math:`\Rightarrow x = \frac{c\sin\alpha\sin\beta}{\sin(\theta + \beta)\sin(\theta)} =
+     \frac{2c\sin\alpha\sin\beta}{2\sin(\theta + \beta)\sin(\theta)}`
+
+     :math:`= \frac{2c\sin\alpha\sin\beta}{\cos\beta - \cos(2\theta + \beta)}`
+
+     In :math:`\triangle QRS, \alpha + \beta + 2\theta = 180^\circ \Rightarrow 2\theta + \beta = 180^\circ -
+     \alpha`
+
+     :math:`\Rightarrow \cos(2\theta + \beta) = -\cos\alpha`
+
+     :math:`\Rightarrow x = \frac{2c\sin\alpha\sin\beta}{\cos\alpha + \cos\beta}`.
+
+135. The diagram is given below:
+
+     .. image:: _static/images/28_135.png
+        :alt: 135th problem
+        :align: center
