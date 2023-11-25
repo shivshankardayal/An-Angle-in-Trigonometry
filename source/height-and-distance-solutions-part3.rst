@@ -1,5 +1,5 @@
 Height and Distance Solutions Part 3
-*************************************
+************************************
 101. The diagram is given below:
 
      .. image:: _static/images/28_101.png
@@ -826,3 +826,80 @@ Height and Distance Solutions Part 3
      .. image:: _static/images/28_146.png
         :alt: 146th problem
         :align: center
+
+     Let :math:`AB` be the height of air-pilot which has height of :math:`h`. Let :math:`CD` be the tower
+     whose angles of depression of top and bottom of tower be :math:`30^\circ` and :math:`60^\circ`
+     respectively. Draw :math:`DE||AC` such that :math:`DE = AC`. Let the height of tower :math:`CD` be
+     :math:`x`.
+
+     In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{h}{x} \Rightarrow h = x\sqrt{3}`
+
+     In :math:`\triangle ADE, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{BE}{x}\Rightarrow BE =
+     \frac{x}{\sqrt{3}} = \frac{h}{3}`
+
+     :math:`\therefore` Height of the tower :math:`CD = h - \frac{h}{3} = \frac{2h}{3}`
+
+147. This problem is similar to :math:`146`, and has been left as an exercise.
+
+148. The diagram is given below:
+
+     .. image:: _static/images/28_148.png
+        :alt: 148th problem
+        :align: center
+
+     As the diagram shows there are two possible solutions. Let :math:`BD` and :math:`QS` be the tower of
+     height :math:`h`. According to question :math:`BC:CD = 1:2, QR:RS = 1:2` and :math:`\tan\phi =
+     \frac{1}{2}`.
+
+     In :math:`\triangle ABC, \tan\theta = \frac{h}{60}`
+
+     In :math:`\triangle ABD, \tan(\theta + \phi) = \frac{h}{20} = 3\tan\theta`
+
+     :math:`\Rightarrow \frac{\tan\theta + \tan\phi}{1 - \tan\theta\tan\phi} = 3\tan\theta`
+
+     :math:`\Rightarrow \tan\theta = 1, \frac{1}{3}`
+
+     :math:`\Rightarrow h = 20, 60`
+
+149. The diagram is given below:
+
+     .. image:: _static/images/28_149.png
+        :alt: 149th problem
+        :align: center
+
+     Let :math:`AB` be the man given a height of :math:`2` m making an angle of :math:`\theta` on the
+     opposite side of the bank at :math:`O`. Let :math:`AC` be the tower having a height :math:`64` m
+     making an angle of :math:`\phi` at :math:`O`. Let :math:`CD` be the statue having a height of :math:`8`
+     m at the top of tower making the angle :math:`\theta`, which is equal to the angle made by the man at
+     :math:`O`. Let the width of the river be :math:`AO = x` m.
+
+     In :math:`\triangle ABO, \tan\theta = \frac{2}{x}`
+
+     In :math:`\triangle ACO, \tan(\theta + \phi) = \frac{64}{x}`
+
+     In :math:`\triangle ADO, \tan(2\theta + \phi) = \frac{72}{x}`
+
+     :math:`\Rightarrow \frac{\tan(\theta + \phi) + \tan\theta}{1 - \tan(\theta + \phi)\tan\theta} =
+     \frac{72}{x}`
+
+     :math:`\Rightarrow \frac{\frac{64}{x} + \frac{2}{x}}{1 - \frac{64}{x}.\frac{2}{x}} = \frac{72}{x}`
+
+     :math:`\Rightarrow x = 16\sqrt{6}` m.
+
+149. The diagram is given below:
+
+     .. image:: _static/images/28_150.png
+        :alt: 150th problem
+        :align: center
+
+     Let :math:`BC` be the statue given a height of :math:`a` placed over the column :math:`AB` given a
+     height of :math:`b`. Let both of these make an angle of :math:`\theta` at :math:`Q` the top of the
+     observer :math:`PQ` given a height of :math:`h`. Let the distance :math:`AP = d`.
+
+     Clearly, :math:`BQ` is the bisector of :math:`\angle AQC` and hence it will divide the opposite side in
+     in the ratios of the sides of the angle.
+
+     :math:`\Rightarrow \frac{AB}{BC} = \frac{b}{a} = \frac{AQ}{CQ} \Rightarrow \frac{b^2}{a^2} =
+     \frac{d^2 + h^2}{d^2 + (a + b - h)^2}`
+
+     :math:`\Rightarrow (a - b)d^2 = (a + b)b^2 - 2b^2h - (a - b)h^2`
