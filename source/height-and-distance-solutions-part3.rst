@@ -701,3 +701,128 @@ Height and Distance Solutions Part 3
      .. image:: _static/images/28_135.png
         :alt: 135th problem
         :align: center
+
+     Let :math:`OP` be the tower having a height of :math:`h` and :math:`PQ` be the flag-staff having a
+     height of :math:`x`. :math:`A` and :math:`B` are the two points on the horizontal line :math:`OA`. Let
+     :math:`OB = y`. Given, :math:`AB = d, \angle QAP = \angle QBP = \alpha`.
+
+     Since :math:`\angle QAP = \angle QBP`, a circle will pass through the points :math:`A, B, P` and
+     :math:`Q` because angles in the same segment of a circle are equal.
+
+     Thus, :math:`\angle BAP = \angle BQP = \beta` (angles on the same segment :math:`BP`)
+
+     :math:`\Rightarrow \angle BPO = \angle QAO = \alpha + \beta`
+
+     In :math:`\triangle AOP, \tan\beta = \frac{h}{y + d}`
+
+     In :math:`\triangle BOP, \tan(\alpha + \beta) = \frac{y}{h} \Rightarrow y = h\tan(\alpha + \beta)`
+
+     :math:`\Rightarrow h = y\tan\beta + d\tan\beta\Rightarrow h = \frac{d\tan\beta}{1 - \tan(\alpha +
+     \beta)\tan\beta}`
+
+     In :math:`\triangle BOQ, \tan\beta = \frac{y}{x + h}\Rightarrow x\tan\beta + h\tan\beta =
+     h\tan(\alpha + \beta)`
+
+     :math:`\Rightarrow x = \frac{d[\tan(\alpha + \beta) - \tan\beta]}{1 - \tan(\alpha + \beta) + \tan\beta}`
+
+136. This question is same as :math:`92` with :math:`\alpha` replaced by :math:`\theta` and :math:`\beta`
+     replaced by :math:`\phi`.
+
+     Referring to diagram of :math:`92, AC = \frac{h(\tan\theta + \tan\phi)}{\tan\phi - \tan\theta}`
+
+     :math:`= \frac{h(\sin\theta\cos\phi + \sin\phi\cos\theta)}{\sin\phi\cos\theta - \sin\theta\cos\phi}`
+
+     :math:`= \frac{h\sin(\theta + \phi)}{\sin(\phi - \theta)}`.
+
+137. The diagram is given below:
+
+     .. image:: _static/images/28_137.png
+        :alt: 137th problem
+        :align: center
+
+     Let :math:`BC` represent the road inclined at :math:`10^\circ` to the vertical towards sun and
+     :math:`AB = 2.05` m represents the shadow where the elevation of the sun is :math:`\angle BAC =
+     38^\circ`. Thus, :math:`\angle BCA = 180^\circ - (10^\circ + 90^\circ + 38^\circ) = 42^\circ`.
+
+     Using sine rule in :math:`\triangle ABC`,
+
+     :math:`\frac{BC}{\sin38^\circ} = \frac{AB}{\sin426\circ}\Rightarrow BC =
+     \frac{2.05\sin38^\circ}{\sin42^\circ}`.
+
+138. The diagram is given below:
+
+     .. image:: _static/images/28_138.png
+        :alt: 138th problem
+        :align: center
+
+     Let :math:`CD` be the tower having a height of :math:`h` m. Let :math:`BC` be its shadow when altitude
+     of the sun is :math:`60^\circ` and :math:`AC` be its shadow when altitude of the sun is
+     :math:`30^\circ`.
+
+     Given that shadow decreases by :math:`30` m when altitude changes from :math:`30^\circ` to
+     :math:`60^\circ` i.e. :math:`AB = 30` m. Let :math:`BC = x` m.
+
+     In :math:`\triangle BCD, \tan60^\circ = \frac{h}{x} \Rightarrow h = \sqrt{3}x`
+
+     In :math:`\triangle ACD, \tan30^\circ = \frac{h}{x + 30} \Rightarrow h = 15\sqrt{3}` m.
+
+139. This problem is similar to :math:`138` and has been left as an exercise.
+
+140. This problem is similar to :math:`96` and has been left as an exercise. The answer is :math:`90` seconds.
+
+141. The diagram is given below:
+
+     .. image:: _static/images/28_141.png
+        :alt: 141st problem
+        :align: center
+
+     Let :math:`C` be the position of the aeroplane flying :math:`3000` m above ground and :math:`D` be the
+     aeroplane below it. Given that the angles of elevation of these aeroplanes are :math:`45^\circ` and
+     :math:`60^\circ` respectively. Let the height of :math:`D` is :math:`h` m and :math:`AB = d` m.
+
+     In :math:`\triangle ABC, \tan60^\circ = \sqrt{3} = \frac{3000}{d} \Rightarrow d = 1000\sqrt{3}` m.
+
+     In :math:`\triangle ABD, \tan45^\circ = 1 = \frac{h}{d} \Rightarrow h = 1000\sqrt{3}` m.
+
+     :math:`\therefore` Distance between heights of the aeroplanes :math:`= CD = 3000 - 1000\sqrt{3} =
+     1268` m.
+
+142. The diagram is given below:
+
+     .. image:: _static/images/28_142.png
+        :alt: 142nd problem
+        :align: center
+
+     Let :math:`C` and :math:`D` be two consecutive milestones so that :math:`CD = 1` mile. Let :math:`D` be
+     position of aeroplane having a height :math:`h` above :math:`A`, to which angles of elevation are
+     :math:`\alpha` and :math:`\beta` from :math:`C` and :math:`D` respectively. Let :math:`AC = x
+     \Rightarrow AD = 1 - x`.
+
+     In :math:`\triangle ABC, \tan\alpha = \frac{h}{x} \Rightarrow h = x\tan\alpha`
+
+     In :math:`\triangle ABD, \tan\beta = \frac{h}{1 - x} \Rightarrow h =
+     \frac{\tan\alpha\tan\beta}{\tan\alpha + \tan\beta}`
+
+143. This problem is similar to :math:`119` and has been left as an exercise.
+
+144. The diagram is given below:
+
+     .. image:: _static/images/28_144.png
+        :alt: 144th problem
+        :align: center
+
+     Using :math:`m:n` theorem from section 16.9,
+
+     :math:`2c\cot(\theta - 30^\circ) = c\cot15^\circ - c\cot30^\circ`
+
+     :math:`\Rightarrow \cot(\theta - 30^\circ) = 1 = \cot45^\circ`
+
+     :math:`\Rightarrow \theta = 75^\circ`.
+
+145. This problem is simmilar to :math:`138`, and has been left as an exercise.
+
+146. The diagram is given below:
+
+     .. image:: _static/images/28_146.png
+        :alt: 146th problem
+        :align: center
