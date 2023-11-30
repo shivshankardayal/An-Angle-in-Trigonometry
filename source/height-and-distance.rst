@@ -625,7 +625,7 @@ Problems
      :math:`\sin\theta = \frac{a - b}{a + b}`.
 
 152. A pillar subtends at a point :math:`d` m apart from its foot the same angle as that subtended at the same point by a statue on
-     the top. If the pillar is :math:`h` m high, show that the height of the status is :math:`\frac{b(d^2 + h^2)}{d^2 - h^2}` m.
+     the top. If the pillar is :math:`h` m high, show that the height of the status is :math:`\frac{h(d^2 + h^2)}{d^2 - h^2}` m.
 
 153. A vertical tower :math:`50` ft. high stands on a sloping ground. The foot of the tower is at the same level as the middle
      point of a vertical flag pole. From the top of the tower the angle of depression of the top and the bottom of the pole are
@@ -643,9 +643,9 @@ Problems
 156. A vertical pole is divided in the ratio :math:`1:9` by a mark on it. If the two parts subtend equal angle at a distance of
      :math:`20` m from the base of the pole, find the height of the pole. The lower part is shorter than the upper one.
 
-157. A chimney leans towards norht. At equal distancces due north and south of it in a horizontal plane, the elevation of the top
+157. A chimney leans towards north. At equal distances due north and south of it in a horizontal plane, the elevation of the top
      are :math:`\alpha,\beta`. Show that the inclination of the chimney to the vertical is
-     :math:`\tan^{-1}\left[\frac{\sin(\alpha - \beta)}{2\sin\alpha\beta}\right]`.
+     :math:`\tan^{-1}\left[\frac{\sin(\alpha - \beta)}{2\sin\alpha\sin\beta}\right]`.
 
 158. A flag staff :math:`10` m high stands in the center of an equilateral triangle which is horizontal. If each side of the
      triangle subtends an angle of :math:`60^\circ` at the top of flag staff. Prove that the length of the sides are
