@@ -669,8 +669,7 @@ Problems
 
 163. To measure the breadth :math:`PQ` of a river a man places himself at :math:`R` in the straight line :math:`PQ` produced
      through :math:`Q` and then walks :math:`100` m at right angles to this line. He then finds :math:`PQ` and :math:`QR` subtend
-     angles :math:`15^\circ` and :math:`25^\circ` at his eye. Find the breadth of the river. given :math:`L\cos25^\circ =
-     9.9572757, L\cos40^\circ = 9.8842540, L\cos45^\circ = 9.4129962, \log 37279 = 4.5714643, \log 3728 = 3.5714759`.
+     angles :math:`15^\circ` and :math:`25^\circ` at his eye. Find the breadth of the river.
 
 164. A bird is perched on the top of a tree :math:`20` m high and its elevation from a point on the ground is :math:`45^\circ`. It
      flies off horizontally straight away from the observer and in second the elevation of the bird is reduced to
@@ -682,7 +681,7 @@ Problems
 
 166. If the angular elevations of the tops of two spires which appear in a straight line is :math:`\alpha` and the angular
      depression of their reflections in a lake, :math:`h` ft. below the point of observation are :math:`\beta` and :math:`\gamma`,
-     show that the distance between the two spires is :math:`2h\cos^2\alpha\sin(\gamma - \beta){\rm cosec}(\beta - \gamma){\rm
+     show that the distance between the two spires is :math:`2h\cos^2\alpha\sin(\gamma - \beta){\rm cosec}(\beta - \alpha){\rm
      cosec}(\gamma - \alpha)` ft. where :math:`\gamma > \beta`.
 
 167. A pole stands vertically on the center of a square. When :math:`\alpha` is the elevation of the sun its shadow just reaches
@@ -698,334 +697,330 @@ Problems
      that the height of the pyramid is :math:`\sqrt{\frac{x^2 + y^2}{2}}.\tan\alpha - 6`, where :math:`\alpha` is the elevation of
      the sun.
 
-170. A man observes a tower :math:`AB` of height :math:`h` from a point :math:`P` on the ground. He moves forward a distance
+170. A man observes a tower :math:`PQ` of height :math:`h` from a point :math:`C` on the ground. He moves forward a distance
      :math:`d` towards the foot of the tower and finds that the angle of elevation has doubled. He further moves a distance
      :math:`\frac{3}{4}d` in the same direction. He finds that the angle of elevation is three times that at :math:`P`. Prove that
      :math:`36h^2 = 35d^2`.
 
-171. A man observes that when he moves up a distance :math:`c` m on a slope, the angle of depression of a point on the horizontal
-     plane from the base of the slope is :math:`30^\circ`; and when moves up further a distance :math:`c` m, then angle of
-     depression changes of the point is :math:`45^\circ`. Obtain the angle of inclination of the slope with the horizontal.
-
-172. A :math:`2` m long object is fired vertically upwards from thr mid-point of two locations :math:`A` and :math:`B, 8` m
+171. A :math:`2` m long object is fired vertically upwards from the mid-point of two locations :math:`A` and :math:`B, 8` m
      apart. The speed of the object after :math:`t` seconds is given by :math:`\frac{ds}{dt} = (2t + 1)` m/s. Let :math:`\alpha`
      and :math:`\beta` be the angles subtended by the object at :math:`A` and :math:`B` respectively after one and two
      seconds. Find the value of :math:`\cos(\alpha - \beta)`.
 
-173. A sign-post in the fom of an isosceles triangle :math:`ABC` is mounted on a pole of height :math:`h` fixed to the
+172. A sign-post in the fom of an isosceles triangle :math:`ABC` is mounted on a pole of height :math:`h` fixed to the
      ground. The base :math:`BC` of the triangle is parallel to the ground. A man standing on the ground at distance :math:`d` from
      the sign-post finds that the top vertex :math:`A` of the triangle subtends an angle :math:`\beta` and either of the two
      vertices subtends the same angle :math:`\alpha` at his feet. Find the area of the triangle.
 
-174. A tower is observed from two stations :math:`A` and :math:`B`, where :math:`B` is east of :math:`A` at a distance
+173. A tower is observed from two stations :math:`A` and :math:`B`, where :math:`B` is east of :math:`A` at a distance
      :math:`100` m. The tower is due north of :math:`A` and due north-west of :math:`B`. The angles of elevations of the tower from
      :math:`A` and :math:`B` are complementary. Find the height of the tower.
 
-175. Two vertical poles whose heights are :math:`a` and :math:`b` subtend the samme angles :math:`\alpha` at a point in the line
+174. Two vertical poles whose heights are :math:`a` and :math:`b` subtend the samme angles :math:`\alpha` at a point in the line
      joining their feet. If they subtend angle :math:`\beta` and :math:`\gamma` at any point in the horizontal plane at which the
      line joining their feet subtends a right angle, prove that :math:`(a + b)^2\cot^2\alpha = a^2\cot^2\beta + b^2\cot^2\gamma`.
 
-176. :math:`PQ` is a vertical tower. :math:`P` is the foot and :math:`Q` is the top of the tower. :math:`A, B, C` are three points
+175. :math:`PQ` is a vertical tower. :math:`P` is the foot and :math:`Q` is the top of the tower. :math:`A, B, C` are three points
      in the horizontal plane through :math:`P`. The angles of elevation of :math:`Q` from :math:`A, B, C` are equal and each is
      equal to :math:`\theta`. The sides of the :math:`\triangle ABC` are :math:`a, b, c` and the area of the :math:`\triangle ABC`
      is :math:`\Delta`. Show that the height of the tower is :math:`\frac{abc\tan\theta}{4\Delta}`.
 
-177. An observer at :math:`O` notices that the angle of elevation of the top of a tower is :math:`90^\circ`. The line joining
+176. An observer at :math:`O` notices that the angle of elevation of the top of a tower is :math:`90^\circ`. The line joining
      :math:`O` to the base of the tower makes an angle of :math:`\tan^{-1}\frac{1}{\sqrt{2}}` with the north and is inclined
      eastwards. The observer travels a distance of :math:`300` m towards north to a point :math:`A` and finds the toewr to his
      east. The angle of elevation of the top of the tower at :math:`A` is :math:`\phi`. Find :math:`\phi` and the height of the
      tower.
 
-178. A tower :math:`AB` leans towards west making an angle :math:`\alpha` with the vertical. The angular elevation of :math:`B`,
+177. A tower :math:`AB` leans towards west making an angle :math:`\alpha` with the vertical. The angular elevation of :math:`B`,
      the top most point of the tower, is :math:`\beta` as observed from a point C due west of :math:`A` at a distance :math:`d`
      from :math:`A`. If the angular elevation of :math:`B` from a point :math:`D` due east of :math:`C` at :math:`a` distance
      :math:`2d` from :math:`C` is :math:`\gamma`, then prove that :math:`2\tan\alpha = 3\cot\beta - \cot\gamma`.
 
-179. The elevation of the top of a tower at point :math:`E` due east of the tower is :math:`\alpha`, and at a point :math:`S` due
+178. The elevation of the top of a tower at point :math:`E` due east of the tower is :math:`\alpha`, and at a point :math:`S` due
      south of the tower is :math:`\beta`. Prove that it's elecation :math:`\theta` at a point mid-way between :math:`E` and
      :math:`S` is given by :math:`\sqrt{\tan^2\alpha + 3\tan^2\beta}\tan\theta = 2\tan\alpha\tan\beta`.
 
-180. A vertical tree stands at a point :math:`A` on a bank of a canal. The angle of elevation of its top from a point :math:`B` on
+179. A vertical tree stands at a point :math:`A` on a bank of a canal. The angle of elevation of its top from a point :math:`B` on
      the other bank of the canal and directly opposite to :math:`A` is :math:`60^\circ`. The angle of elevation of the top from
      another point :math:`C` is :math:`30^\circ`. If :math:`A, B` and :math:`C` are on the same horizontal plane, :math:`\angle ABC
      = 120^\circ` and :math:`BC = 20` m, find the height of the tree and the width of the canal.
 
-181. A person observes the top of a vertical tower of height :math:`h` from a station :math:`S_1` and finds :math:`\beta_1` is the
+180. A person observes the top of a vertical tower of height :math:`h` from a station :math:`S_1` and finds :math:`\beta_1` is the
      angle of elevation. He moves in a horizontal plane to second station :math:`S_2` andd finds that :math:`\angle PS_2S_1` is
      :math:`\gamma_1` and the angle subtended by :math:`S_2S_1` at :math:`P` (top of the tower) is :math:`\delta_1` and the angle
      of elevation is :math:`\beta_2`. He moves again to a third station :math:`S_3` such that :math:`S_3S_2 = S_2S_1, \angle
      PS_3S_2 = \gamma_2` and the angle subtended by :math:`S_3S_2` is :math:`\delta_2`. Show that
      :math:`\frac{\sin\gamma_1\sin\beta_1}{\sin\delta_1} = \frac{\sin\gamma_2\sin\beta_2}{\sin\delta_2} = \frac{h}{S_1S_2}`.
 
-182. A straight pillar :math:`PQ` stands at a point :math:`P`. The points :math:`A` and :math:`B` are situated due north due south
+181. A straight pillar :math:`PQ` stands at a point :math:`P`. The points :math:`A` and :math:`B` are situated due north due south
      and east of :math:`P` respectively. :math:`M` is mid-point of :math:`AB`. :math:`PAM` is an equilateral triangle and :math:`N`
      is the foot of the perpendicular from :math:`P` on :math:`AB`. Suppose :math:`AN = 20` m and the angle of elevation of the top
      of the pillar at :math:`N` is :math:`\tan^{-1}2`. Find the height of the pillar and the angle of elevation of its top at
      :math:`A` and :math:`B`.
 
-183. :math:`ABC` is a triangular park with :math:`AB = AC = 100` m. A television tower stands at the mid point of :math:`BC`. The
+182. :math:`ABC` is a triangular park with :math:`AB = AC = 100` m. A television tower stands at the mid point of :math:`BC`. The
      angles of elevation of the top of the tower at :math:`A, B` and :math:`C` are :math:`45^\circ, 60^\circ` and :math:`60^\circ`
      respectively. Find the height of the tower.
 
-184. A square tower stands upon a horizontal plane from which three of the upper corners are visible, their angular elevations are
+183. A square tower stands upon a horizontal plane from which three of the upper corners are visible, their angular elevations are
      :math:`45^\circ, 60^\circ` and :math:`45^\circ`. If :math:`h` be the height of the tower and :math:`a` is the breadth of its
      sides, then show that :math:`\frac{h}{a} = \frac{\sqrt{6}(1 + \sqrt{5})}{4}`.
 
-185. A right circular cylindrical tower of height :math:`h` and radius :math:`r` stands on a horizontal plane. Let :math:`A` be a
+184. A right circular cylindrical tower of height :math:`h` and radius :math:`r` stands on a horizontal plane. Let :math:`A` be a
      point in the horizontal plane and :math:`PQR` be a semi-circular edge of the top of the tower such that :math:`Q` is the point
      in it nearest to :math:`A`. The angles of elevation of the points :math:`P` and :math:`Q` are :math:`45^\circ` and
      :math:`60^\circ` respectively. Show that :math:`\frac{h}{r} = \frac{\sqrt{3}(1 + \sqrt{5})}{2}`.
 
-186. A is the foot of the vartical pole, :math:`B` and :math:`C` are due east of :math:`A` and :math:`D` is due south of
+185. A is the foot of the vartical pole, :math:`B` and :math:`C` are due east of :math:`A` and :math:`D` is due south of
      :math:`C`. The elevation of the pole at :math:`B` is double that :math:`C` and the angle subtended by :math:`AB` at :math:`D`
      is :math:`\tan^{-1}\frac{1}{5}`. Also, :math:`BC = 20` m, :math:`CD = 30` m, find the height of the pole.
 
-187. A person wishing to ascertain the height of a tower, stations himself on a horizontal plane through its foot at a point at
+186. A person wishing to ascertain the height of a tower, stations himself on a horizontal plane through its foot at a point at
      which the elevation of the top is :math:`30^\circ`. On walking a distance :math:`a` in a certain direction he finds that
      elevation to the top is same as before, and on walking a distance :math:`\frac{5}{3}a` at right angles to his former
      direction, he finds the elevation of the top to be :math:`60^\circ`, prove that the height of the tower is either
      :math:`\sqrt{\frac{5}{6}}a` or :math:`\sqrt{\frac{85}{48}}a`.
 
-188. A tower stands in a field whose shape is that of an equilateral triangle and whose side is :math:`80` ft. It subtends angles
+187. A tower stands in a field whose shape is that of an equilateral triangle and whose side is :math:`80` ft. It subtends angles
      at three corners whose tangents are respectively :math:`\sqrt{3} + 1, \sqrt{2}, \sqrt{2}`. Find its height.
 
-189. A flag-staff on the top of a tower is observed to subtend the same angle :math:`\alpha` at two points on a horizontal plane,
+188. A flag-staff on the top of a tower is observed to subtend the same angle :math:`\alpha` at two points on a horizontal plane,
      which lie on a line passing through the center of the base of the tower annd whose distance from one another is :math:`2a`,
      and angle :math:`\beta` at a point half way between them. Prove that the heirght of the flag-staff is
      :math:`a\sin\alpha\sqrt{\frac{2\sin\beta}{\cos\alpha\sin(\beta - \alpha)}}`.
 
-190. A man standing on a plane observes a row of equal and equidistant pillars, the :math:`10`-th and :math:`17`-th of which
+189. A man standing on a plane observes a row of equal and equidistant pillars, the :math:`10`-th and :math:`17`-th of which
      subtend the same angle that they would do if they were in position of the first respectively :math:`\frac{1}{2}` and
      :math:`\frac{1}{3}` of their height. Prove that, neglecting the height of the man's eye, the line of pillars is inclined to be
      line drawn from his eye to the first at an angle whose secant is nearly :math:`2.6`.
 
-191. A tower stands on the edge of the circular lake :math:`ABCD`. The foot of the tower is at :math:`D` and the angle of elevation
+190. A tower stands on the edge of the circular lake :math:`ABCD`. The foot of the tower is at :math:`D` and the angle of elevation
      of the top from :math:`A, B, C` are respectively :math:`\alpha, \beta, \gamma`. If :math:`\angle BAC = \angle ACB =
      \theta`. Show that :math:`2\cos\theta\cot\beta = \cot\alpha + \cot\gamma`.
 
-192. A pole stands at the bank of circular pond. A man walking along the bank finds that angle of elevation of the top of the pole
+191. A pole stands at the bank of circular pond. A man walking along the bank finds that angle of elevation of the top of the pole
      from the points :math:`A` and :math:`B` is :math:`30^\circ` and from the third point :math:`C` is :math:`45^\circ`. If the
      distance from :math:`A` to :math:`B` and from :math:`B` to :math:`C` measured along bank are :math:`40` m and :math:`20` m
      respectively. Find the radius of the pond and the height of the pole.
 
-193. A man standing on the sea shore observes two buoys in the same direction, the line through them making an angle :math:`\alpha`
+192. A man standing on the sea shore observes two buoys in the same direction, the line through them making an angle :math:`\alpha`
      with the shore. He then walks a distance along the shore a distance :math:`a`, when he finds the buoys subtend an angle
      :math:`\alpha` at his eye; and on walking a further distance :math:`b` he finds that they subtend an angle :math:`\alpha` at
      his eye. Show that the distance between the buoys is :math:`\left(a + \frac{b}{2}\right)\sec\alpha - \frac{2a(a + b)}{2a +
      b}\cos\alpha`, assuming the shore to be straight and henglecting the height of the man's eye above the sea.
 
-194. A railway curve in the shapre of a quadrant of a circle, has :math:`n` telegraph posts at its ends and at equal distance along
+193. A railway curve in the shapre of a quadrant of a circle, has :math:`n` telegraph posts at its ends and at equal distance along
      the curve. A man stationed at a point on one of the extreme radii produced sees the :math:`p`-th and :math:`q`-th posts from
      the end nearest him in a straight line. Show that the radius of the curve is :math:`\frac{a}{2}\cos(p + q)\phi{\rm
      cosec}p\phi{\rm cosec}q\phi`, where :math:`\phi  = \frac{\pi}{4(n - 1)}` and :math:`a` is the distance from the man to the
      nearest end of curve.
 
-195. A wheel with diameter :math:`AB` touches the horizontal ground at the point :math:`A`. There is a rod :math:`BC` fixed at
+194. A wheel with diameter :math:`AB` touches the horizontal ground at the point :math:`A`. There is a rod :math:`BC` fixed at
      :math:`B` such that :math:`ABC` is vertical. A man from a point :math:`P` on the ground, in the same plane as that of wheel
      and at a distance :math:`d` from :math:`A`, is watching :math:`C` and finds its angle of elevation is :math:`\alpha`. The
      wheel is then rotated about its fixed center :math:`O` such that :math:`C` moves away from the man. The angle of elevation of
      :math:`C` when it is about to disappear is :math:`\beta`. Find the radius of the wheel and the length of the rod. Also, find
      distance :math:`PC` when :math:`C` is just to disappear.
 
-196. A semi-circular arch :math:`AB` of length :math:`2L` and a vertical tower :math:`PQ` are situated in the same vertical
+195. A semi-circular arch :math:`AB` of length :math:`2L` and a vertical tower :math:`PQ` are situated in the same vertical
      plane. The feet :math:`A` and :math:`B` of the arch and the base :math:`Q` of the tower are on the same horizontal level, with
      :math:`B` between :math:`A` and :math:`Q`. A man  at :math:`A` finds the tower hidden from his view due to arch. He starts
      carwling up the arch and just sees the topmost point :math:`P` of the tower after covering a distance :math:`\frac{L}{2}`
      along the arch. He crawls further to the topmost point of the arch and notes the angle of elevation of :math:`P` to be
      :math:`\theta`. Compute the height of the tower in terms of :math:`L` and :math:`\theta`.
 
-197. A circle passes through three points :math:`A, B` and :math:`C` with the line segment :math:`AC` as its diameter. A line
+196. A circle passes through three points :math:`A, B` and :math:`C` with the line segment :math:`AC` as its diameter. A line
      passing through :math:`A` intersects the chord :math:`BC` at a point :math:`D` inside the circle. If angles :math:`DAB` and
      :math:`CAB` are :math:`\alpha` and :math:`\beta` respectively and the distance between point :math:`A` and the mid-point of
      the line segment :math:`DC` is :math:`d`. Prove that the area of the circle is :math:`\frac{\pi
      d^2\cos^2\alpha}{\cos^2\alpha + \cos^2\beta + 2\cos\alpha\cos\beta\cos(\beta - \alpha)}`.
 
-198. The angle of elevation of a cloud from a point :math:`h` m above a lake is :math:`\alpha`, and the angle of depression of its
+197. The angle of elevation of a cloud from a point :math:`h` m above a lake is :math:`\alpha`, and the angle of depression of its
      reflection is :math:`\beta`. Prove that the distance of the observer from the cloud is :math:`\frac{2h\cos\beta}{\sin(\beta -
      \alpha)}`.
 
-199. An isosceles triangle of wood is placed in a vertical plane, vertex upwards and faces the the sun. If :math:`2a` be the base
+198. An isosceles triangle of wood is placed in a vertical plane, vertex upwards and faces the the sun. If :math:`2a` be the base
      of the triangle, :math:`h` its height and :math:`30^\circ` be the altitude of the sun, prove that the tangent of the angle at
      the apex of the shadow is :math:`\frac{2ah\sqrt{3}}{3h^2 - a^2}`.
 
-200. A rectangular target faces due south, being vertical and standing on a horizontal plane. Computer the area of the target with
+199. A rectangular target faces due south, being vertical and standing on a horizontal plane. Computer the area of the target with
      that of its shadow on the ground when the sun is :math:`\beta^\circ` from the south at an altitude of :math:`\alpha^\circ`.
 
-201. The extremity of the shadow of a flag staff which is :math:`6` m high and stands on the top of a pyramid on a square base just
+200. The extremity of the shadow of a flag staff which is :math:`6` m high and stands on the top of a pyramid on a square base just
      reaches the side of the base and is distant :math:`56` m and :math:`8` m respectively from the extremeties of that side. Find
      the sun's altitude if the height of the pyramid is :math:`34` m.
 
-202. The shdadow of a tower is observed to be half the known height of the tower and sometime afterwards is equal to the known
+201. The shdadow of a tower is observed to be half the known height of the tower and sometime afterwards is equal to the known
      height; how much will the sun have gone down in the interval. Given :math:`\log 2 = 0.30103, \tan63^\circ23' = 10.3009994` and
      diff for :math:`1' = 3152`.
 
-203. A man notices two objects in a straight line due west. After walking a distance :math:`c` due north, he observes that the
+202. A man notices two objects in a straight line due west. After walking a distance :math:`c` due north, he observes that the
      objects subtend an angle :math:`\alpha` at his eye; and after walking a further distance :math:`2c` due norht an angle
      :math:`\beta`. Show that the distance between the objects :math:`\frac{8c}{3\cot\beta - \cot\alpha}`. Ignore the height of the
      man.
 
-204. A stationary balloon is observed from three points :math:`A, B` and :math:`C` on the plane ground and it is found that its
+203. A stationary balloon is observed from three points :math:`A, B` and :math:`C` on the plane ground and it is found that its
      angle of elevation from each of these points is :math:`\alpha`. If :math:`\angle ABC = \beta` and :math:`AC = b`, find the
      height of the balloon.
 
-205. A light house, facing north, sends out a fan-shaped beam of light extending from north-east to north-west. An observer on a
+204. A light house, facing north, sends out a fan-shaped beam of light extending from north-east to north-west. An observer on a
      steamer, sailing due west first sees the light when he is :math:`5` km away from the light house and continues to see it for
      :math:`30\sqrt{2}` minutes. What is the speed of the steamer?
 
-206. A man walking due north observes that the elevation of a balloon, which is due east of him and is sailing tpwards the
+205. A man walking due north observes that the elevation of a balloon, which is due east of him and is sailing tpwards the
      north-west is then :math:`60^\circ`; after he gas walked :math:`400` yards the balloon is vertically over his head. Find its
      height, supposing it to have always remained the same.
 
-207. A flag-staff stands on the middle of a square tower. A man on the ground opposite the middle of the face and distant from it
+206. A flag-staff stands on the middle of a square tower. A man on the ground opposite the middle of the face and distant from it
      :math:`100` m, just sees the flag; on receeding another :math:`100` m the tangents of the elevation of the top of the tower
      and the top of the flag staff are found to be :math:`\frac{1}{2}` and :math:`\frac{5}{9}`. Find the dimensions of the tower
      and the height of the flag staff, the ground being horizontal.
 
-208. A vertical pole stands at a point :math:`O` on horizontal ground. :math:`A` and :math:`B` are points on the ground, :math:`d`
+207. A vertical pole stands at a point :math:`O` on horizontal ground. :math:`A` and :math:`B` are points on the ground, :math:`d`
      meters apart. The pole subtends angles :math:`\alpha` and :math:`\beta` at :math:`A` and :math:`B` respectively. :math:`AB`
      subtends an angle :math:`\gamma` at :math:`O`. Find the height of the pole.
 
-209. A vertical tree stands on a hill side that makes an angle :math:`\alpha` with the horizontal. From a point directly up the
+208. A vertical tree stands on a hill side that makes an angle :math:`\alpha` with the horizontal. From a point directly up the
      hill from the tree, the angle of elevation of the tree top is :math:`\beta`. From a point :math:`m` cm further up the hill the
      angle of depression of the tree top is :math:`\gamma`. If the tree is :math:`h` meters tall, find :math:`h` in terms of
      :math:`\alpha, \beta, \gamma`.
 
-210. A person stands on the diagnal produced of the square base of a church tower, at a distance :math:`2a` from it and observes
+209. A person stands on the diagnal produced of the square base of a church tower, at a distance :math:`2a` from it and observes
      the angle of elevation of each of the two outer corners of the top of the tower to be :math:`30^\circ`, while that of the
      nearest corner is :math:`45^\circ`. Prove that the breadth of the tower is :math:`a(\sqrt{10} - \sqrt{2})`.
 
-211. The elevation of a steeple at a place due south of it is :math:`45^\circ` and at another place due west of the former place is
+210. The elevation of a steeple at a place due south of it is :math:`45^\circ` and at another place due west of the former place is
      :math:`15^\circ`. If the distance between the two places be :math:`a`, prove that the height of steeple is
      :math:`\frac{a(\sqrt{3} - 1)}{2.\sqrt[4]{3}}` or :math:`\frac{a}{\sqrt{6 + 4\sqrt{3}}}`.
 
-212. A tower surmouned by a spire stands on a level plane. A person on the plain observes that when he is at a distance :math:`a`
+211. A tower surmouned by a spire stands on a level plane. A person on the plain observes that when he is at a distance :math:`a`
      from the foot of the tower, its top is in line with that of a mountain behind the spire. From a point at a distance :math:`b`
      further from the tower, he finds that the spire subtends the same angle as before at his eye and its top is in line with that
      of the mountain. If the height of the tower above the horizontal plane through the observer's eye is :math:`c`, prove that the
      height of the mountain above the plane is :math:`\frac{abc}{c^2 - a^2}`.
 
-213. From the bottom of a pole of height :math:`h`, the angle of elevation of the top of the tower is :math:`\alpha`. The pole
+212. From the bottom of a pole of height :math:`h`, the angle of elevation of the top of the tower is :math:`\alpha`. The pole
      subtends angle :math:`\beta` at the top of the tower. Find the height of the tower.
 
-214. A man moves along the bank of a canal and observes a tower on the other bank. He finds that the angle of elevation of the top
+213. A man moves along the bank of a canal and observes a tower on the other bank. He finds that the angle of elevation of the top
      of the tower from each of the two points :math:`A` and :math:`B`, at a distance :math:`6d` apart is :math:`\alpha`. From a
      third point :math:`C`, between :math:`A` and :math:`B` at a distance :math:`2d` from :math:`A`, the angle of elevation is
      found to be :math:`\beta`. Find the height of the tower and width of the canal.
 
-215. The angle of elevation of a balloon from two stations :math:`2` km apart and from a point halfway between them are observed to
+214. The angle of elevation of a balloon from two stations :math:`2` km apart and from a point halfway between them are observed to
      be :math:`60^\circ, 30^\circ` annd :math:`45^\circ` respectively. Prove that the height of the balloon is :math:`500\sqrt{5}`
      meters.
 
-216. A flag staff :math:`10` meters high stands in the center of an equilateral triangle which is horizontal. If each side of the
+215. A flag staff :math:`10` meters high stands in the center of an equilateral triangle which is horizontal. If each side of the
      triangle subtends an angle of :math:`60^\circ` at the top of the flag staff. Prove that the length of the side of the triangle
      is :math:`5\sqrt{6}` meters.
 
-217. A tower standing on a cliff subtends an angle :math:`\beta` at each of two stations in the same horizontal line passing
+216. A tower standing on a cliff subtends an angle :math:`\beta` at each of two stations in the same horizontal line passing
      through the base of the cliff and at a distance of :math:`a` meters and :math:`b` meters respectively from the cliff. Prove
      that the height of the tower is :math:`(a + b)\tan\beta` meters.
 
-218. A man walking towards a tower :math:`AB` on which a flag staff is fixed observes that when he is at a point :math:`E`,
+217. A man walking towards a tower :math:`AB` on which a flag staff is fixed observes that when he is at a point :math:`E`,
      distance :math:`c` meters from the tower, the flag staff subtends its greatest angle. If :math:`\angle BEC = \alpha`, prove
      that the heights of the tower and flag staff are :math:`c\tan\left(\frac{\pi}{4} - \frac{\alpha}{2}\right)` and
      :math:`2c\tan\alpha` meters respectively.
 
-219. An observer on a carriage moving with a speed :math:`v` along a straight-road observes in one position that two distant trees
+218. An observer on a carriage moving with a speed :math:`v` along a straight-road observes in one position that two distant trees
      are in the same line with him which is inclined at a angle :math:`\theta` to the road. After a time :math:`t`, he observes
      that the tree subtend their greatest angle :math:`\phi`. Show that the distance between the trees is
      :math:`\frac{2vt\sin\theta\sin\phi}{\cos\theta + \cos\phi}`.
 
-220. Four ships :math:`A, B, C` and :math:`D` are at sea in the following positions. :math:`B` is on a straight line segment
+219. Four ships :math:`A, B, C` and :math:`D` are at sea in the following positions. :math:`B` is on a straight line segment
      :math:`AC`, :math:`B` is due north of :math:`D` and :math:`D` is due west of :math:`C`. The distance between :math:`B` and
      :math:`D` is :math:`2` km. If :math:`\angle BDA = 40^\circ, \angle BCD = 25^\circ`, what is the distance between :math:`A` and
      :math:`D`? (:math:`\sin25^\circ = 0.423`)
 
-221. A train is moving at a constant speed at an angle :math:`\theta` east of north. Observations of the train are made from a
+220. A train is moving at a constant speed at an angle :math:`\theta` east of north. Observations of the train are made from a
      fixed point. It is due north at some instant. Ten minutes earlier its bearing is :math:`\alpha_2` east of north. Find
      :math:`\tan\theta`.
 
-222. A man walks in a horizontal circle round the foot of a flag staff, which is inclined to the vertical, the foot of the flag
+221. A man walks in a horizontal circle round the foot of a flag staff, which is inclined to the vertical, the foot of the flag
      staff being the center of the circle. The greatest and least angles which the flag staff subtends at his eyes are
      :math:`\alpha` and :math:`\beta`; and when he is mid-way between the corresponding position the angle is :math:`\theta`. If
      the man's height be neglected, prove that :math:`\tan\theta = \frac{\sqrt{\sin^2(\alpha - \beta) +
      4\sin^2\alpha\sin^2\beta}}{\sin(\alpha + \beta)}`.
 
-223. A bird flies in a circle on a horizontal plane. An observer stands at a point on the ground. Suppose :math:`60^\circ` and
+222. A bird flies in a circle on a horizontal plane. An observer stands at a point on the ground. Suppose :math:`60^\circ` and
      :math:`30^\circ` are the maximum and the minimum angles of elevation of the bird and that they occur when the bird is at point
      :math:`P` and :math:`Q` respectively on its path. Let :math:`\theta` be the angle of  elevation of the bird when it is at a
      point on the arc of the circle exactly midway between :math:`P` and :math:`Q`. Find the numerical value of
      :math:`\tan^2\theta`. (Assume that the observer is not inside the vertical projection of the path of the bird).
 
-224. A hill on a level plane has the form of a portion of a sphere. At the bottom the surface slopes at an angle :math:`\alpha` and
+223. A hill on a level plane has the form of a portion of a sphere. At the bottom the surface slopes at an angle :math:`\alpha` and
      from a point on the plane distant :math:`a` from the foot of the hill the elevation of the heighest visible point is
      :math:`\beta`. Prove that the height of the hill above the plane is
      :math:`\frac{a\sin\beta\sin^2\frac{\alpha}{2}}{\sin^2\frac{\alpha - \beta}{2}}`.
 
-225. A hill standing on a horizontal plane, has a circular base and forms a part of a sphere. At two points on the plane, distant
+224. A hill standing on a horizontal plane, has a circular base and forms a part of a sphere. At two points on the plane, distant
      :math:`a` and :math:`b` from the base, the angular elevation of the heighest visible points on the hill are :math:`\theta` and
      :math:`\phi`. Prove that the height of the hill is :math:`2\left[\frac{\sqrt{b\cot\frac{\phi}{2}} -
      \sqrt{a\cot\frac{\theta}{2}}}{\cot\frac{\theta}{2} - \cot\frac{\phi}{2}}\right]^2`.
 
-226. On the top of a hemispherical dome of radius :math:`r` there stands a flag of height :math:`h`. From a point on the ground the
+225. On the top of a hemispherical dome of radius :math:`r` there stands a flag of height :math:`h`. From a point on the ground the
      elevation of the top of the flag is :math:`30^\circ`. After moving a distant :math:`d` towards the dome, when the flag is just
      visible, the elevation is :math:`45^\circ`. Find :math:`r` and :math:`h` in terms of :math:`d`.
 
-227. A man walks on a horizontal plane a distance :math:`a`, then through a distance :math:`a` at an angle :math:`\alpha` with his
+226. A man walks on a horizontal plane a distance :math:`a`, then through a distance :math:`a` at an angle :math:`\alpha` with his
      previous direction. After he has done this :math:`n` times, the change of his direction being always in the same sense, show
      that he is distant :math:`\frac{a\sin(n\alpha/2)}{\sin(\alpha/2)}` from his starting point and that this distance makes an
      angle :math:`(n - 1)\frac{\alpha}{2}` with his original direction.
 
-228. In order to find the dip of a stream of coal below the surface of the ground, vertical borings are made from the angular point
+227. In order to find the dip of a stream of coal below the surface of the ground, vertical borings are made from the angular point
      :math:`A, B, C` of a triangle :math:`ABC` which is in a horizontal plane; the depths of a stratum at these points are found to
      be :math:`x, x + y` and :math:`x + z` respectively. Show that the dip :math:`\theta` of the stratum which is assumed to be a
      plane is given by :math:`\tan\theta\sin A = \sqrt{\frac{y^2}{c^2} + \frac{z^2}{b^2} - \frac{2yz}{bc}\cos A}`.
 
-229. Two lines of rails make an angle of :math:`75^\circ` with one another. They are to be connected by a circular arc of central
+228. Two lines of rails make an angle of :math:`75^\circ` with one another. They are to be connected by a circular arc of central
      angle :math:`105^\circ`. A straight path of length :math:`800` meters passes from one set of rails to the other and makes an
      angle :math:`30^\circ` with one set. Find the length of the circular rail wanted if the path is to be just avoided.
 
-230. A gun is fired from a fort :math:`F` at a distance :math:`d` from a station :math:`O` and from two stations :math:`A` and
+229. A gun is fired from a fort :math:`F` at a distance :math:`d` from a station :math:`O` and from two stations :math:`A` and
      :math:`B` in a straight line with :math:`O` and at a distance :math:`a` and :math:`b` respectively from :math:`O`. The
      intervals between seeing the flash and hearing the reports are :math:`t` and :math:`t_1`. Show that the velocity of sound is
      :math:`\sqrt{\frac{(d^2 - ab)(a - b)}{at_1^2 - bt^2}}`.
 
-231. A tunnel is to be bored from :math:`A` to :math:`B`, which are two places on the opposite sides of a mountain. From :math:`A`
+230. A tunnel is to be bored from :math:`A` to :math:`B`, which are two places on the opposite sides of a mountain. From :math:`A`
      and :math:`B` the elevation of a distant point :math:`C` are found to be :math:`\alpha` and :math:`\beta` and the angle
      :math:`ACB` is found to be :math:`\gamma`. Also the length :math:`AC` and :math:`BC` are known to be :math:`a` and
      :math:`b`. Show that the height (:math:`h`) of :math:`B` above :math:`A` is :math:`a\sin\alpha - b\sin\beta`, and that the
      length (:math:`l`) of :math:`AB` is :math:`\sqrt{a^2 + b^2 - 2ab\cos\gamma}`.
 
-232. An observer looking up the line of greatest slope of an inclined plane sees a vertical tower due east of him. He walks
+231. An observer looking up the line of greatest slope of an inclined plane sees a vertical tower due east of him. He walks
      :math:`l` meters up the plane in a direction :math:`\alpha` north of east and has then reached the level of the foot of the
      tower and finds its elevation as :math:`\beta`. The plane makes an angle :math:`\gamma` with the horizontal. Show that the
      height of the tower is :math:`\frac{l\tan\beta\cos\gamma}{\sqrt{\cot^2\alpha + \cos^2\gamma}}`.
 
-233. Observations made to estimate the radius of the moon have shown that the semi-vertical angle of the tangential cone, drawn
+232. Observations made to estimate the radius of the moon have shown that the semi-vertical angle of the tangential cone, drawn
      with vertex at the observer :math:`O` and touching the rim of the moon is :math:`\frac{1}{4}` of a degree. Use this
      information to determine the radius of the moon, given the distance of the center of the moon from the observer :math:`O` is
      :math:`584,000` kms (for small angles :math:`\sin\theta` is the same angle as angle :math:`\theta` measured in radians).
 
-234. :math:`A, B` and :math:`C` are three consecutive milestones on a straight road from each of which a distant spire is
+233. :math:`A, B` and :math:`C` are three consecutive milestones on a straight road from each of which a distant spire is
      visible. The spire is observed to bear north-east at :math:`A`, east at :math:`B` and :math:`60^\circ` east of south at
      :math:`C`. Prove that the shortest distant of the spire from the road is :math:`\frac{7 + 5\sqrt{3}}{13}` miles.
 
-235. :math:`A, B` and :math:`C` are the tops of posts of equal height at equal intervals by the side of a road and :math:`t` and
+234. :math:`A, B` and :math:`C` are the tops of posts of equal height at equal intervals by the side of a road and :math:`t` and
      :math:`t'` are the tangents of the angles which :math:`AB` and :math:`BC` subtend at any point :math:`P`. If :math:`T` is the
      tangent of the angle which the road makes with :math:`PB`, show that :math:`\frac{2}{T} = \frac{1}{t'} - \frac{1}{t}`.
 
-236. A boy standing :math:`C` meters behind and directly opposite the center of a football goal observes the angle of elevation of
+235. A boy standing :math:`C` meters behind and directly opposite the center of a football goal observes the angle of elevation of
      the nearer crossbar as :math:`\theta` and the angle of elevation of the farther end as :math:`\phi`. Show that length of the
      field is :math:`c(\tan\theta.\cot\phi - 1)` meters.
 
-237. A man walks in a horizontal circle round the foot of a pole which is inclined to the vertical. The foot of the pole is at the
+236. A man walks in a horizontal circle round the foot of a pole which is inclined to the vertical. The foot of the pole is at the
      center of the circle. The greatest and least angles which the pole subtends at his eyes are :math:`\tan^{-1}\frac{9}{5}` and
      :math:`\tan^{-1}\frac{6}{5}` respectively and when he is mid-way between the corresponding positions, the angle is
      :math:`\theta`. If the man's height be neglected, find the length of the pole.
 
-238. A bridge has :math:`5` equal spans, each of :math:`10` m, measured from the center of the piers, and a boat is moved in a line
+237. A bridge has :math:`5` equal spans, each of :math:`10` m, measured from the center of the piers, and a boat is moved in a line
      with one of the middle piers. The whole length of the bridge subtends a right angle as seen from the boat. Prove that the
      distance of the boat from the bridge is :math:`10\sqrt{6}` m.
 
-239. A person standing by rge side of a road observesa row of equidistant telephone poles of equal height. Neglecting the height of
+238. A person standing by rge side of a road observesa row of equidistant telephone poles of equal height. Neglecting the height of
      the person's eye the tenth and seventeenth poles subtend the same angles that they would do if they were in position of the
      first pole and were respectively, :math:`\frac{1}{2}` and :math:`\frac{1}{3}` of their height. Find, correct to one place of
      decimal, the secant of the angle between the base line of the poles and the line drawn friom the person's eye to the base of
