@@ -437,3 +437,259 @@ Height and Distance Solutions Part 4
      the circumcircle.
 
      :math:`\therefore h = PA\tan\theta = \frac{abc}{4\Delta}\tan\theta`
+
+176. The diagram is given below:
+
+     .. image:: _static/images/28_176.webp
+        :alt: 176th problem
+        :align: center
+
+     Let :math:`PQ` be the tower having a height of :math:`h` and :math:`\angle AOP = \theta`. Given that
+     :math:`\tan\theta = \frac{1}{\sqrt{2}}`
+
+     In :math:`\triangle AOP, \tan\theta = \frac{AP}{AO} \Rightarrow AP = 150\sqrt{2}` m.
+
+     In :math:`\triangle POQ, \tan30^\circ = \frac{h}{OP} \Rightarrow OP = h\sqrt{3}`
+
+     In :math:`\triangle AOP, OP^2 = OA^2 + AP^2 \Rightarrow 3h^2 = 300^2 + (150\sqrt{2})^2`
+
+     :math:`\Rightarrow h = 150\sqrt{2}` m,
+
+     :math:`\therefore \tan\phi = \frac{h}{AP} = 1 \Rightarrow \phi = 45^\circ`.
+
+177. The diagram is given below:
+
+     .. image:: _static/images/28_177.webp
+        :alt: 177th problem
+        :align: center
+
+     Let :math:`OB = h, OA = x`. In :math:`\triangle AOB, \tan\alpha =\frac{x}{h}`
+
+     :math:`\Rightarrow x = h\tan\alpha`
+
+     In :math:`\triangle BOC, \tan\beta = \frac{h}{d - x} \Rightarrow d = h\tan\alpha + h\cot\beta`
+
+     In :math:`\triangle BOD, \tan\gamma = \frac{h}{d + x}\Rightarrow d = h\cot\gamma - h\tan\alpha`
+
+     :math:`\therefore h\tan\alpha + h\cot\beta = h\cot\gamma - h\tan\alpha`
+
+     :math:`\Rightarrow 2\tan\alpha = \cot\gamma - \cot\beta`.
+
+178. The diagram is given below:
+
+     .. image:: _static/images/28_178.webp
+        :alt: 178th problem
+        :align: center
+
+     Let :math:`M` be the mid-point of :math:`ES` such that :math:`SM = ME = x` and :math:`OP` be the tower
+     having a height of :math:`h`.
+
+     In :math:`\triangle EOP, \tan\alpha = \frac{h}{OE} \Rightarrow OE = h\cot\alpha`
+
+     Similarly in :math:`\triangle OPS, OS = h\cot\beta` and in :math:`\triangle MOP, OM = h\cot\theta`
+
+     Since :math:`OE` is eastward and :math:`OS` is southward :math:`\Rightarrow EOS = 90^\circ`
+
+     :math:`\Rightarrow ES^2 = OS^2 + OE^2 \Rightarrow 4x^2 = h^2(\cot^2\beta + cot^2\alpha)`
+
+     Since :math:`M` is mid-point of :math:`ES, OM` would be the median.
+
+     :math:`\Rightarrow OS^2 + OE^2 = 2MS^2 + 2OM^2`
+
+     :math:`\Rightarrow h^2\cot^2\beta + h^2\cot^2\alpha = \frac{h^2(\cot^2\beta + \cot^2\alpha)}{2} +
+     2h^2\cot^2\theta`
+
+     :math:`\Rightarrow \cot^2\beta + \cot^2\alpha = 4\cot^2\theta`
+
+179. The diagram is given below:
+
+     .. image:: _static/images/28_179.webp
+        :alt: 179th problem
+        :align: center
+
+     Let :math:`AP` be the tree having a height of :math:`h` and :math:`AB` be the width of canal equal to
+     :math:`x`. Given, :math:`BC = 20` m and :math:`\angle BAC = 120^\circ`.
+
+     In :math:`\triangle ABP, \tan60^\circ = \frac{h}{AB} \Rightarrow AB = \frac{h}{\sqrt{3}}`
+
+     In :math:`\triangle ACP, \tan30^\circ = \frac{h}{AC}\Rightarrow AC = \sqrt{3}h`
+
+     Using cosine rule in :math:`\triangle ABC,`
+
+     :math:`\cos120^\circ = \frac{AB^2 + BC^2 - AC^2}{2.AB.BC}\Rightarrow -\frac{1}{2} = \frac{\frac{h^2}{3}
+     + 20^2 - 3h^2}{2.20.\frac{h}{\sqrt{3}}}`
+
+     :math:`\Rightarrow 2h^2 - 5\sqrt{3}h - 300 = 0\Rightarrow h = \frac{5\sqrt{3} + 15\sqrt{11}}{4}` m.
+
+     :math:`\Rightarrow AB = \frac{5 + 5\sqrt{33}}{4}` m.
+
+180. The diagram is given below:
+
+     .. image:: _static/images/28_180.webp
+        :alt: 180th problem
+        :align: center
+
+     Let :math:`OP` be the tower with :math:`P` being the top having a height of :math:`h`. According to
+     question :math:`S_1S_2 = S_2S_3, \angle PS_2S_1 = \gamma_1, \angle PS_3S_2 = \gamma_2, \angle S_1PS_2 =
+     \delta_1, \angle S_2PS_3 = \delta_2, \angle PS_1O = \beta_1` and :math:`\angle PS_2O = \beta_2`.
+
+     In :math:`\triangle OPS1, \sin\beta_1 = \frac{h}{PS_1} \Rightarrow PS_1 = \frac{h}{\sin\beta_1}`
+
+     In :math:`\triangle OPS_2, PS_2 = \frac{h}{\sin\beta_2}`
+
+     Using sine rule in :math:`PS_1S_2, \frac{S_1S_2}{\sin\delta_1} = \frac{PS_1}{\sin\gamma_1}`
+
+     :math:`\Rightarrow \frac{h}{S_1S_2} = \frac{\sin\beta_1\sin\gamma_1}{\sin\delta_1}`
+
+     Similarly in :math:`PS_2S_3, \frac{h}{S_2S_3} = \frac{\sin\beta_2\sin\gamma_2}{\sin\delta_2}`
+
+     Equalting last two results we have desired equality.
+
+181. The diagram is given below:
+
+     .. image:: _static/images/28_181.webp
+        :alt: 181st problem
+        :align: center
+
+     Let :math:`PQ` be the vertical pillar having a height of :math:`h`. According to question,
+     :math:`\tan\alpha = 2, AN = 20` m and that :math:`\triangle PAM` is equilateral. Let :math:`\angle QAP
+     =\beta, \angle QBP = \gamma`
+
+     In :math:`\triangle NPQ, \tan\alpha = \frac{h}{PN} = 2 \Rightarrow PN = \frac{h}{2}`
+
+     In :math:`\triangle ANP, \tan60^\circ = \sqrt{3} = \frac{PN}{AN} \Rightarrow PN = 20\sqrt{3}
+     \Rightarrow h = 40\sqrt{3}` m.
+
+     :math:`\cos60^\circ = \frac{1}{2} = \frac{AN}{PA} \Rightarrow PA = 40` m.
+
+     :math:`\triangle PAM` is equilateral and :math:`PN\perp AM \therefore AN = MN = 20` m
+     :math:`\Rightarrow AM = 40` m, :math:`\Rightarrow AB = 80` m.
+
+     :math:`\therefore PB = \sqrt{AB^2 - PA^2} = 40\sqrt{3}` m.
+
+     :math:`\Rightarrow \beta = 60^\circ` and :math:`\gamma = 45^\circ`.
+
+182. The diagram is given below:
+
+     .. image:: _static/images/28_182.webp
+        :alt: 182nd problem
+        :align: center
+
+     Let :math:`ABC` be the triangular park, :math:`O` be the mid-point of :math:`BC` and :math:`OP` be the
+     television tower(out of the plane of paper). Given that, :math:`\angle PAO = 45^\circ, \angle PBO =
+     60^\circ, \angle PCO = 60^\circ, AB = AC = 100` m. Also, let :math:`OP = h` m.
+
+     Clearly, :math:`\angle POA = \angle POB = \angle POC = 90^\circ`.
+
+     In :math:`\triangle POA, \tan45^\circ = \frac{h}{OA}\Rightarrow OA = h`
+
+     In :math:`\triangle POB, \tan60^\circ = \frac{h}{OB}\Rightarrow OB = \frac{h}{\sqrt{3}}`
+
+     Similarly :math:`OC` would be :math:`\frac{h}{\sqrt{3}}`.
+
+     :math:`\because \triangle ABC` is an isosceles triangle and :math:`O` is the mid-point of
+     :math:`BC. \therefore AO\perp BC`.
+
+     In :math:`\triangle AOB, AB^2 = OA^2 + OB^2 \Rightarrow h = 50\sqrt{3}` m.
+
+183. The diagram is given below:
+
+     .. image:: _static/images/28_183.webp
+        :alt: 183rd problem
+        :align: center
+
+     Let :math:`ABCD` be the base of the square tower whose upper corners are :math:`A', B', C', D'`
+     respectively. From a point :math:`O` on the diagonal :math:`AC` the three upper corners :math:`A', B'`
+     and :math:`D'` are visible.
+
+     According to question :math:`\angle AOA' = 60^\circ, \angle BOB' = \angle DOD' = 45^\circ`
+
+     Also, :math:`AA' = BB' = h` and :math:`AB = a`
+
+     In :math:`\triangle AA'O, \tan60^\circ = \frac{h}{AO}\Rightarrow AO = \frac{h}{\sqrt{3}}`
+
+     In :math:`\triangle BB'O, \tan45^\circ = 1= \frac{h}{BO} \Rightarrow BO = h`
+
+     Using cosine rule in :math:`\triangle AOB,`
+
+     :math:`\cos135^\circ = \frac{AO^2 + AB^2 - BO^2}{2AO.AB}`
+
+     :math:`\Rightarrow -\frac{1}{\sqrt{2}} = \frac{\frac{h^2}{3} + a^2 - h^2}{2.\frac{h}{\sqrt{3}}.a}`
+
+     Considering :math:`h > 0`, on simplification we arrive at :math:`\frac{h}{a} = \frac{\sqrt{6}(1 +
+     \sqrt{5})}{4}`.
+
+184. The diagram is given below:
+
+     .. image:: _static/images/28_184.webp
+        :alt: 184th problem
+        :align: center
+
+     In the diagram :math:`PP'R'R` is a plane perpendicular to the plane of the paper. Let :math:`C` be the
+     center of top of the cylindrical tower. Since :math:`A` is the point on the horizontal plane nearest to
+     :math:`Q`, hence :math:`A` will be on the line :math:`Q'A` where :math:`Q'A\perp QQ'`. According to
+     question :math:`QQ' = h, C'Q' = r, \angle QAQ' = 60^\circ` and :math:`\angle PAP' = 45^\circ`.
+
+     In :math:`\triangle AQQ', \tan60^\circ = \sqrt{3} = \frac{h}{AQ'} \Rightarrow AQ' = \frac{h}{\sqrt{3}}`
+
+     In :math:`\triangle APP', \tan45^\circ = 1 = \frac{h}{AP'} \Rightarrow AP' = h`
+
+     :math:`AC' = AQ' + C'Q' = \frac{h}{\sqrt{3}} + r`
+
+     In :math:`\triangle AC'P', AP'^2 = AC'^2 + C'P'^2 \Rightarrow h^2 + \left(\frac{h}{\sqrt{3}} +
+     r\right)^2 + r^2`
+
+     Taking into account that :math:`h > 0`, on simplification we arrive at
+
+     :math:`\frac{h}{r} = \frac{\sqrt{3}(1 + \sqrt{5})}{2}`.
+
+185. The diagram is given below:
+
+     .. image:: _static/images/28_185.webp
+        :alt: 185th problem
+        :align: center
+
+     Let :math:`AP` be the pole having a height of :math:`h` m. Let :math:`\angle PCA = \theta, \angle ADB =
+     \alpha` and :math:`\angle BDC = \beta`. Then :math:`\angle PBA = 2\theta` and :math:`\angle BPC =
+     \theta`.
+
+     :math:`\Rightarrow \angle BPC = \angle BCP \Rightarrow BP = BC = 20` m.
+
+     From question :math:`\tan\alpha = \frac{1}{5}, CD = 30` m and :math:`BC = 20` m.
+
+     In :math:`\triangle BCD, \tan\beta = \frac{BC}{CD} = \frac{20}{30} = \frac{2}{3}`
+
+     Now :math:`\tan(\alpha + \beta) = \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta} = 1`
+
+     :math:`\Rightarrow \alpha + \beta = 45^\circ \Rightarrow \angle ADC = \angle DAC = 45^\circ`
+
+     :math:`\Rightarrow AC = CD = 30` m. :math:`\Rightarrow AB = AC - BC = 30 - 20 = 10` m.
+
+     In :math:`\triangle PAB, h^2 = PB^2 - AB^2 = 20^2 - 10^2 \Rightarrow h = 10\sqrt{3}` m.
+
+186. The diagram is given below:
+
+     .. image:: _static/images/28_186.webp
+        :alt: 186th problem
+        :align: center
+
+     Let :math:`OP` be the tower having a height of :math:`h, A` be the initial position of the man,
+     :math:`B` be the second position of the man at a distance :math:`a` from :math:`A` and :math:`C` be the
+     final position of the man at a distance of :math:`\frac{5a}{3}` from :math:`B`. Given that angles of
+     elevation from :math:`A, B` and :math:`C` of the top of the tower are :math:`30^\circ, 30^\circ` and
+     :math:`60^\circ` respectively. :math:`OC\perp AB` and :math:`DN\perp OC`.
+
+     In :math:`\triangle POA, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{h}{OA} \Rightarrow OA = \sqrt{3}h`
+
+     Similarly in :math:`\triangle POB, OB = \sqrt{3}h` and in :math:`\triangle POD, \tan60^\circ =
+     \frac{h}{OD} \Rightarrow OD = \frac{h}{\sqrt{3}}`
+
+     :math:`\because OA = OA \Rightarrow AC = BC = \frac{a}{2}`
+
+     :math:`OC = \sqrt{OA^2 - AC^2} = \sqrt{3h^2 - \frac{a^2}{4}}, ON = \sqrt{OD^2 - DN^2} =
+     \sqrt{\frac{h^2}{3} - \frac{a^2}{4}}`
+
+     :math:`BD = CN = OC - CN \Rightarrow \frac{5a}{3} = \sqrt{3h^2 - \frac{a^2}{4}} - \sqrt{\frac{h^2}{3} -
+     \frac{a^2}{4}}`
+
+     On simplification, we get :math:`h = \sqrt{\frac{85}{48}}a` or :math:`h = \sqrt{\frac{5}{6}}a`.

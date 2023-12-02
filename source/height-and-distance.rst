@@ -737,8 +737,8 @@ Problems
      :math:`2d` from :math:`C` is :math:`\gamma`, then prove that :math:`2\tan\alpha = 3\cot\beta - \cot\gamma`.
 
 178. The elevation of the top of a tower at point :math:`E` due east of the tower is :math:`\alpha`, and at a point :math:`S` due
-     south of the tower is :math:`\beta`. Prove that it's elecation :math:`\theta` at a point mid-way between :math:`E` and
-     :math:`S` is given by :math:`\sqrt{\tan^2\alpha + 3\tan^2\beta}\tan\theta = 2\tan\alpha\tan\beta`.
+     south of the tower is :math:`\beta`. Prove that it's elevation :math:`\theta` at a point mid-way between :math:`E` and
+     :math:`S` is given by :math:`\cot^2\beta + \cot^2\alpha = 4\cot^2\theta`.
 
 179. A vertical tree stands at a point :math:`A` on a bank of a canal. The angle of elevation of its top from a point :math:`B` on
      the other bank of the canal and directly opposite to :math:`A` is :math:`60^\circ`. The angle of elevation of the top from
@@ -752,7 +752,7 @@ Problems
      PS_3S_2 = \gamma_2` and the angle subtended by :math:`S_3S_2` is :math:`\delta_2`. Show that
      :math:`\frac{\sin\gamma_1\sin\beta_1}{\sin\delta_1} = \frac{\sin\gamma_2\sin\beta_2}{\sin\delta_2} = \frac{h}{S_1S_2}`.
 
-181. A straight pillar :math:`PQ` stands at a point :math:`P`. The points :math:`A` and :math:`B` are situated due north due south
+181. A straight pillar :math:`PQ` stands at a point :math:`P`. The points :math:`A` and :math:`B` are situated due south
      and east of :math:`P` respectively. :math:`M` is mid-point of :math:`AB`. :math:`PAM` is an equilateral triangle and :math:`N`
      is the foot of the perpendicular from :math:`P` on :math:`AB`. Suppose :math:`AN = 20` m and the angle of elevation of the top
      of the pillar at :math:`N` is :math:`\tan^{-1}2`. Find the height of the pillar and the angle of elevation of its top at
