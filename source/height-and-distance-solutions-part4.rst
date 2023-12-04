@@ -693,3 +693,108 @@ Height and Distance Solutions Part 4
      \frac{a^2}{4}}`
 
      On simplification, we get :math:`h = \sqrt{\frac{85}{48}}a` or :math:`h = \sqrt{\frac{5}{6}}a`.
+
+187. The diagram is given below:
+
+     .. image:: _static/images/28_187.webp
+        :alt: 187th problem
+        :align: center
+
+     Let :math:`OP` be the tower having a height of :math:`h`. Given :math:`ABC` is an equilateral
+     triangle. Let the angle subtended by :math:`OP` at :math:`A, B, C` be :math:`\alpha, \beta, \gamma`
+     respectively. According to question :math:`\tan\alpha = \sqrt{3} + 1, \tan\beta = \sqrt{2}` and
+     :math:`\tan\gamma = \sqrt{2}`. :math:`OP` is perpedicular to the plane of :math:`\triangle ABC`.
+
+     In :math:`\triangle AOP, \tan\alpha = \frac{h}{OA}\Rightarrow OA = \frac{h}{\sqrt{3} + 1}`.
+
+     Similarly, :math:`OB = \frac{h}{\sqrt{2}}` and :math:`OC = \frac{h}{\sqrt{2}}`.
+
+     In :math:`\triangle AOB` and :math:`AOC, AB = AC, OB = OC` and :math:`OA` is common. So
+     :math:`\triangle AOB` and :math:`\triangle AOC` are equal. :math:`\therefore \angle OAB = \angle OAC`.
+
+     But :math:`\angle BAC = 60^\circ \therefore \angle OAB = \angle OAC = 30^\circ`
+
+     Let :math:`\angle OBA = \theta`
+
+     Using sine rule in :math:`\triangle OAB, \frac{OB}{\sin30^\circ} = \frac{OA}{\sin\theta}`
+
+     :math:`\Rightarrow \sin\theta = \frac{\sqrt{3} - 1}{2\sqrt{2}} = \sin15^\circ`
+
+     :math:`\Rightarrow \theta = 15^\circ. \Rightarrow \angle OBD = \angle ABC - \theta = 45^\circ`
+
+     In :math:`\triangle BOC, OB = OC, OD\perp BC \therefore BD = DC = 40'`
+
+     In :math:`\triangle BOD, \cos45^\circ = \frac{BD}{OB} = \frac{40}{h/\sqrt{2}}\Rightarrow h = 80'`
+
+188. The diagram is given below:
+
+     .. image:: _static/images/28_188.webp
+        :alt: 188th problem
+        :align: center
+
+     Let :math:`OP` be the tower having a height of :math:`h` and :math:`PQ` be the flag-staff having a
+     height of :math:`x`. Since :math:`PQ` subtends equal angle :math:`\alpha` at :math:`A` and :math:`B` so
+     a circle will pass through :math:`A, B, P` and :math:`Q`. Since :math:`C` is the mid-point of :math:`AB
+     \therefore AC = BC = a`.
+
+     Let :math:`OA = d` and :math:`\angle PAO = \theta`. In :math:`\triangle AOP, \tan\theta = \frac{h}{d}`
+
+     In :math:`\triangle AOQ, \tan(\theta + \alpha) = \frac{h + x}{d} \Rightarrow \frac{\tan\theta +
+     \tan\alpha}{1 - \tan\theta\tan\alpha} = \frac{\frac{h}{d} + \tan\alpha}{1 - \frac{h}{d}\tan\alpha}`
+
+     :math:`\Rightarrow \frac{h + d\tan\alpha}{d - h\tan\alpha} = \frac{h + x}{d}`
+
+     :math:`\Rightarrow d^2 + h(x + h) = xd\cot\alpha`
+
+     Similarly, :math:`(d + a)^2 + h(x + h) = x(d + a)\cot\beta`
+
+     As the points :math:`A, B, P` and :math:`Q` are concyclic :math:`\therefore OA.OB = OP.OQ`
+
+     :math:`d(d + 2a) = h(h + x)`
+
+     :math:`\Rightarrow d^2 + d(d + 2a) = xd\cot\alpha \Rightarrow d + a = \frac{x}{2}\cot\alpha`
+
+     Similarly, :math:`(d + a)^2 + (d + a)^2 - a^2 = x(d + a)\cot\beta`
+
+     Solving the above two equations
+
+     :math:`\frac{x^2}{4}\cot^2\alpha + \frac{x^2}{4}\cot^2\alpha - a^2 = x.\frac{x}{2}\cot\alpha\cot\beta`
+
+     :math:`\Rightarrow \frac{x^2}{2}(\cot^2\alpha - \cot\alpha\cot\beta) = a^2`
+
+     :math:`x = a\sin\alpha\sqrt{\frac{2\sin\beta}{\cos\alpha\sin(\beta - \alpha)}}`
+
+189. The diagram is given below:
+
+     .. image:: _static/images/28_189.webp
+        :alt: 189th problem
+        :align: center
+
+     Let :math:`A_1, A_2, \ldots, A_{10}, \ldots, A_{17}` be the feet of the first, second, ..., tenth, and
+     seventeenth pillars respectively and :math:`h` be the height of each of these pillars. Given that these
+     pillars are equidistant, therefore :math:`A_1A_2 = A_2A_3 = \cdots = A_{16}A_{17} = x` (let).
+
+     Clearly, :math:`A_1A_{10} = 9x` and :math:`A_1A_{17} = 16x`. We have let :math:`O` as the position of
+     the observer and :math:`\angle A_2A_1O = \theta`.
+
+     In :math:`\triangle A_{10}OP, \tan\alpha = \frac{h}{OA_{10}}\Rightarrow OA_{10} = h\cot\alpha`
+
+     Similarly, :math:`OA_{17} = h\cot\beta`
+
+     From question :math:`OA_1 = \frac{h\cot\alpha}{2}` and :math:`OA_1 = \frac{h\cot\beta}{3}`
+
+     :math:`\Rightarrow 2OA1 = OA_{10}` and :math:`3OA_1 = OA_{17}`. Let :math:`OA_1 = y` then
+
+     :math:`OA_{10} = 2y` and :math:`OA_{17} = 3y`
+
+     Using cosine rule in :math:`\triangle OA_1A_{10}, \cos\theta = \frac{81x^2 + y^2 - 4y^2}{2.9x.y}`
+
+     :math:`\Rightarrow y^2 = 27x^2 - 6xy\cos\theta`
+
+     Similarly in :math:`\triangle OA_1A_{17}, y^2 = 32x^2 - 4xy\cos\theta`
+
+     :math:`\Rightarrow y^2 = 42x^2 \Rightarrow \frac{y}{x} = \sqrt{42}`
+
+     :math:`\Rightarrow \sec\theta = -\frac{2\sqrt{42}}{5}`
+
+     Acute angle will be given by :math:`\sec\theta = \left|-\frac{2\sqrt{42}}{5}\right| = 2.6` (approximately).
