@@ -809,7 +809,7 @@ Problems
      his eye. Show that the distance between the buoys is :math:`\left(a + \frac{b}{2}\right)\sec\alpha - \frac{2a(a + b)}{2a +
      b}\cos\alpha`, assuming the shore to be straight and henglecting the height of the man's eye above the sea.
 
-193. A railway curve in the shapre of a quadrant of a circle, has :math:`n` telegraph posts at its ends and at equal distance along
+193. A railway curve in the shape of a quadrant of a circle, has :math:`n` telegraph posts at its ends and at equal distance along
      the curve. A man stationed at a point on one of the extreme radii produced sees the :math:`p`-th and :math:`q`-th posts from
      the end nearest him in a straight line. Show that the radius of the curve is :math:`\frac{a}{2}\cos(p + q)\phi{\rm
      cosec}p\phi{\rm cosec}q\phi`, where :math:`\phi  = \frac{\pi}{4(n - 1)}` and :math:`a` is the distance from the man to the

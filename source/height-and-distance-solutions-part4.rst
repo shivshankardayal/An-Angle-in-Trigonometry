@@ -798,3 +798,293 @@ Height and Distance Solutions Part 4
      :math:`\Rightarrow \sec\theta = -\frac{2\sqrt{42}}{5}`
 
      Acute angle will be given by :math:`\sec\theta = \left|-\frac{2\sqrt{42}}{5}\right| = 2.6` (approximately).
+
+190. The diagram is given below:
+
+     .. image:: _static/images/28_190.webp
+        :alt: 190th problem
+        :align: center
+
+     Let :math:`DP` be the tower having a height of :math:`h` with foot at :math:`D` and :math:`A, B, C` be
+     the three points on the ciircular lake. According to question :math:`\angle PAD = \alpha, \angle PBD =
+     \beta` and :math:`\angle PCD = \gamma`. Also, :math:`\angle BAC = \theta` and :math:`\angle ACB =
+     \theta`. We know that angles on the same segement of a circle are equal. :math:`\therefore \angle ADB =
+     \angle ACB = \theta` and :math:`\angle BDC = \angle BAC = \theta`.
+
+     In :math:`\triangle PDA, \tan\alpha = \frac{h}{AD} \Rightarrow AD = h\cot\alpha`
+
+     Similarly, :math:`BD = h\cot\beta` and :math:`CD = h\cot\gamma`
+
+     In :math:`\triangle ABC, \angle BAC = \angle ACB \Rightarrow AB = BC \Rightarrow AB^2 = bC^2`
+
+     Using cosine rule in :math:`\triangle ABD, \cos\theta = \frac{AD^2 + BD^2 - AB^2}{2.AD.BD}`
+
+     :math:`\Rightarrow AB^2 = AD^2 + BD^2 - 2.AD.BD.\cos\theta`
+
+     Similarly in :math:`\triangle BDC, BC^2 = BD^2 + CD^2 - 2.BD.CD.\cos\theta`
+
+     :math:`\Rightarrow AD^2 + BD^2 - 2.AD.BD.\cos\theta = BD^2 + CD^2 - 2.BD.CD.\cos\theta`
+
+     :math:`\Rightarrow 2.BD.\cos\theta[CD - AD] = CD^2 - AD^2`
+
+     :math:`\Rightarrow 2.BD.\cos\theta = CD + AD \Rightarrow 2\cos\theta\cot\beta = \cot\alpha +
+     \cot\gamma`.
+
+191. The diagram is given below:
+
+     .. image:: _static/images/28_191.webp
+        :alt: 191st problem
+        :align: center
+
+     Let :math:`DP` be the pole of height :math:`h` and :math:`R` be the radius of the circular pond.
+     According to question, :math:`\angle PAD = \angle PBD = 30^\circ` and :math:`\angle PCD = 45^\circ`.
+
+     Clearly, :math:`\angle PDA = \angle PDB = \angle PDC = 90^\circ`
+
+     Also arc :math:`AB = 40` m and arc :math:`BC = 20` m.
+
+     Now :math:`\frac{2\pi R}{40} = \frac{2\pi}{\angle AOB}\Rightarrow \angle AOB = \frac{40}{R}`
+
+     Similarly, :math:`\angle BOC = \frac{20}{R} \therefore \angle AOB = 2\angle BOC`
+
+     :math:`\Rightarrow \angle ADB = 2.\angle BDC` [:math:`\because` angle subtended by a segment at the
+     center is double the angle subtended at circumference.]
+
+     Let :math:`\angle BDC = \theta`, then :math:`\angle ADB = 2\theta`.
+
+     In :math:`\triangle PDA, \tan30^\circ = \frac{h}{AD} \therefore AD = \sqrt{3}h`.
+
+     Similarly, in :math:`\triangle PDB, BD = \sqrt{3}h` and in :math:`\triangle PDC, CD = h`.
+
+     Now :math:`\because AD = BD \therefore \angle DAB = \angle DBA = 90^\circ - \theta`
+
+     Also, :math:`\angle BAC = \angle BDC = \theta` and :math:`\angle ACB = \angle ADB = 2\theta`.
+
+     Now :math:`\angle ABC = 180^\circ - 3\theta \therefore \angle DBC = \angle ABC - \angle ABD`
+
+     :math:`= (180^\circ - 3\theta) - (90^\circ - \theta) = 90^\circ - 2\theta`
+
+     :math:`\angle BCD = 90^\circ + \theta`
+
+     Using sine rule in :math:`\triangle BCD, \frac{BD}{sin\angle BCD} = \frac{CD}{sin\angle DBC}`
+
+     :math:`\Rightarrow \frac{\sqrt{3}h}{\sin(90^\circ + \theta)} = \frac{h}{\sin(90^\circ - 2\theta)}`
+
+     :math:`\Rightarrow \frac{\sqrt{3}}{\cos\theta} = \frac{1}{\cos2\theta}`
+
+     :math:`\Rightarrow \cos\theta = \frac{\sqrt{3}}{2}, -\frac{1}{\sqrt{3}}` (rejected because
+     :math:`\theta \ngtr 90^\circ`)
+
+     :math:`\theta = 30^\circ \Rightarrow \angle ADC = 3\theta = 90^\circ`
+
+     :math:`\therefore AC` will be the diameter. arc :math:`ABC =` semiperimeter :math:`= 60` m.
+
+     :math:`\pi R = 60 \Rightarrow R = 19.09` m.
+
+     In :math:`\triangle ADC, AC^2 = AD^2 + CD^2 \Rightarrow 4R^2 = 3h^2 + h^2 \Rightarrow h = R = 19.09` m.
+
+192. The diagram is given below:
+
+     .. image:: _static/images/28_192.webp
+        :alt: 192nd problem
+        :align: center
+
+     Let the man start at :math:`O` on the straight sea shore :math:`OAB, P` and :math:`Q` be the
+     buoys. According to question, :math:`OA = a, OB = b, \angle POA = \alpha - \angle PAQ = \angle PBQ`.
+
+     :math:`\because\angle PAQ = \angle PBQ = \alpha \therefore` a circle will pass through the points
+     :math:`A, B, P` and :math:`Q`.
+
+     Let :math:`\angle OAQ = \theta \angle QAB = \pi - \theta`
+
+     Also, :math:`\angle OQA = \pi - (\angle QOA + \angle OAQ) = \pi - (\alpha + \theta)`
+
+     :math:`\therefore \angle APQ = \pi - (\angle PAQ + \angle PQA) = \pi - [\alpha + \pi - (\alpha +
+     \theta)] = \theta`
+
+     Since :math:`ABPQ` is concyclic :math:`\therefore \angle ABQ = \pi - \angle APQ = \pi - \theta = \angle
+     QAB \Rightarrow QA = QA \therefore \triangle QAB` is an isosceles triangle.
+
+     Draw :math:`OD\perp AB \therefore D` is the mid-point of :math:`AB`.
+
+     :math:`\Rightarrow AD = BD = \frac{b}{2}\Rightarrow OD = OA + AD = a + \frac{b}{2}`
+
+     In :math:`\triangle ODQ, \cos\alpha = \frac{OD}{OQ} \Rightarrow OQ = \left(a +
+     \frac{b}{2}\right)\sec\alpha`
+
+     From the properties of a circle, :math:`OA.OB = OP.OQ`
+
+     :math:`\Rightarrow a.(a + b) = OP.\left(a + \frac{b}{2}\right)\sec\alpha`
+
+     :math:`\Rightarrow OP = \frac{2a(a + b)\cos\alpha}{2a + b}`
+
+     :math:`\Rightarrow PQ = OQ - OP = \left(a + \frac{b}{2}\right)\sec\alpha - \frac{2a(a + b)}{2a +
+     b}\cos\alpha`.
+
+193. The diagram is given below:
+
+     .. image:: _static/images/28_193.webp
+        :alt: 193rd problem
+        :align: center
+
+     Let :math:`A_1OA_n` be the railway curve in the shape of a quadrant, the telegraph posts be
+     represented by :math:`A_1, A_2, \ldots, A_n` and the man be stationed at :math:`C`. From question
+     :math:`CPQ`  is a straight line. Also, :math:`A_1C = a`. Let :math:`OA_1` be the radius of the quadrant
+     and :math:`O` its center. Clearly, :math:`A_1OA_n = \frac{\pi}{2}`.
+
+     As there are :math:`n` telegraph posts from :math:`A_1` to :math:`A_n` at equal distances,
+     arc :math:`A_1A_N` is divided in :math:`n - 1` equal parts.
+
+     :math:`\therefore \angle A_1OA_2 = \angle A_2OA_3 = \cdots = A_{n - 1}OA_n = \frac{\pi}{2(n - 1)} =
+     \theta`
+
+     According to question, :math:`\phi = \frac{\pi}{4(n - 1)} \Rightarrow \theta = 2\phi`.
+
+     Let :math:`P` and :math:`Q` be the :math:`p^{th}` and :math:`q^{th}` posts as seen from :math:`A_1`.
+
+     :math:`\therefore \angle A_1OP = p\theta = 2p\phi` and :math:`\angle A_1OQ = q\theta = 2q\phi`
+
+     :math:`\angle POQ = (q - p)\theta = 2(q - p)\phi`. Draw :math:`OD\perp PQ`
+
+     :math:`\because OP = OQ =` radius of the circular quadrant. :math:`\therefore \triangle POQ` is an
+     isosceles triangle.
+
+     Clearly, :math:`OD` bisects the :math:`\angle POQ \therefore \angle POD = \angle QOD = (q - p)\phi`
+
+     :math:`\angle COD = \angle A_1OD = \angle A_1OP + \angle POD = 2p\phi + (q - p)\phi = (p + q)\phi`
+
+     In :math:`\triangle ODC, \cos\angle COD = \frac{OD}{OC} \Rightarrow \cos(p + q)\phi = \frac{OD}{r + a}`
+
+     :math:`\Rightarrow OD = (r + a)\cos(p + q)\phi`
+
+     In :math:`\triangle ODP, \cos\angle POD = \frac{OD}{OP} \Rightarrow \cos(p - q)\phi =
+     \frac{OD}{r}\Rightarrow OD = r\cos(q - p)\phi`
+
+     :math:`\Rightarrow (r + a)\cos(q + p)\phi = r\cos(q - p)\phi`
+
+     :math:`\Rightarrow -a\cos(q + p)\phi = r[\cos(q + p)\phi - \cos(q - p)\phi]`
+
+     :math:`\Rightarrow r = \frac{a}{2}\cos(q + p)\phi.\cosec p\phi.\cosec q\phi`.
+
+194. The diagram is given below:
+
+     .. image:: _static/images/28_194.webp
+        :alt: 194th problem
+        :align: center
+
+     Let :math:`r` be the radius of the wheel and :math:`x` be the length of the rod. Clearly, :math:`AC =
+     2r + x`. According to question :math:`\angle APC = \alpha`.
+
+     In :math:`\triangle PAC, \tan\alpha = \frac{AC}{AP} = \frac{2r + x}{d} \Rightarrow x = d\tan\alpha -
+     2r`.
+
+     After rotation of the wheel, let :math:`C'` be the new position of :math:`C` as shown in the figure. In
+     this case angle of elevation of :math:`C'` is :math:`\beta`. Since :math:`C'` is the position of
+     :math:`C` when it is about to disappear, so :math:`PC'` will be tangent to the wheel. Let it touch the
+     wheel at :math:`Q`.
+
+     In :math:`\triangle OPQ` and :math:`APO, OQ = OA = r, OP` is common.
+
+     :math:`\angle OQP = \angle OAP = 90^\circ \therefore` triangle are equal.
+
+     :math:`\Rightarrow \angle OPQ = \angle OPA = \frac{\beta}{2}`
+
+     In :math:`\triangle OAP, \tan\frac{\beta}{2} = \frac{OA}{AP} = \frac{r}{d} \Rightarrow r =
+     d\tan\frac{\beta}{2}`
+
+     :math:`\Rightarrow x = d\left(\tan\alpha - 2\tan\frac{\beta}{2}\right)`
+
+     :math:`PA` and :math:`PQ` are tangents to the same circle :math:`\therefore PQ = PA = d`
+
+     :math:`\therefore \angle OQC' = 90^\circ`
+
+     In :math:`\triangle OQC', QC' = \sqrt{OC'^2 - OQ^2} = \sqrt{(x + r)^2 - r^2} = \sqrt{x(x + 2r)}`
+
+     :math:`= d\sqrt{\tan^2\alpha - 2\tan\alpha\tan\frac{\beta}{2}}`
+
+     :math:`\therefore PC' = PQ + QC' = d + d\sqrt{\tan^2\alpha - 2\tan\alpha\tan\frac{\beta}{2}}`
+
+195. The diagram is given below:
+
+     .. image:: _static/images/28_195.webp
+        :alt: 195th problem
+        :align: center
+
+     Let :math:`PQ` be the tower having a height of :math:`h, ADB` be the arc having the given
+     length of :math:`2L` and :math:`AC` be the part of arc with length :math:`\frac{L}{2}`. Clearly, line
+     :math:`PC` will be tangent to the arch as the man at :math:`C` just sees the topmost point :math:`P` of
+     the tower. :math:`D` is the topmost point of the semi-circullar arch.
+
+     Let :math:`r` be the radius of the arch. According to question :math:`\angle PDT = \theta` where
+     :math:`DT\perp PQ`.
+
+     Let :math:`\angle COA = \phi`. Here :math:`O` is the center of the arch. Clearly, :math:`2L` length
+     represents semi-cicular arch which means :math:`AC` which is of length :math:`\frac{L}{2}` will make an
+     angle of :math:`45^\circ` at center i.e. :math:`\phi = 45^\circ`.
+
+     In :math:`\triangle ONC, CN = OC\sin\phi` and :math:`ON = OC\cos\phi`
+
+     :math:`\Rightarrow CN = \frac{r}{\sqrt{2}}` and :math:`ON = \frac{r}{\sqrt{2}}`
+
+     Let :math:`CR\perp PQ` then :math:`CD\parallel NO \therefore \angle OCM = \angle CON = 45^\circ`
+
+     Also, :math:`\angle OCP = 90^\circ` beccause :math:`OC` is normal at :math:`C`.
+
+     :math:`\therefore \angle PCR = \angle PCO - \angle OCR = 90^\circ - 45^\circ = 45^\circ`
+
+     In :math:`\triangle PRC, \tan45^\circ = \frac{PR}{CR} = \frac{PQ - QR}{CR} = \frac{h -
+     \frac{r}{\sqrt{2}}}{CR}`
+
+     :math:`\Rightarrow CR = h - \frac{r}{\sqrt{2}}`
+
+     In :math:`\triangle DPT, \tan\theta = \frac{PT}{DT} = \frac{PQ - QT}{MR} = \frac{PQ - OD}{CR - CM}`
+
+     :math:`\Rightarrow \tan\theta = \frac{h - r}{h- \frac{r}{\sqrt{2}} - \frac{h}{\sqrt{2}}}`
+
+     :math:`\Rightarrow h = \frac{r(\sqrt{2}\tan\theta - 1)}{\tan\theta - 1} =
+     \frac{2L}{\pi}.\frac{\sqrt{2}\tan\theta - 1}{\tan\theta - 1}`.
+
+196. The diagram is given below:
+
+     .. image:: _static/images/28_196.webp
+        :alt: 196th problem
+        :align: center
+
+     According to question, :math:`\angle DAB = \alpha, \angle CAB = \beta`
+
+     :math:`\therefore \angle CAD = \beta - \alpha.\because AC` is the diameter. :math:`\therefore \angle
+     ABC = 90^\circ`. Let :math:`O` be the ceter of the circle and :math:`r` be its radius then :math:`AC =
+     2r`.
+
+     :math:`\because E` is the mid-point of :math:`CD. \therefore CE = ED = x` (let)
+
+     :math:`\because \angle ADC` is the exterior angle of :math:`\triangle ABC. \therefore \angle ADC =
+     90^\circ + \alpha`
+
+     Using sine rule in :math:`\triangle ADC, \frac{2r}{\sin(90^\circ + \alpha)} = \frac{2x}{\sin(\beta -
+     \alpha)} \Rightarrow x = \frac{r\sin(\beta - \alpha)}{\cos\alpha}`
+
+     In :math:`\triangle ABC, \cos\alpha = \frac{AB}{AD} = \frac{2r\cos\beta}{AD}\Rightarrow AD =
+     \frac{2r\cos\beta}{\cos\alpha}`
+
+     :math:`\because AE` is the median of the :math:`\triangle CAD. \therefore AC^2 + AD^2 = 2(AE^2 + CE^2)`
+
+     :math:`\Rightarrow 4r^2 + \frac{4r^2\cos^2\beta}{\cos^2\alpha} = 2d^2 + 2x^2`
+
+     :math:`\Rightarrow \frac{4r^2(\cos^2\alpha + \cos^2\beta)}{\cos^2\alpha} = 2d^2 + \frac{r^2\sin^2(\beta
+     - \alpha)}{\cos^2\alpha}`
+
+     :math:`\Rightarrow r^2 = \frac{d^2\cos^2\alpha}{2\cos^2\alpha + 2\cos^2\beta - \sin^2(\beta - \alpha)}`
+
+     :math:`\Rightarrow = \frac{d^2\cos^2\alpha}{\cos^2\alpha + \cos^2\beta + \cos(\alpha + \beta)\cos(\beta
+     - \alpha) + \cos^2(\beta - \alpha)}`
+
+     :math:`= \frac{d^2\cos^2\alpha}{\cos^2\alpha + \cos^2\beta + 2\cos\alpha\cos\beta\cos(\beta - \alpha)}`
+
+     Thus are of the triangle can be found which is equal to desired result.
+
+197. The diagram is given below:
+
+     .. image:: _static/images/28_197.webp
+        :alt: 197th problem
+        :align: center
