@@ -41,6 +41,7 @@ An Angle in Trigonometry
    height-and-distance-solutions-part2
    height-and-distance-solutions-part3
    height-and-distance-solutions-part4
+   height-and-distance-solutions-part5
 
 
 Indices and tables

@@ -1088,3 +1088,52 @@ Height and Distance Solutions Part 4
      .. image:: _static/images/28_197.webp
         :alt: 197th problem
         :align: center
+
+     Let :math:`AB` be the surface of the lake and :math:`C` be the point of observation such that :math:`AC
+     = h` m. Let :math:`E` be the position of the cloud and :math:`E'` be its reflection then :math:`BE =
+     BE'`.
+
+     In :math:`\triangle CDE, \tan\alpha = \frac{DE}{CD} = \frac{H}{CD} \Rightarrow CD =
+     \frac{H}{\tan\alpha}`
+
+     In :math:`\triangle CDE', \tan\beta = \frac{DE'}{CD} = \frac{2h + H}{CD} \Rightarrow CD = \frac{2h +
+     H}{\tan\beta}`
+
+     :math:`\Rightarrow \frac{H}{\tan\alpha} = \frac{2h + H}{\tan\beta} \Rightarrow H(\tan\beta -
+     \tan\alpha) = 2h\tan\alpha \Rightarrow H = \frac{2h\tan\alpha}{\tan\beta - \tan\alpha}`
+
+     In :math:`\triangle CDE, \sin\alpha = \frac{DE}{CE} \Rightarrow CE = \frac{H}{\sin\alpha}`
+
+     :math:`\Rightarrow CD = \frac{2h\tan\alpha}{(\tan\beta - \tan\alpha)\sin\alpha} =
+     \frac{2h\sec\alpha}{\tan\beta - \tan\alpha}`
+
+     :math:`= \frac{2h\sec\alpha.\cos\alpha.\cos\beta}{\sin\beta\cos\alpha - \sin\alpha\cos\beta}`
+
+     :math:`= \frac{2h\cos\beta}{\sin(\beta - \alpha)}`.
+
+198. Front view and side view are given below:
+
+     .. image:: _static/images/28_198.webp
+        :alt: 198th problem
+        :align: center
+
+     .. image:: _static/images/28_198_1.webp
+        :alt: 198th problem
+        :align: center
+
+     In :math:`\triangle ADE, \tan30^\circ = \frac{AD}{DE} \Rightarrow DE = \sqrt{3}h`
+
+     In :math:`\triangle BDE, \tan\alpha = \frac{BD}{DE} = \frac{a}{\sqrt{3}h}`
+
+     Tangent of apex of shadow :math:`= \tan2\alpha = \frac{2\tan\alpha}{1 - \tan^2\alpha}`
+
+     :math:`= \frac{\frac{2a}{\sqrt{3}h}}{1 - \frac{a^2}{3h^2}} = \frac{2ah\sqrt{3}}{3h^2 - a^2}`.
+
+199. Let :math:`ABCD` be the target and :math:`ABC'D'` be its shadow then :math:`\angle DAD' = \beta` and
+     :math:`\angle BAD'= 90^\circ - \beta`. Area of the target :math:`= AB.AD` and area of the shadow
+     :math:`= AB.AD'.\cos\beta`
+
+     :math:`\frac{\text{Area of target}}{\text{Area of shadow}} = \frac{AB.AD}{AB.AD'.\cos\beta} =
+     \tan\alpha.\sec\beta`
+
+200. This question is similar to :math:`169`, and has been left as an exercise.

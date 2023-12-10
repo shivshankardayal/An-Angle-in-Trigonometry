@@ -14,7 +14,7 @@ point e1 = (8 , -6);
 fill(a -- b -- e1 -- (0, -6) -- cycle, 0.97*green + 0.97*red + blue);
 draw(a -- b, 0.7*green);
 draw(c -- d -- e -- cycle, 0.7*green);
-draw(c -- d -- e1 -- cycle, 0.7*green);
+draw(c -- e1 -- d, 0.7*green);
 
 label("$A$", a, align=W, 0.7*green);
 label("$B$", b, align=E, 0.7*green);

@@ -140,7 +140,7 @@ Problems
     the pillars are :math:`60^\circ` and :math:`30^\circ` at a point on the road between the pillars. Find the position of the
     point between the pillars and the height of each pillar.
 
-23. As observed from the top of a light house, :math:`100` m above sea level, the angle of depression of a ship, sailing directly
+23. As observed from the top of a lighthouse, :math:`100` m above sea level, the angle of depression of a ship, sailing directly
     towards it, changes from :math:`30^\circ` to :math:`45^\circ`. Determine the distance travelled by the ship during the period
     of observation.
 
@@ -358,7 +358,7 @@ Problems
     :math:`AB` and :math:`CD`, (ii) the height of the lamp post, and (iii) the difference between heights of the building and lamp
     post.
 
-82. Two boats approach a lighthouse mid sea from opposite directions. The angles of elevation of the top of the light house from
+82. Two boats approach a lighthouse mid sea from opposite directions. The angles of elevation of the top of the lighthouse from
     the two boats are :math:`30^\circ` and :math:`45^\circ` respectively. If the distance between the ships is :math:`100` m, find
     the height of the lighthouse.
 
@@ -693,7 +693,7 @@ Problems
      shadow on the wall where it meets the horizontal ground is :math:`\frac{2a}{c}\sqrt{b^2 + 2bc}`.
 
 169. The extremity of the shadow of a flag-staff which is :math:`6` m high and stands on the top of a pyramid on a square base,
-     just reaches the side of the bsae and is distant :math:`x` and :math:`y` ft. respectively from the ends of that side; prove
+     just reaches the side of the base and is distant :math:`x` and :math:`y` ft. respectively from the ends of that side; prove
      that the height of the pyramid is :math:`\sqrt{\frac{x^2 + y^2}{2}}.\tan\alpha - 6`, where :math:`\alpha` is the elevation of
      the sun.
 
@@ -843,7 +843,7 @@ Problems
      of the triangle, :math:`h` its height and :math:`30^\circ` be the altitude of the sun, prove that the tangent of the angle at
      the apex of the shadow is :math:`\frac{2ah\sqrt{3}}{3h^2 - a^2}`.
 
-199. A rectangular target faces due south, being vertical and standing on a horizontal plane. Computer the area of the target with
+199. A rectangular target faces due south, being vertical and standing on a horizontal plane. Compute the area of the target with
      that of its shadow on the ground when the sun is :math:`\beta^\circ` from the south at an altitude of :math:`\alpha^\circ`.
 
 200. The extremity of the shadow of a flag staff which is :math:`6` m high and stands on the top of a pyramid on a square base just
@@ -863,12 +863,12 @@ Problems
      angle of elevation from each of these points is :math:`\alpha`. If :math:`\angle ABC = \beta` and :math:`AC = b`, find the
      height of the balloon.
 
-204. A light house, facing north, sends out a fan-shaped beam of light extending from north-east to north-west. An observer on a
-     steamer, sailing due west first sees the light when he is :math:`5` km away from the light house and continues to see it for
+204. A lighthouse, facing north, sends out a fan-shaped beam of light extending from north-east to north-west. An observer on a
+     steamer, sailing due west first sees the light when he is :math:`5` km away from the lighthouse and continues to see it for
      :math:`30\sqrt{2}` minutes. What is the speed of the steamer?
 
 205. A man walking due north observes that the elevation of a balloon, which is due east of him and is sailing tpwards the
-     north-west is then :math:`60^\circ`; after he gas walked :math:`400` yards the balloon is vertically over his head. Find its
+     north-west is then :math:`60^\circ`; after he has walked :math:`400` yards the balloon is vertically over his head. Find its
      height, supposing it to have always remained the same.
 
 206. A flag-staff stands on the middle of a square tower. A man on the ground opposite the middle of the face and distant from it
