@@ -867,7 +867,7 @@ Problems
      steamer, sailing due west first sees the light when he is :math:`5` km away from the lighthouse and continues to see it for
      :math:`30\sqrt{2}` minutes. What is the speed of the steamer?
 
-205. A man walking due north observes that the elevation of a balloon, which is due east of him and is sailing tpwards the
+205. A man walking due north observes that the elevation of a balloon, which is due east of him and is sailing towards the
      north-west is then :math:`60^\circ`; after he has walked :math:`400` yards the balloon is vertically over his head. Find its
      height, supposing it to have always remained the same.
 
@@ -893,7 +893,7 @@ Problems
      :math:`15^\circ`. If the distance between the two places be :math:`a`, prove that the height of steeple is
      :math:`\frac{a(\sqrt{3} - 1)}{2.\sqrt[4]{3}}` or :math:`\frac{a}{\sqrt{6 + 4\sqrt{3}}}`.
 
-211. A tower surmouned by a spire stands on a level plane. A person on the plain observes that when he is at a distance :math:`a`
+211. A tower surmounted by a spire stands on a level plane. A person on the plain observes that when he is at a distance :math:`a`
      from the foot of the tower, its top is in line with that of a mountain behind the spire. From a point at a distance :math:`b`
      further from the tower, he finds that the spire subtends the same angle as before at his eye and its top is in line with that
      of the mountain. If the height of the tower above the horizontal plane through the observer's eye is :math:`c`, prove that the
@@ -908,7 +908,7 @@ Problems
      found to be :math:`\beta`. Find the height of the tower and width of the canal.
 
 214. The angle of elevation of a balloon from two stations :math:`2` km apart and from a point halfway between them are observed to
-     be :math:`60^\circ, 30^\circ` annd :math:`45^\circ` respectively. Prove that the height of the balloon is :math:`500\sqrt{5}`
+     be :math:`60^\circ, 30^\circ` annd :math:`45^\circ` respectively. Prove that the height of the balloon is :math:`500\sqrt{6}`
      meters.
 
 215. A flag staff :math:`10` meters high stands in the center of an equilateral triangle which is horizontal. If each side of the
