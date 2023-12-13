@@ -330,3 +330,59 @@ Height and Distance Solutions Part 5
      :math:`\Rightarrow \left(H + \frac{bH}{a}\right)\tan\beta = \frac{ab - H^2}{a}`
 
      :math:`\Rightarrow h = (a + b)\tan\beta`
+
+217. The diagram is given below:
+
+     .. image:: _static/images/28_217.webp
+        :alt: 217th problem
+        :align: center
+
+     Let :math:`AB` be the tower and :math:`BC` be the flag-staff having heights of :math:`x` and :math:`y`
+     respectively. According to question :math:`BC` makes an angle of :math:`\alpha` at :math:`E` which is
+     :math:`c` distance from the tower. Let the angle of elevation from :math:`E` to the top of tower
+     :math:`B` is :math:`\beta`.
+
+     In :math:`\triangle ABE, \tan\beta = \frac{x}{c}`
+
+     In :math:`\triangle ACE, \tan(\alpha + \beta) = \frac{x + y}{c}`
+
+     :math:`\Rightarrow \frac{\tan\alpha + \tan\beta}{1 - \tan\alpha\tan\beta} = \frac{x + y}{c}`
+
+     :math:`\Rightarrow \frac{x + c\tan\alpha}{c - x\tan\alpha} = \frac{x + y}{c}`
+
+     :math:`\Rightarrow \tan\alpha = \frac{cy}{x^2 + c^2 + xy}`
+
+     Given that :math:`\alpha` is the greatest angle made which means :math:`\tan\alpha` will be greatest. So
+     equating the derivative w.r.t to :math:`c` to zero, we get
+
+     :math:`\frac{d}{dc}\left[\frac{cy}{x^2 + c^2 + xy}\right] = \frac{c[x(x + c) - c^2]}{[x^2 + c^2 +
+     xy]^2} = 0`
+
+     :math:`\Rightarrow c^2 = x(x + y)`
+
+     :math:`\Rightarrow \tan\alpha = \frac{cy}{2c^2} = \frac{y}{2c} \Rightarrow y = 2c\tan\alpha`
+
+     We had :math:`x^2 + xy - c^2 = 0 \Rightarrow x^2 + 2cx\tan\alpha - c^2 = 0`
+
+     Neglecting the negative root we have :math:`\Rightarrow x = -c\tan\alpha + c\sec\alpha`
+
+     :math:`\Rightarrow = c\left(\frac{1 - \sin\alpha}{\cos\alpha}\right) = 2d\left(\frac{1 +
+     \tan^2\frac{\alpha}{2} - 2\tan\frac{\alpha}{2}}{1 - \tan^2\frac{\alpha}{2}}\right)`
+
+     :math:`= c\left(\frac{1 - \tan\frac{\alpha}{2}}{1 + \tan\frac{\alpha}{2}}\right)`
+
+     :math:`= c\tan\left(\frac{\pi}{4} - \frac{\alpha}{2}\right)`
+
+218. The diagram is given below:
+
+     .. image:: _static/images/28_218.webp
+        :alt: 218th problem
+        :align: center
+
+     We know that :math:`B` is due north of :math:`D` at a distance of :math:`2` km and :math:`D` is due
+     west of :math:`C` such that :math:`\angle BCD = 25^\circ` we can plot :math:`B, C, D` as shown in the
+     diagram. It is given that :math:`B` lies on :math:`AC` such that :math:`\angle BDA = 40^\circ`. From
+     figure it is clear that :math:`\angle ACD = \angle CAD = 25^\circ` thus :math:`\triangle ACD` is an
+     isoscelels triangle. Let :math:`AD = CD = x`.
+
+     In :math:`\triangle BCD, \tan25^\circ = \frac{2}{x} \Rightarrow x = 2\cot25^\circ = 4.28` km.

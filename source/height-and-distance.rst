@@ -924,103 +924,98 @@ Problems
      that the heights of the tower and flag staff are :math:`c\tan\left(\frac{\pi}{4} - \frac{\alpha}{2}\right)` and
      :math:`2c\tan\alpha` meters respectively.
 
-218. An observer on a carriage moving with a speed :math:`v` along a straight-road observes in one position that two distant trees
-     are in the same line with him which is inclined at a angle :math:`\theta` to the road. After a time :math:`t`, he observes
-     that the tree subtend their greatest angle :math:`\phi`. Show that the distance between the trees is
-     :math:`\frac{2vt\sin\theta\sin\phi}{\cos\theta + \cos\phi}`.
-
-219. Four ships :math:`A, B, C` and :math:`D` are at sea in the following positions. :math:`B` is on a straight line segment
+218. Four ships :math:`A, B, C` and :math:`D` are at sea in the following positions. :math:`B` is on a straight line segment
      :math:`AC`, :math:`B` is due north of :math:`D` and :math:`D` is due west of :math:`C`. The distance between :math:`B` and
      :math:`D` is :math:`2` km. If :math:`\angle BDA = 40^\circ, \angle BCD = 25^\circ`, what is the distance between :math:`A` and
      :math:`D`? (:math:`\sin25^\circ = 0.423`)
 
-220. A train is moving at a constant speed at an angle :math:`\theta` east of north. Observations of the train are made from a
+219. A train is moving at a constant speed at an angle :math:`\theta` east of north. Observations of the train are made from a
      fixed point. It is due north at some instant. Ten minutes earlier its bearing is :math:`\alpha_2` east of north. Find
      :math:`\tan\theta`.
 
-221. A man walks in a horizontal circle round the foot of a flag staff, which is inclined to the vertical, the foot of the flag
+220. A man walks in a horizontal circle round the foot of a flag staff, which is inclined to the vertical, the foot of the flag
      staff being the center of the circle. The greatest and least angles which the flag staff subtends at his eyes are
      :math:`\alpha` and :math:`\beta`; and when he is mid-way between the corresponding position the angle is :math:`\theta`. If
      the man's height be neglected, prove that :math:`\tan\theta = \frac{\sqrt{\sin^2(\alpha - \beta) +
      4\sin^2\alpha\sin^2\beta}}{\sin(\alpha + \beta)}`.
 
-222. A bird flies in a circle on a horizontal plane. An observer stands at a point on the ground. Suppose :math:`60^\circ` and
+221. A bird flies in a circle on a horizontal plane. An observer stands at a point on the ground. Suppose :math:`60^\circ` and
      :math:`30^\circ` are the maximum and the minimum angles of elevation of the bird and that they occur when the bird is at point
      :math:`P` and :math:`Q` respectively on its path. Let :math:`\theta` be the angle of  elevation of the bird when it is at a
      point on the arc of the circle exactly midway between :math:`P` and :math:`Q`. Find the numerical value of
      :math:`\tan^2\theta`. (Assume that the observer is not inside the vertical projection of the path of the bird).
 
-223. A hill on a level plane has the form of a portion of a sphere. At the bottom the surface slopes at an angle :math:`\alpha` and
+222. A hill on a level plane has the form of a portion of a sphere. At the bottom the surface slopes at an angle :math:`\alpha` and
      from a point on the plane distant :math:`a` from the foot of the hill the elevation of the heighest visible point is
      :math:`\beta`. Prove that the height of the hill above the plane is
      :math:`\frac{a\sin\beta\sin^2\frac{\alpha}{2}}{\sin^2\frac{\alpha - \beta}{2}}`.
 
-224. A hill standing on a horizontal plane, has a circular base and forms a part of a sphere. At two points on the plane, distant
+223. A hill standing on a horizontal plane, has a circular base and forms a part of a sphere. At two points on the plane, distant
      :math:`a` and :math:`b` from the base, the angular elevation of the heighest visible points on the hill are :math:`\theta` and
      :math:`\phi`. Prove that the height of the hill is :math:`2\left[\frac{\sqrt{b\cot\frac{\phi}{2}} -
      \sqrt{a\cot\frac{\theta}{2}}}{\cot\frac{\theta}{2} - \cot\frac{\phi}{2}}\right]^2`.
 
-225. On the top of a hemispherical dome of radius :math:`r` there stands a flag of height :math:`h`. From a point on the ground the
+224. On the top of a hemispherical dome of radius :math:`r` there stands a flag of height :math:`h`. From a point on the ground the
      elevation of the top of the flag is :math:`30^\circ`. After moving a distant :math:`d` towards the dome, when the flag is just
      visible, the elevation is :math:`45^\circ`. Find :math:`r` and :math:`h` in terms of :math:`d`.
 
-226. A man walks on a horizontal plane a distance :math:`a`, then through a distance :math:`a` at an angle :math:`\alpha` with his
+225. A man walks on a horizontal plane a distance :math:`a`, then through a distance :math:`a` at an angle :math:`\alpha` with his
      previous direction. After he has done this :math:`n` times, the change of his direction being always in the same sense, show
      that he is distant :math:`\frac{a\sin(n\alpha/2)}{\sin(\alpha/2)}` from his starting point and that this distance makes an
      angle :math:`(n - 1)\frac{\alpha}{2}` with his original direction.
 
-227. In order to find the dip of a stream of coal below the surface of the ground, vertical borings are made from the angular point
+226. In order to find the dip of a stream of coal below the surface of the ground, vertical borings are made from the angular point
      :math:`A, B, C` of a triangle :math:`ABC` which is in a horizontal plane; the depths of a stratum at these points are found to
      be :math:`x, x + y` and :math:`x + z` respectively. Show that the dip :math:`\theta` of the stratum which is assumed to be a
      plane is given by :math:`\tan\theta\sin A = \sqrt{\frac{y^2}{c^2} + \frac{z^2}{b^2} - \frac{2yz}{bc}\cos A}`.
 
-228. Two lines of rails make an angle of :math:`75^\circ` with one another. They are to be connected by a circular arc of central
+227. Two lines of rails make an angle of :math:`75^\circ` with one another. They are to be connected by a circular arc of central
      angle :math:`105^\circ`. A straight path of length :math:`800` meters passes from one set of rails to the other and makes an
      angle :math:`30^\circ` with one set. Find the length of the circular rail wanted if the path is to be just avoided.
 
-229. A gun is fired from a fort :math:`F` at a distance :math:`d` from a station :math:`O` and from two stations :math:`A` and
+228. A gun is fired from a fort :math:`F` at a distance :math:`d` from a station :math:`O` and from two stations :math:`A` and
      :math:`B` in a straight line with :math:`O` and at a distance :math:`a` and :math:`b` respectively from :math:`O`. The
      intervals between seeing the flash and hearing the reports are :math:`t` and :math:`t_1`. Show that the velocity of sound is
      :math:`\sqrt{\frac{(d^2 - ab)(a - b)}{at_1^2 - bt^2}}`.
 
-230. A tunnel is to be bored from :math:`A` to :math:`B`, which are two places on the opposite sides of a mountain. From :math:`A`
+229. A tunnel is to be bored from :math:`A` to :math:`B`, which are two places on the opposite sides of a mountain. From :math:`A`
      and :math:`B` the elevation of a distant point :math:`C` are found to be :math:`\alpha` and :math:`\beta` and the angle
      :math:`ACB` is found to be :math:`\gamma`. Also the length :math:`AC` and :math:`BC` are known to be :math:`a` and
      :math:`b`. Show that the height (:math:`h`) of :math:`B` above :math:`A` is :math:`a\sin\alpha - b\sin\beta`, and that the
      length (:math:`l`) of :math:`AB` is :math:`\sqrt{a^2 + b^2 - 2ab\cos\gamma}`.
 
-231. An observer looking up the line of greatest slope of an inclined plane sees a vertical tower due east of him. He walks
+230. An observer looking up the line of greatest slope of an inclined plane sees a vertical tower due east of him. He walks
      :math:`l` meters up the plane in a direction :math:`\alpha` north of east and has then reached the level of the foot of the
      tower and finds its elevation as :math:`\beta`. The plane makes an angle :math:`\gamma` with the horizontal. Show that the
      height of the tower is :math:`\frac{l\tan\beta\cos\gamma}{\sqrt{\cot^2\alpha + \cos^2\gamma}}`.
 
-232. Observations made to estimate the radius of the moon have shown that the semi-vertical angle of the tangential cone, drawn
+231. Observations made to estimate the radius of the moon have shown that the semi-vertical angle of the tangential cone, drawn
      with vertex at the observer :math:`O` and touching the rim of the moon is :math:`\frac{1}{4}` of a degree. Use this
      information to determine the radius of the moon, given the distance of the center of the moon from the observer :math:`O` is
      :math:`584,000` kms (for small angles :math:`\sin\theta` is the same angle as angle :math:`\theta` measured in radians).
 
-233. :math:`A, B` and :math:`C` are three consecutive milestones on a straight road from each of which a distant spire is
+232. :math:`A, B` and :math:`C` are three consecutive milestones on a straight road from each of which a distant spire is
      visible. The spire is observed to bear north-east at :math:`A`, east at :math:`B` and :math:`60^\circ` east of south at
      :math:`C`. Prove that the shortest distant of the spire from the road is :math:`\frac{7 + 5\sqrt{3}}{13}` miles.
 
-234. :math:`A, B` and :math:`C` are the tops of posts of equal height at equal intervals by the side of a road and :math:`t` and
+233. :math:`A, B` and :math:`C` are the tops of posts of equal height at equal intervals by the side of a road and :math:`t` and
      :math:`t'` are the tangents of the angles which :math:`AB` and :math:`BC` subtend at any point :math:`P`. If :math:`T` is the
      tangent of the angle which the road makes with :math:`PB`, show that :math:`\frac{2}{T} = \frac{1}{t'} - \frac{1}{t}`.
 
-235. A boy standing :math:`C` meters behind and directly opposite the center of a football goal observes the angle of elevation of
+234. A boy standing :math:`C` meters behind and directly opposite the center of a football goal observes the angle of elevation of
      the nearer crossbar as :math:`\theta` and the angle of elevation of the farther end as :math:`\phi`. Show that length of the
      field is :math:`c(\tan\theta.\cot\phi - 1)` meters.
 
-236. A man walks in a horizontal circle round the foot of a pole which is inclined to the vertical. The foot of the pole is at the
+235. A man walks in a horizontal circle round the foot of a pole which is inclined to the vertical. The foot of the pole is at the
      center of the circle. The greatest and least angles which the pole subtends at his eyes are :math:`\tan^{-1}\frac{9}{5}` and
      :math:`\tan^{-1}\frac{6}{5}` respectively and when he is mid-way between the corresponding positions, the angle is
      :math:`\theta`. If the man's height be neglected, find the length of the pole.
 
-237. A bridge has :math:`5` equal spans, each of :math:`10` m, measured from the center of the piers, and a boat is moved in a line
+236. A bridge has :math:`5` equal spans, each of :math:`10` m, measured from the center of the piers, and a boat is moved in a line
      with one of the middle piers. The whole length of the bridge subtends a right angle as seen from the boat. Prove that the
      distance of the boat from the bridge is :math:`10\sqrt{6}` m.
 
-238. A person standing by rge side of a road observesa row of equidistant telephone poles of equal height. Neglecting the height of
+237. A person standing by rge side of a road observesa row of equidistant telephone poles of equal height. Neglecting the height of
      the person's eye the tenth and seventeenth poles subtend the same angles that they would do if they were in position of the
      first pole and were respectively, :math:`\frac{1}{2}` and :math:`\frac{1}{3}` of their height. Find, correct to one place of
      decimal, the secant of the angle between the base line of the poles and the line drawn friom the person's eye to the base of
