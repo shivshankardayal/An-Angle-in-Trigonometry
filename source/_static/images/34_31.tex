@@ -16,14 +16,14 @@ extra y tick labels={$-2$, $-1$, $1$, $2$},
 every extra x tick/.style={
     xticklabel style={anchor=north west},
     grid=major,
-    major grid style={thick,dashed,black}
+    major grid style={very thin,dashed,black}
 },
 axis lines = center,
 xlabel=$x$,ylabel=$y$,
 domain=-pi/2:pi/2,
 samples=200,
 ]
-\addplot [black] {sin(deg(x)) + cos(deg(x))};
+\addplot [black] {1/sqrt(2)(sin(deg(x)) + cos(deg(x)))};
 \node at (axis cs:0.2, -0.28) {$O$} ;
 \end{axis}
 \end{tikzpicture}

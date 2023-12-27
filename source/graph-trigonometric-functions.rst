@@ -90,8 +90,6 @@ Problems
 
 38. Shade the region enclosed by the curves :math:`y = \sqrt{5 - x^2}` and :math:`y = |x - 1|`.
 
-39. Shade the region enclosed by :math:`x\geq 0, y\geq 0, x^2 - 2y + y^2\leq 0` and :math:`y \leq \sec x`.
-
 Solutions
 =========
 1. First we create the table of values as given below (it is shown only for :math:`0^\circ` to
@@ -309,3 +307,131 @@ Solutions
 
     As we can see that there are three points of intersections so there will be three solutions of the given
     equation in the given range of :math:`x`.
+
+23. Given equation is :math:`\sin x = \frac{x}{100}`. Let :math:`y = \sin x = \frac{x}{100}`. When :math:`x
+    = 0, y = 0` and when :math:`x = 1, y = 0.01`.
+
+    :math:`\because -1\leq \sin x\leq 1 \Rightarrow -1\leq \frac{x}{100}\leq 1 \Rightarrow -100\leq x\leq
+    100`
+
+    :math:`\Rightarrow -31.8\pi\leq x\leq 31.8x` (approx.). Hence, the interval for :math:`x` will be
+    between :math:`-31.8\pi` to :math:`31.8\pi`.
+
+    .. image:: _static/images/34_23.webp
+       :alt: Plot of sin x and x/100
+       :align: center
+
+    By looking at figure we can deduce that total no. of solutions would be :math:`63`. :math:`31` of these
+    will be for :math:`x < 0, 31` for :math:`x > 0` and one solution for :math:`x = 0`.
+
+24. We have to find no. of solutions for :math:`e^x = x^2` so we plot :math:`y = e^x` and :math:`y = x^2`.
+
+    .. image:: _static/images/34_24.webp
+       :alt: Plot of e^x and x^2
+       :align: center
+
+    By looking at the graph it is clear that we will have only one solution for :math:`x < 0`.
+
+25. We have to find no. of solutions for :math:`\log_{10}x = \sqrt{x}` so we plot :math:`y = \log_{10}x` and
+    :math:`y = \sqrt{x}`.
+
+    .. image:: _static/images/34_25.webp
+       :alt: Plot of \log x and sqrt(x)
+       :align: center
+
+    By looking at the graph it is clear that we will have no solution for :math:`x > 0`.
+
+26. Given equation is :math:`\tan x - x = \frac{1}{2} \Rightarrow \tan x = x + \frac{1}{2}`. So we plot for
+    :math:`y = \tan x` and :math:`y = x + \frac{1}{2}`
+
+    .. image:: _static/images/34_26.webp
+       :alt: Plot of tan x and x + 1/2
+       :align: center
+
+    By looking at the graph we can deduce that there is one solution for :math:`x` between :math:`\pi/4` and
+    :math:`\pi/2`.
+
+27. Given below is the plot of :math:`y = x + \cos x` for :math:`0\leq x\leq 2\pi`.
+
+    .. image:: _static/images/34_27.webp
+       :alt: Plot of x + cos x
+       :align: center
+
+28. Given below is the graph of :math:`y = \sin \left(3x + \frac{\pi}{4}\right)`
+
+    .. image:: _static/images/34_28.webp
+       :alt: Plot of sin(3x + pi/4)
+       :align: center
+
+29. Given below is the graph of :math:`y = \tan\frac{x}{2}`
+
+    .. image:: _static/images/34_29.webp
+       :alt: Plot of tan x/2
+       :align: center
+
+30. Given below is the graph of :math:`y = \sin x + \cos x`
+
+    .. image:: _static/images/34_30.webp
+       :alt: Plot of sin x + cos x
+       :align: center
+
+31. Given below is the graph of :math:`y = \frac{1}{\sqrt{2}}(\sin x + \cos x)`
+
+    .. image:: _static/images/34_31.webp
+       :alt: Plot of 1/sqrt(2)(sin x + cos x)
+       :align: center
+
+32. We plot both :math:`y = x` and :math:`y = \cos x` as shown below:
+
+    .. image:: _static/images/34_32.webp
+       :alt: Plot of cos x and x
+       :align: center
+
+    As we see that there is one point of intersection between :math:`y = \cos x` and :math:`y = x` so we
+    conclude that there is one solution for :math:`x = \cos x` for :math:`0\leq x\leq\frac{\pi}{2}`.
+
+33. We plot both :math:`y = \sin x` and :math:`y = \cos x` as shown below:
+
+    .. image:: _static/images/34_33.webp
+       :alt: Plot of cos x and sin x
+       :align: center
+
+    As we see that there is one point of intersection between :math:`y = \cos x` and :math:`y = \sin x` so we
+    conclude that there is one solution for :math:`\sin x = \cos x` for :math:`0\leq x\leq\frac{\pi}{2}`.
+
+34. We plot both :math:`y = \tan x` and :math:`y = x` as shown below:
+
+    .. image:: _static/images/34_34.webp
+       :alt: Plot of tan x and x
+       :align: center
+
+    As we see that there is one point of intersection between :math:`y = \tan x` and :math:`y = x` so we
+    conclude that there is one solution for :math:`x = \tan x` for :math:`0\leq x\leq\frac{\pi}{2}`.
+
+35. We plot both :math:`y = \tan x` and :math:`y = 1` as shown below:
+
+    .. image:: _static/images/34_35.webp
+       :alt: Plot of tan x and y = 1
+       :align: center
+
+    As we see that there is one point of intersection between :math:`y = \tan x` and :math:`y = 1` so we
+    conclude that there is one solution for :math:`1 = \tan x` for :math:`0\leq x\leq\frac{\pi}{2}`.
+
+36. We plot both :math:`y = \sin^2x` and :math:`y = \cos x` as shown below:
+
+    .. image:: _static/images/34_36.webp
+       :alt: Plot of cos x and sin^2x
+       :align: center
+
+    As we see that there is one point of intersection between :math:`y = \cos x` and :math:`y = \sin^2x` so we
+    conclude that there is one solution for :math:`\sin^2x = \cos x` for :math:`0\leq x\leq\frac{\pi}{2}`.
+
+37. This problem has same equation as :math:`21` just the range is different so it can be solved with a
+    similar graph.
+
+38. :math:`y = |x - 1|` implies :math:`y = x - 1` when :math:`x \geq 1` ad :math:`y = 1 - x` when :math:`x <
+    1`. So we plot the two lines and the curve :math:`y = \sqrt{5 - x^2}`.
+
+    .. image:: _static/images/34_38.webp
+       :alt: Plot of x^2 + y^2 = 5 and |x - 1|
+       :align: center
