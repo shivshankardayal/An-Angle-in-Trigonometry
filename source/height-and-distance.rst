@@ -930,8 +930,8 @@ Problems
      :math:`D`? (:math:`\sin25^\circ = 0.423`)
 
 219. A train is moving at a constant speed at an angle :math:`\theta` east of north. Observations of the train are made from a
-     fixed point. It is due north at some instant. Ten minutes earlier its bearing is :math:`\alpha_2` east of north. Find
-     :math:`\tan\theta`.
+     fixed point. It is due north at some instant. Ten minutes earlier its bearing was :math:`\alpha_1` west of north whereas
+     ten minutes afterwards its nearing is :math:`\alpha_2` east of north. Find :math:`\tan\theta`.
 
 220. A man walks in a horizontal circle round the foot of a flag staff, which is inclined to the vertical, the foot of the flag
      staff being the center of the circle. The greatest and least angles which the flag staff subtends at his eyes are
@@ -968,55 +968,3 @@ Problems
      :math:`A, B, C` of a triangle :math:`ABC` which is in a horizontal plane; the depths of a stratum at these points are found to
      be :math:`x, x + y` and :math:`x + z` respectively. Show that the dip :math:`\theta` of the stratum which is assumed to be a
      plane is given by :math:`\tan\theta\sin A = \sqrt{\frac{y^2}{c^2} + \frac{z^2}{b^2} - \frac{2yz}{bc}\cos A}`.
-
-227. Two lines of rails make an angle of :math:`75^\circ` with one another. They are to be connected by a circular arc of central
-     angle :math:`105^\circ`. A straight path of length :math:`800` meters passes from one set of rails to the other and makes an
-     angle :math:`30^\circ` with one set. Find the length of the circular rail wanted if the path is to be just avoided.
-
-228. A gun is fired from a fort :math:`F` at a distance :math:`d` from a station :math:`O` and from two stations :math:`A` and
-     :math:`B` in a straight line with :math:`O` and at a distance :math:`a` and :math:`b` respectively from :math:`O`. The
-     intervals between seeing the flash and hearing the reports are :math:`t` and :math:`t_1`. Show that the velocity of sound is
-     :math:`\sqrt{\frac{(d^2 - ab)(a - b)}{at_1^2 - bt^2}}`.
-
-229. A tunnel is to be bored from :math:`A` to :math:`B`, which are two places on the opposite sides of a mountain. From :math:`A`
-     and :math:`B` the elevation of a distant point :math:`C` are found to be :math:`\alpha` and :math:`\beta` and the angle
-     :math:`ACB` is found to be :math:`\gamma`. Also the length :math:`AC` and :math:`BC` are known to be :math:`a` and
-     :math:`b`. Show that the height (:math:`h`) of :math:`B` above :math:`A` is :math:`a\sin\alpha - b\sin\beta`, and that the
-     length (:math:`l`) of :math:`AB` is :math:`\sqrt{a^2 + b^2 - 2ab\cos\gamma}`.
-
-230. An observer looking up the line of greatest slope of an inclined plane sees a vertical tower due east of him. He walks
-     :math:`l` meters up the plane in a direction :math:`\alpha` north of east and has then reached the level of the foot of the
-     tower and finds its elevation as :math:`\beta`. The plane makes an angle :math:`\gamma` with the horizontal. Show that the
-     height of the tower is :math:`\frac{l\tan\beta\cos\gamma}{\sqrt{\cot^2\alpha + \cos^2\gamma}}`.
-
-231. Observations made to estimate the radius of the moon have shown that the semi-vertical angle of the tangential cone, drawn
-     with vertex at the observer :math:`O` and touching the rim of the moon is :math:`\frac{1}{4}` of a degree. Use this
-     information to determine the radius of the moon, given the distance of the center of the moon from the observer :math:`O` is
-     :math:`584,000` kms (for small angles :math:`\sin\theta` is the same angle as angle :math:`\theta` measured in radians).
-
-232. :math:`A, B` and :math:`C` are three consecutive milestones on a straight road from each of which a distant spire is
-     visible. The spire is observed to bear north-east at :math:`A`, east at :math:`B` and :math:`60^\circ` east of south at
-     :math:`C`. Prove that the shortest distant of the spire from the road is :math:`\frac{7 + 5\sqrt{3}}{13}` miles.
-
-233. :math:`A, B` and :math:`C` are the tops of posts of equal height at equal intervals by the side of a road and :math:`t` and
-     :math:`t'` are the tangents of the angles which :math:`AB` and :math:`BC` subtend at any point :math:`P`. If :math:`T` is the
-     tangent of the angle which the road makes with :math:`PB`, show that :math:`\frac{2}{T} = \frac{1}{t'} - \frac{1}{t}`.
-
-234. A boy standing :math:`C` meters behind and directly opposite the center of a football goal observes the angle of elevation of
-     the nearer crossbar as :math:`\theta` and the angle of elevation of the farther end as :math:`\phi`. Show that length of the
-     field is :math:`c(\tan\theta.\cot\phi - 1)` meters.
-
-235. A man walks in a horizontal circle round the foot of a pole which is inclined to the vertical. The foot of the pole is at the
-     center of the circle. The greatest and least angles which the pole subtends at his eyes are :math:`\tan^{-1}\frac{9}{5}` and
-     :math:`\tan^{-1}\frac{6}{5}` respectively and when he is mid-way between the corresponding positions, the angle is
-     :math:`\theta`. If the man's height be neglected, find the length of the pole.
-
-236. A bridge has :math:`5` equal spans, each of :math:`10` m, measured from the center of the piers, and a boat is moved in a line
-     with one of the middle piers. The whole length of the bridge subtends a right angle as seen from the boat. Prove that the
-     distance of the boat from the bridge is :math:`10\sqrt{6}` m.
-
-237. A person standing by rge side of a road observesa row of equidistant telephone poles of equal height. Neglecting the height of
-     the person's eye the tenth and seventeenth poles subtend the same angles that they would do if they were in position of the
-     first pole and were respectively, :math:`\frac{1}{2}` and :math:`\frac{1}{3}` of their height. Find, correct to one place of
-     decimal, the secant of the angle between the base line of the poles and the line drawn friom the person's eye to the base of
-     the first pole.

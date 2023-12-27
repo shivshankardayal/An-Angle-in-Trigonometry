@@ -42,6 +42,8 @@ An Angle in Trigonometry
    height-and-distance-solutions-part3
    height-and-distance-solutions-part4
    height-and-distance-solutions-part5
+   periodicity-trigonometric-functions
+   graph-trigonometric-functions
 
 
 Indices and tables

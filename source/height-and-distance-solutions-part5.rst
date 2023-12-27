@@ -386,3 +386,269 @@ Height and Distance Solutions Part 5
      isoscelels triangle. Let :math:`AD = CD = x`.
 
      In :math:`\triangle BCD, \tan25^\circ = \frac{2}{x} \Rightarrow x = 2\cot25^\circ = 4.28` km.
+
+219. The diagram is given below:
+
+     .. image:: _static/images/28_219.webp
+        :alt: 219th problem
+        :align: center
+
+     Let the train move along the line :math:`PQ`. The train is at :math:`O` at some instant. :math:`A` is
+     the observation point. Ten minutes earlier let the train position be :math:`P` and ten minutes
+     afterwards let the train be at :math:`Q`.
+
+     According to question, :math:`\angle OAP = \alpha_1, \angle OAQ = \alpha_2, \angle NOQ = \theta`. Hence
+     :math:`\angle POA = \theta`.
+
+     Since the speed of the train is constant :math:`\therefore OP = OQ`
+
+     Applying :math:`m:n` rule in :math:`\triangle PAQ, (1 + 1)\cot\theta = \cot\alpha_2 - \cot\alpha_1`
+
+     :math:`\Rightarrow \cot\theta = \frac{\cot\alpha_2 - \cot\alpha_1}{2}`
+
+     :math:`\Rightarrow \tan\theta = \frac{2\sin\alpha_1\sin\alpha_2}{\sin(\alpha_1 - \alpha_2)}`
+
+220. The diagram is given below:
+
+     .. image:: _static/images/28_220.webp
+        :alt: 220th problem
+        :align: center
+
+     Let :math:`OP` be the flag-staff and that the man walk along the horizontal circle. Clearly, the
+     flag-staff will subtend the greatest and least angles when the man is at :math:`A` and :math:`B`
+     respectively. Let :math:`C` be the mid-point of the arc :math:`ACB`. According to question,
+     :math:`\angle PAO = \alpha, \angle PBO = \beta, \angle PCO = \theta`. Clearly, :math:`\angle POC =
+     90^\circ`. Let :math:`OP = h, \angle POD = \phi`.
+
+     Also, :math:`OA = OB = OC = r` where :math:`r` is the radius of the circle.
+
+     In :math:`\triangle PDO, \sin\phi = \frac{PD}{OP} \Rightarrow PD = h\sin\phi`
+
+     :math:`\cos\phi = \frac{OD}{OP} \Rightarrow OD = h\cos\phi`
+
+     :math:`\therefore BD = r + h\cos\phi` and :math:`AD = r - h\cos\phi`
+
+     In :math:`\triangle POC, \tan\theta = \frac{h}{r} \Rightarrow h = r\tan\theta`
+
+     In :math:`\triangle PDA, \tan\alpha = \frac{PD}{AD} = \frac{h\sin\phi}{r - h\cos\phi} =
+     \frac{r\tan\theta\sin\phi}{r - r\tan\theta\cos\phi}`
+
+     :math:`\Rightarrow \tan\alpha = \frac{\tan\theta\sin\phi}{1 - \tan\theta\cos\phi}`
+
+     :math:`\Rightarrow \tan\theta\sin\phi = \tan\alpha - \tan\alpha\tan\theta\cos\phi`
+
+     In :math:`\triangle PDB, \tan\beta = \frac{h\sin\phi}{r + h\cos\phi} = \frac{r\tan\theta\sin\phi}{r +
+     r\tan\theta\cos\phi}`
+
+     :math:`\Rightarrow \tan\beta = \frac{\tan\theta\sin\phi}{1 + \tan\theta\cos\phi}`
+
+     :math:`\Rightarrow \tan\theta\sin\phi = \tan\beta + \tan\beta\tan\theta\cos\phi`
+
+     :math:`\Rightarrow \tan\alpha - \tan\alpha\tan\theta\cos\phi = \tan\beta + \tan\beta\tan\theta\cos\phi`
+
+     :math:`\Rightarrow \tan\alpha - \tan\beta = \tan\theta\cos\phi(\tan\alpha + \tan\beta)`
+
+     Also, :math:`1 - \tan\theta\cos\phi = \frac{\tan\theta\sin\phi}{\tan\alpha}`
+
+     and :math:`1 + \tan\theta\cos\phi = \frac{\tan\theta\sin\phi}{\tan\beta}`
+
+     :math:`\Rightarrow 2 = \tan\theta\sin\phi\left(\frac{1}{\tan\alpha} + \frac{1}{\tan\beta}\right)`
+
+     :math:`\Rightarrow 2\tan\alpha\tan\beta = \tan\theta\sin\phi(\tan\alpha + \tan\beta)`
+
+     :math:`\Rightarrow (\tan\alpha - \tan\beta)^2 + 4\tan^2\alpha\tan^2\beta = \tan^2\theta(\tan\alpha +
+     \tan\beta)^2`
+
+     :math:`\Rightarrow \tan^2\theta\left[\frac{\sin\alpha}{\cos\alpha} +
+     \frac{\sin\beta}{\cos\beta}\right]^2 = \left(\frac{\sin\alpha}{\cos\alpha} -
+     \frac{\sin\beta}{\cos\beta}\right)^2 + \frac{4\sin^2\alpha\sin^2\beta}{\cos^2\alpha\cos^2\beta}`
+
+     :math:`\Rightarrow \tan^2\theta\frac{\sin^2(\alpha + \beta)}{\cos^2\alpha\cos^2\beta} =
+     \frac{\sin^2(\alpha - \beta) + 4\sin^2\alpha\sin^2\beta}{\cos^2\alpha\cos^2\beta}`
+
+     :math:`\Rightarrow \tan\theta = \frac{\sqrt{\sin^2(\alpha - \beta) +
+     4\sin^2\alpha\sin^2\beta}}{\sin(\alpha + \beta)}`
+
+221. The diagram is given below:
+
+     .. image:: _static/images/28_221.webp
+        :alt: 221st problem
+        :align: center
+
+     Let :math:`O` be the position of the observer. :math:`PRQS` is the horizontal circle in which the bird
+     is flying. :math:`P` and :math:`Q` are the two extremes and :math:`R` is the mid point of the arc of
+     the circle. :math:`P'R'Q'S` is the vertical projection of the ground. :math:`C` is the center of the
+     circle :math:`PRQS`.
+
+     According to the question, :math:`\angle POP'' = 60^\circ, \angle QOQ' = 30^\circ, \angle ROP'=
+     \theta`.
+
+     Also, let :math:`PP' = QQ' = RR' = h, r` be the radius of the horizontal circle and :math:`OP' = z`.
+
+     In :math:`\triangle PP'O, \tan60^\circ = \sqrt{3} = \frac{PP'}{OP'} = \frac{h}{z} \Rightarrow h =
+     \sqrt{3}z`
+
+     In :math:`\triangle QOQ', \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{h}{z + 2r} \Rightarrow z + 2r =
+     \sqrt{3}h`
+
+     :math:`\Rightarrow z + 2r = \sqrt{3}\sqrt{3}z \Rightarrow z = r`
+
+     In :math:`\triangle ROR', \tan\theta = \frac{h}{OR'} = \frac{h}{\sqrt{OC^2 + C'R'^2}} =
+     \frac{h}{\sqrt{(z + r)^2 + r^2}} = \frac{\sqrt{3}r}{\sqrt{(r + r)^2 + r^2}} = \sqrt{\frac{3}{5}}`
+
+     :math:`\Rightarrow \tan^2\theta = \frac{3}{5}`
+
+222. The diagram is given below:
+
+     .. image:: _static/images/28_222.webp
+        :alt: 222nd problem
+        :align: center
+
+     Let :math:`O` be the position of the observer and :math:`OPQ` be the horizontal line through :math:`O`
+     meeting the hill at :math:`P` and the vertical through the center :math:`C` of the sphere at :math:`Q`.
+
+     Let :math:`OA` be the tangent to the sphere from :math:`O` touching it at :math:`A`. According to
+     question, :math:`\angle AOQ = \beta, \angle QPC = 90^\circ - \alpha, \angle ACN = \beta`. Let :math:`r`
+     be the radius of the hill. Draw :math:`AM\perp OQ` and :math:`AN\perp CR`.
+
+     In :math:`\triangle AMO, \tan\beta = \frac{AM}{OM} = \frac{QN}{OP + PM} = \frac{QN}{OP + PQ - MQ}`
+
+     :math:`= \frac{CN - CQ}{OP + PQ - MQ}`
+
+     :math:`\Rightarrow \frac{\sin\beta}{\cos\beta} = \frac{r\cos\beta - r\cos\alpha}{a + r\sin\alpha -
+     r\sin\beta} [\because MQ = AN]`
+
+     :math:`\Rightarrow a\sin\beta + r\sin\beta(\sin\alpha - \sin\beta) = r\cos\beta(\cos\beta -
+     \cos\alpha)`
+
+     :math:`\Rightarrow a\sin\beta = r[1 - \cos(\alpha - \beta)]`
+
+     :math:`\Rightarrow r = \frac{a\sin\beta}{2\sin^2\frac{\alpha - \beta}{2}}`
+
+     Height of the hill above the plane :math:`= OR = CR _ CQ = r - r\cos\alpha = 2r\sin^2\frac{\alpha}{2}`
+
+     :math:`= \frac{a\sin\beta\sin^2\frac{\alpha}{2}}{\sin^2\frac{\alpha - \beta}{2}}`
+
+223. The diagram is given below:
+
+     .. image:: _static/images/28_223.webp
+        :alt: 223rd problem
+        :align: center
+
+     Let :math:`O` be the center of the sphere and :math:`r` be its radius. Given, :math:`\angle PAM =
+     \theta, \angle PBM = \phi, CA = a, CB = b`
+
+     Let :math:`\angle DOC = \beta`
+
+     In :math:`\triangle PMA, \tan\theta = \frac{PM}{AM} = \frac{DN}{AC + CM} = \frac{ON _ OD}{AC + DC -
+     DM}`
+
+     :math:`\Rightarrow \frac{\sin\theta}{\cos\theta} = \frac{r\cos\theta - r\cos\beta}{a + r\sin\beta -
+     r\sin\theta} [\because DM = NP]`
+
+     Proceeding like previous problem :math:`a\sin\beta = r[1 - \cos(\theta - \beta)]`
+
+     :math:`\Rightarrow 2r\sin^2\frac{\theta - \beta}{2} = 2a\sin\frac{\theta}{2}\cos\frac{\theta}{2}`
+
+     :math:`\Rightarrow \sqrt{r}\sin\frac{\theta - \beta}{2} =
+     \sqrt{a\sin\frac{\theta}{2}\cos\frac{\theta}{2}}`
+
+     :math:`\Rightarrow \sqrt{r}\frac{\left[\sin\frac{\theta}{2}\cos\frac{\beta}{2} -
+     \cos\frac{\theta}{2}\sin\frac{\beta}{2}\right]}{\sin\frac{\theta}{2}} =
+     \frac{\sqrt{a\sin\frac{\theta}{2}\cos\frac{\theta}{2}}}{\sin\frac{\theta}{2}}`
+
+     :math:`\Rightarrow \sqrt{r}\left[\cos\frac{\beta}{2} - \cot\frac{\theta}{2}\sin\frac{\beta}{2}\right] =
+     \sqrt{a\cot\frac{\theta}{2}}`
+
+     Similarly, :math:`\sqrt{r}\left[\cos\frac{\beta}{2} - \cot\frac{\phi}{2}\sin\frac{\beta}{2}\right] =
+     \sqrt{b\cos\frac{\phi}{2}}`
+
+     Subtracting, we get :math:`\sqrt{r}\sin\frac{\beta}{2}\left[\cot\frac{\theta}{2} -
+     \cot\frac{\phi}{2}\right] = \sqrt{b\cos\frac{\phi}{2}} - \sqrt{a\cot\frac{\theta}{2}}`
+
+     Height of the hill :math:`DR = OR - OD = r - r\cos\beta = 2r\sin^2\frac{\beta}{2}`
+
+     :math:`= 2\left[\frac{\sqrt{b\cos\frac{\phi}{2}} - \sqrt{a\cot\frac{\theta}{2}}}{\cot\frac{\theta}{2} -
+     \cot\frac{\phi}{2}}\right]^2`
+
+224. The diagram is given below:
+
+     .. image:: _static/images/28_224.webp
+        :alt: 224th problem
+        :align: center
+
+     Let :math:`O` be the center of the hemisphere and :math:`PQ` is the flag-staff. Given, :math:`OP = OR =
+     r, AB = d`.
+
+     In :math:`\triangle ORB, \cos45^\circ = \frac{r}{OB} \Rightarrow OB = \sqrt{2}r`
+
+     In :math:`\triangle QOA, \tan30^\circ = \frac{1}{\sqrt{3}} = \frac{OQ}{OA} = \frac{h + r}{\sqrt{2}r + d}`
+
+     :math:`\Rightarrow h + r = \frac{\sqrt{2}r + d}{\sqrt{3}}`
+
+     In :math:`\triangle QOB, \tan45^\circ = 1 = \frac{OQ}{OB} \Rightarrow h + r = \sqrt{2}r`
+
+     :math:`\Rightarrow \sqrt{2}r = \frac{\sqrt{2}r + d}{\sqrt{3}}`
+
+     :math:`\Rightarrow (\sqrt{6} - \sqrt{2})r = d \Rightarrow r = \frac{\sqrt{3} + 1}{2\sqrt{2}}d`
+
+     :math:`\Rightarrow h = (\sqrt{2} - 1)r = \frac{(\sqrt{2} - 1)(\sqrt{3} + 1)}{2\sqrt{2}}d`
+
+225. The diagram is given below:
+
+     .. image:: _static/images/28_225.webp
+        :alt: 225th problem
+        :align: center
+
+     Let the direction in which man starts walking be the :math:`x`-axis. From question :math:`OA = AB = BC
+     = a`.
+
+     Let coordinate of last point be :math:`(X, Y)` then :math:`X = a + a\cos\alpha + a\cos2\alpha + \cdots`
+     up to :math:`n` terms
+
+     :math:`= a.\frac{\cos(n - 1)\frac{\alpha}{2}\sin\frac{n\alpha}{2}}{\sin\frac{\alpha}{2}}`
+
+     :math:`Y = 0 + a\sin\alpha + a\sin2\alpha + \cdots` up to :math:`n` terms
+
+     :math:`= a\left[\frac{\sin(n - 1)\frac{\alpha}{2}\sin\frac{n\alpha}{2}}{\sin\frac{\alpha}{2}}\right]`
+
+     Distance from the starting point :math:`= \sqrt{X^2 + Y^2} =
+     \frac{a\sin\frac{n\alpha}{2}}{\sin\frac{\alpha}{2}}`
+
+     Let :math:`\theta` be the angle which this distance makes with :math:`x`-axis. Then
+
+     :math:`\tan\theta = \frac{Y}{X} = \tan(n - 1)\frac{\alpha}{2} \Rightarrow \theta = (n -
+     1)\frac{\alpha}{2}`
+
+226. The diagram is given below:
+
+     .. image:: _static/images/28_226.webp
+        :alt: 226th problem
+        :align: center
+
+     Let :math:`ABC` be the horizontal triangle. :math:`A'B'` represents the stratum of coal. Suppose this
+     startus meets the horizontal plane in line :math:`DD'`. Let :math:`\theta` be the angle between the
+     horizontal and the stratum of the coal.
+
+     Clearly, :math:`\angle ADA' = \theta`. According to question, :math:`AA' = x, BB' = x + y` and
+     :math:`CC' = x + z`.
+
+     In :math:`\triangle AA'D, \tan\theta = \frac{AA'}{AD} \Rightarrow x = AD\tan\theta`
+
+     In :math:`\triangle BB'D, \tan\theta = \frac{BB'}{BD} \Rightarrow x + y = (AD + AB)\tan\theta`
+
+     :math:`\Rightarrow x + z = (AD + c)\tan\theta`
+
+     In :math:`\triangle CC'D, \tan\theta = \frac{CC'}{CD'} \Rightarrow x + z = (AD + b\cos A)\tan]\theta`
+
+     :math:`\Rightarrow y = c\tan\theta \Rightarrow \frac{y}{c} = \tan\theta` and :math:`z = b\cos
+     A\tan\theta \Rightarrow \frac{z}{b} = \cos A\tan\theta`
+
+     Now, :math:`\frac{y^2}{c^2} + \frac{z^2}{b^2} - \frac{2yz}{bc}\cos A = \frac{y^2}{c_2}\sin^2A +
+     \frac{y^2}{c^2}\cos^2A + \frac{z^2}{b^2} - \frac{2yz}{bc}\cos A`
+
+     :math:`= \frac{y^2}{c^2}\sin^2A + \left(\frac{y}{c}\cos A - \frac{z}{b}\right)^2`
+
+     :math:`= \tan^2\theta\sin^2A + (\tan\theta\cos A - \cos A\tan\theta)^2 = \tan^2\theta\sin^2A`
+
+     :math:`\Rightarrow \tan\theta\sin A = \sqrt{\frac{y^2}{c^2} + \frac{z^2}{b^2} - \frac{2yz}{bc}\cos A}`
