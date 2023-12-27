@@ -204,3 +204,108 @@ Solutions
    .. image:: _static/images/34_7.webp
       :alt: Plot of :math:`\sin x + \cos x`
       :align: center
+
+8. The plot of :math:`y = x + \sin x` is given below:
+
+   .. image:: _static/images/34_8.webp
+      :alt: Plot of :math:`x + \sin x`
+      :align: center
+
+9. The plot of :math:`y = 2\sin2x` is given below:
+
+   .. image:: _static/images/34_9.webp
+      :alt: Plot of :math:`2\sin2x`
+      :align: center
+
+10. :math:`y = a^x, a > 0` will have two different plots. First plot is for :math:`a > 1` and second plot is
+    for :math:`0 < a < 1`.
+
+    .. image:: _static/images/34_10.webp
+       :alt: Plot of :math:`a^x`
+       :align: center
+
+    .. image:: _static/images/34_10_1.webp
+       :alt: Plot of :math:`a^x`
+       :align: center
+
+11. The plot of :math:`y = e^x` is given below:
+
+    .. image:: _static/images/34_11.webp
+       :alt: Plot of :math:`e^x`
+       :align: center
+
+12. The plot of :math:`y = \log_ex` is given below:
+
+    .. image:: _static/images/34_12.webp
+       :alt: Plot of :math:`\log_ex`
+       :align: center
+
+13. The plot of :math:`y = \sin2x` is given below:
+
+    .. image:: _static/images/34_13.webp
+       :alt: Plot of :math:`\sin2x`
+       :align: center
+
+14. The plot of :math:`y = \cos x - \sin x` is given below:
+
+    .. image:: _static/images/34_14.webp
+       :alt: Plot of :math:`\cos x - \sin x`
+       :align: center
+
+15. The plot of :math:`y = |\sin x|` is given below:
+
+    .. image:: _static/images/34_15.webp
+       :alt: Plot of :math:`|\sin x|`
+       :align: center
+
+16. The plot of :math:`y = |\cos x|` is given below:
+
+    .. image:: _static/images/34_16.webp
+       :alt: Plot of :math:`|\cos x|`
+       :align: center
+
+17. The plot of :math:`y = |\tan x|` is given below:
+
+    .. image:: _static/images/34_17.webp
+       :alt: Plot of :math:`|\tan x|`
+       :align: center
+
+18. The plot of :math:`y = |\cot x|` is given below:
+
+    .. image:: _static/images/34_18.webp
+       :alt: Plot of :math:`|\cot x|`
+       :align: center
+
+19. The plot of :math:`y = |\sec x|` is given below:
+
+    .. image:: _static/images/34_19.webp
+       :alt: Plot of :math:`|\sec x|`
+       :align: center
+
+20. The plot of :math:`y = |\cosec x|` is given below:
+
+    .. image:: _static/images/34_20.webp
+       :alt: Plot of :math:`|\cosec x|`
+       :align: center
+
+21. We have to find number of solutions for :math:`\tan x = x + 1` for :math:`-\frac{\pi}{2}\leq x\leq
+    2\pi`. So we plot both :math:`y = \tan x` and :math:`y = x + 1` and no. of  intersections will be no. of
+    solutions.
+
+    .. image:: _static/images/34_21.webp
+       :alt: Plot of tan x and x + 1
+       :align: center
+
+    As we can see that there are two points of intersections so there will be two solutions of the given
+    equation in the given range of :math:`x`.
+
+22. Given equation is :math:`x + 2\tan x = \frac{\pi}{2} \Rightarrow \tan x = \frac{\pi}{4} -
+    \frac{x}{2}`. So we plot for :math:`y = \tan x` and :math:`y = \frac{\pi}{4} - \frac{x}{2}` in the range
+    of :math:`[0, 2\pi]`.
+
+    .. image:: _static/images/34_22.webp
+       :alt: Plot of tan x and \pi/4 - x/2
+       :align: center
+
+    As we can see that there are three points of intersections so there will be three solutions of the given
+    equation in the given range of :math:`x`.
